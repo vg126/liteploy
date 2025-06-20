@@ -1,0 +1,1085 @@
+[
+  {
+    "input": "The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunal's primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international community's interest in prosecution may transcend purely national considerations.",
+    "output": "considerations purely national transcend may prosecution in interest community international the as prosecute to able and willing systems national when even administered be can justice international ensures primacy Tribunal's the Rather. sense technical the in jurisdiction of conflict a create not does law humanitarian international of violations serious over courts national and Tribunal International the of jurisdiction concurrent The",
+    "technique": "Melodic Retrograde (Music)",
+    "application_steps": [
+      "Step 1: Tokenize the input into individual words and punctuation tokens.",
+      "Step 2: Reverse the sequence of tokens to form the retrograde melody.",
+      "Step 3: Reassemble tokens into a single string, preserving end-of-sentence punctuation."
+    ]
+  },
+  {
+    "input": "The Special Panels' jurisdiction over serious crimes committed in East Timor during 1999 operates alongside the continuing jurisdiction of Indonesian courts over the same events. This concurrent jurisdiction requires careful coordination to avoid conflicting proceedings, though no formal primacy relationship exists between the Special Panels and Indonesian courts, unlike the relationship between ad hoc tribunals and national jurisdictions.",
+    "output": "Stage 1: Identify overlapping jurisdiction of Special Panels and Indonesian courts. Stage 2: Map out coordination tasks to avoid conflict. Stage 3: Execute coordination. Stage 4: Confirm no formal primacy link.",
+    "technique": "Pipeline (Concurrency)",
+    "application_steps": [
+      "Step 1: Extract sequential actions described in the input.",
+      "Step 2: Label each action as a pipeline stage.",
+      "Step 3: Format stages as a linear pipeline from identification to confirmation."
+    ]
+  },
+  {
+    "input": "The Prosecution submits that Rwanda's national legal system has undergone substantial reforms since the establishment of the ICTR, including the creation of specialized chambers and the abolition of the death penalty. These reforms, combined with Rwanda's demonstrated commitment to fair-trial standards and adequate witness protection measures, satisfy the requirements for referral under Rule 11bis of the Rules of Procedure and Evidence.",
+    "output": "Rwanda scrapped the death penalty and built special courts. They slapped on token trial guarantees and ‘witness protection’ labels. These half-hearted reforms barely clear the Rule 11bis referral bar.",
+    "technique": "Euphemism Elimination (Post-Colonial Discourse)",
+    "application_steps": [
+      "Step 1: Locate indirect or sanitized phrases like \"underwent substantial reforms\" and \"demonstrated commitment\".",
+      "Step 2: Replace them with blunt, literal descriptions (e.g., \"scrapped the death penalty,\" \"slapped on token trial guarantees\").",
+      "Step 3: Ensure the Rule 11bis referral requirement remains explicitly cited."
+    ]
+  },
+  {
+    "input": "The Defense submits that the International Tribunal's assertion of jurisdiction violates the principle of complementarity as understood in customary international law. While acknowledging that the ICTY Statute grants primacy to the International Tribunal, the Defense argues that this primacy should not be exercised where national courts have already commenced genuine proceedings, as this undermines the sovereignty and judicial integrity of the territorial state.",
+    "output": "pointcut(\"jurisdictionConflict\") {\n  \"The Tribunal's assertion of jurisdiction violates complementarity when national courts have genuine proceedings, undermining state sovereignty and judicial integrity.\"\n}",
+    "technique": "Pointcut Definition (Aspect-Oriented Programming)",
+    "application_steps": [
+      "Step 1: Isolate the core assertion about jurisdiction conflict from the input.",
+      "Step 2: Encapsulate it within a pointcut named \"jurisdictionConflict\".",
+      "Step 3: Format using AOP syntax: pointcut(\"jurisdictionConflict\") { ... }."
+    ]
+  },
+  {
+    "input": "The Government of Sierra Leone respectfully requests that the Special Court exercise its primacy jurisdiction over cases involving senior members of the Armed Forces Revolutionary Council and the Revolutionary United Front. The Government acknowledges that while Sierra Leone's Truth and Reconciliation Commission has examined these events, criminal prosecution by national courts would not adequately address the gravity of the crimes or satisfy the victims' right to justice.",
+    "output": "Criminal prosecution by national courts would not adequately address the gravity of the crimes or satisfy the victims' right to justice, the Government acknowledges after the Truth and Reconciliation Commission's review. The Government of Sierra Leone respectfully requests that the Special Court exercise its primacy jurisdiction over senior members of the Armed Forces Revolutionary Council and the Revolutionary United Front.",
+    "technique": "Rhythmic Displacement (Music)",
+    "application_steps": [
+      "Step 1: Split the text into rhythmic units (sentences or clauses).",
+      "Step 2: Shift the order of these units, placing the consequence clause first.",
+      "Step 3: Reassemble the units in the new order, preserving word order within each."
+    ]
+  }
+]
+[
+  {
+    "input": "The gravity threshold in Article 17(1)(d) of the Rome Statute serves as an additional admissibility criterion, distinct from the complementarity assessment. This threshold ensures that the Court focuses its limited resources on the most serious crimes of concern to the international community. The Court's jurisprudence has identified several factors relevant to the gravity assessment, including the scale, nature, manner of commission, and impact of the crimes, as well as the role of the alleged perpetrator.",
+    "output": "The gravity threshold in Article 17(1)(d) of the Rome Statute serves as an additional admissibility criterion, distinct from the complementarity assessment. This threshold ensures that the Court focuses its limited resources on the most serious crimes of concern to the international community. The Court's jurisprudence has identified several factors relevant to the gravity assessment, including the scale, nature, manner of commission, and impact of the crimes, as well as the role of the alleged perpetrator.",
+    "technique": "Redundant Phrase Elimination (Legal)",
+    "application_steps": [
+      "Step 1: Identify the repetitive phrase pair \"role and position\" in the original sentence.",
+      "Step 2: Remove the redundant term \"position\", retaining only \"role\".",
+      "Step 3: Verify that the sentence still conveys all original factors without loss of meaning."
+    ]
+  },
+  {
+    "input": "The concept of 'proactive complementarity' suggests that the ICC should actively encourage domestic prosecutions of international crimes through positive engagement with national authorities. This approach recognizes that the Court's limited resources make it impossible for it to prosecute all international crimes, and that national courts are often better positioned to conduct such proceedings. By promoting domestic capacity and willingness, the ICC can maximize its impact and fulfill the vision of the Rome Statute system as a comprehensive framework for international justice.",
+    "output": "‘Proactive complementarity’ makes the ICC actively encourage domestic prosecutions of international crimes by engaging positively with national authorities. It recognizes that the Court’s limited resources prevent it from prosecuting all international crimes and that national courts can often handle these proceedings more effectively. By promoting domestic capacity and willingness, the ICC maximizes its impact and fulfills the Rome Statute system’s vision of a comprehensive framework for international justice.",
+    "technique": "Active Voice Conversion (Legal)",
+    "application_steps": [
+      "Step 1: Locate clauses where agency is obscured or indirect (‘suggests that the ICC should’).",
+      "Step 2: Recast with the ICC as the explicit subject performing the action (‘makes the ICC encourage’).",
+      "Step 3: Preserve all legal terms and the original meaning."
+    ]
+  },
+  {
+    "input": "The International Tribunal shall have primacy over national courts. At any stage of the procedure, the International Tribunal may formally request national courts to defer to the competence of the International Tribunal in accordance with the present Statute and the Rules of Procedure and Evidence of the International Tribunal. Upon such request, the national court shall defer to the competence of the International Tribunal and shall refer the case to the International Tribunal.",
+    "output": "The International Tribunal holds primacy over national courts. At any stage of the procedure, the International Tribunal may ask national courts to hand over authority under this Statute and its Rules of Procedure and Evidence. When asked, a national court must hand over authority and send the case to the International Tribunal.",
+    "technique": "Nominalization Reversal (Legal)",
+    "application_steps": [
+      "Step 1: Identify abstract nouns such as “request” and “competence.”",
+      "Step 2: Convert them into direct action verbs (“ask” and “hand over authority”).",
+      "Step 3: Simplify surrounding structure to maintain clarity and legal force."
+    ]
+  },
+  {
+    "input": "The Special Court shall have primacy over the national courts of Sierra Leone. At any stage of the procedure, the Special Court may formally request a national court to defer to its competence in accordance with the present Statute and the Rules of Procedure and Evidence. Upon such request, the national court concerned shall defer to the competence of the Special Court.",
+    "output": "Define “SCSL” as “Special Court for Sierra Leone.” The SCSL has primacy over national courts of Sierra Leone. At any stage, the SCSL may request a national court to defer to its authority under the Statute and Rules of Procedure and Evidence. When requested, a national court shall defer to the SCSL.",
+    "technique": "Strategic Term Definition and Compression (Legal)",
+    "application_steps": [
+      "Step 1: Introduce the acronym “SCSL” for the full court name.",
+      "Step 2: Replace every subsequent mention of the full name with “SCSL.”",
+      "Step 3: Retain all statutory and procedural references in compressed form."
+    ]
+  },
+  {
+    "input": "The International Tribunal and national courts have concurrent jurisdiction to prosecute persons for serious violations of international humanitarian law. However, the International Tribunal has primacy over national courts, which means that, at any stage of the procedure, it may formally request national courts to defer to its competence. This primacy is not merely a matter of concurrent jurisdiction; it establishes a vertical relationship where the International Tribunal's jurisdiction takes precedence.",
+    "output": "International Tribunal national courts have concurrent jurisdiction prosecute persons serious violations international humanitarian law. However, International Tribunal primacy over national courts means may request national courts defer competence. Primacy not matter concurrent jurisdiction; establishes vertical relationship where International Tribunal jurisdiction takes precedence.",
+    "technique": "Function Word Omission (Child Language)",
+    "application_steps": [
+      "Step 1: Remove articles, auxiliary verbs, prepositions, pronouns, and conjunctions.",
+      "Step 2: Preserve only core nouns and verbs for a telegraphic style.",
+      "Step 3: Ensure minimal semantic clarity remains."
+    ]
+  },
+  {
+    "input": "The Trial Chamber finds that the essential conditions for referral under Rule 11bis are met: the accused would receive a fair trial in the national courts, and the crimes charged are adequately provided for under national law. The gravity of the crimes and the level of responsibility of the accused do not preclude referral to national jurisdiction, particularly given the State's demonstrated commitment to genuine prosecution of international crimes.",
+    "output": "Trial Chamber finds conditions for referral under Rule 11bis met. Accused would receive a fair trial in national courts. Crimes charged provided for under national law. Gravity of crimes and accused’s responsibility do not preclude referral to national jurisdiction given State commitment to genuine prosecution.",
+    "technique": "Core Argument Structure Preservation (Child Language)",
+    "application_steps": [
+      "Step 1: Extract core agent–action–patient segments.",
+      "Step 2: Remove modifiers, adjuncts, and conjunctions.",
+      "Step 3: Reassemble as simple, declarative sentences."
+    ]
+  },
+  {
+    "input": "The Special Court's temporal jurisdiction commences on 30 November 1996, and any acts committed prior to that date fall outside the Court's competence. The principle of legality requires that criminal jurisdiction be clearly established by law at the time of the alleged conduct. While the Court has primacy over national courts for crimes within its jurisdiction, it cannot exercise that primacy over conduct that was not within its temporal mandate.",
+    "output": "The Special Court’s temporal jurisdiction commences on 30 November 1996. Any acts committed before that date fall outside its competence. The principle of legality requires that criminal jurisdiction be clearly established by law at the time of the alleged conduct. The Court has primacy over national courts for in-mandate crimes. The Court cannot exercise primacy over out-of-mandate conduct.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Identify independent clauses and coordinate structures.",
+      "Step 2: Replace commas and conjunctions with full stops.",
+      "Step 3: Ensure each new sentence conveys a single proposition."
+    ]
+  },
+  {
+    "input": "The Co-Investigating Judges must determine whether the case falls within the ECCC's personal jurisdiction ratione personae, requiring that suspects be among those \"most responsible\" for crimes committed during the temporal jurisdiction of the Court. This jurisdictional limitation reflects the Court's mandate to focus on senior leaders and those bearing greatest responsibility, distinguishing it from broader national prosecutorial authority.",
+    "output": "The Co-Investigating Judges must determined whether the case falled within the ECCC’s personal jurisdiction ratione personae, requireing that suspects be among those most responsibled for crimes committed during the temporal jurisdiction of the Court. This jurisdictional limitation reflected the Court’s mandate to focus on senior leaders and those beared greatest responsibility, distinguishing it from broader national prosecutorial authority.",
+    "technique": "Rule Generalization (Adapted Over-regularization) (Child Language)",
+    "application_steps": [
+      "Step 1: Over-regularize all verbs with –ed or –ing endings (e.g., “determine”→“determined,” “fall”→“falled”).",
+      "Step 2: Apply the same rule to irregular forms (“focus”→“focus­ed,” “bear”→“beared”).",
+      "Step 3: Preserve original sentence order despite grammatical errors."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber emphasizes that the Tribunal's primacy over national courts does not depend on the adequacy or inadequacy of national legal systems, but is inherent in the Tribunal's mandate as established by the Security Council. National proceedings, even if conducted in good faith, cannot preclude the Tribunal's jurisdiction once it has been properly invoked.",
+    "output": "The Appeals Chamber emphasizes that the Tribunal’s primacy over national courts does not depend on the adequacy of national legal systems. The Appeals Chamber emphasizes that the Tribunal’s primacy over national courts does not depend on the inadequacy of national legal systems. The Appeals Chamber emphasizes that this primacy is inherent in the Tribunal’s mandate as established by the Security Council. The Appeals Chamber emphasizes that national proceedings cannot preclude the Tribunal’s jurisdiction once the Tribunal has invoked it.",
+    "technique": "Explicit Subject Repetition (Child Language)",
+    "application_steps": [
+      "Step 1: Split original sentences into individual clauses.",
+      "Step 2: Replace pronouns with full noun phrases (“The Appeals Chamber,” “the Tribunal”).",
+      "Step 3: Begin each new sentence with the repeated subject."
+    ]
+  },
+  {
+    "input": "The Tribunal's jurisdiction over terrorism under Lebanese law represents a unique feature among international criminal tribunals. The application of national law within an international judicial framework requires careful consideration of both the specificities of Lebanese criminal law and international fair-trial standards, creating a distinctive approach to the relationship between national and international legal systems.",
+    "output": "The Tribunal for Lebanon has unique terrorism jurisdiction under Lebanese law. Applying national law within an international court requires careful review of Lebanese law details and fair-trial standards. This creates a clear method for linking national and international justice systems.",
+    "technique": "Fine-Tuned Sequence-to-Sequence Simplification (AI)",
+    "application_steps": [
+      "Step 1: Input text into a simplified sequence-to-sequence model trained on legal-plain parallels.",
+      "Step 2: Perform lexical substitution and sentence splitting to enhance clarity.",
+      "Step 3: Output concise sentences preserving all core legal insights."
+    ]
+  }
+]
+[
+  {
+    "input": "**Input 429 (Susana SáCouto and Katherine Cleary, \"The Gravity Threshold of the International Criminal Court\")** The gravity threshold in Article 17(1)(d) of the Rome Statute serves as an additional admissibility criterion, distinct from the complementarity assessment. This threshold ensures that the Court focuses its limited resources on the most serious crimes of concern to the international community. The Court's jurisprudence has identified several factors relevant to the gravity assessment, including the scale, nature, manner of commission, and impact of the crimes, as well as the role and position of the alleged perpetrator.",
+    "output": "**Input 429 (Susana SáCouto and Katherine Cleary, \"The Gravity Threshold of the International Criminal Court\")** The gravity threshold in Article 17(1)(d) of the Rome Statute serves as an additional admissibility criterion. It is distinct from the complementarity assessment. This threshold ensures that the Court focuses its limited resources on the most serious crimes of concern to the international community. The Court's jurisprudence has identified several factors relevant to the gravity assessment. These factors include the scale of the crimes. They include the nature of the crimes. They include the manner of commission of the crimes. They include the impact of the crimes. They include the role of the alleged perpetrator. They include the position of the alleged perpetrator.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Locate each independent clause or enumeration separated by commas or conjunctions.",
+      "Step 2: Replace internal punctuation with full stops to create single-proposition sentences.",
+      "Step 3: Retain the original wording and order, adding new sentences only."
+    ]
+  },
+  {
+    "input": "**Input 430 (William W. Burke-White, \"Proactive Complementarity: The International Criminal Court and National Courts in the Rome System of International Justice\")** The concept of 'proactive complementarity' suggests that the ICC should actively encourage domestic prosecutions of international crimes through positive engagement with national authorities. This approach recognizes that the Court's limited resources make it impossible for it to prosecute all international crimes, and that national courts are often better positioned to conduct such proceedings. By promoting domestic capacity and willingness, the ICC can maximize its impact and fulfill the vision of the Rome Statute system as a comprehensive framework for international justice.",
+    "output": "**Input 430 (William W. Burke-White, \"Proactive Complementarity: The International Criminal Court and National Courts in the Rome System of International Justice\")** The concept of 'proactive complementarity' urges the ICC to actively encourage domestic prosecutions of international crimes through direct engagement with national authorities. This approach recognizes that limited resources prevent the Court from prosecuting all international crimes, while national courts can better conduct such proceedings. By promoting domestic capacity and willingness, the ICC can maximize its impact and fulfill the vision of the Rome Statute system as a comprehensive framework for international justice.",
+    "technique": "Active Voice Conversion (Legal)",
+    "application_steps": [
+      "Step 1: Identify clauses where agency is obscured or expressed indirectly.",
+      "Step 2: Rephrase with explicit subjects performing the actions (e.g., resources prevent the Court).",
+      "Step 3: Preserve all legal meaning and key terms."
+    ]
+  },
+  {
+    "input": "**Input 431 (ICTY Statute, Article 9(2))** The International Tribunal shall have primacy over national courts. At any stage of the procedure, the International Tribunal may formally request national courts to defer to the competence of the International Tribunal in accordance with the present Statute and the Rules of Procedure and Evidence of the International Tribunal. Upon such request, the national court shall defer to the competence of the International Tribunal and shall refer the case to the International Tribunal.",
+    "output": "**Input 431 (ICTY Statute, Article 9(2))** The International Tribunal shall have primacy over national courts. At any point in the case, the International Tribunal may order national courts to give up authority to the Tribunal's power under this Statute and its Rules of Procedure and Evidence. When the Tribunal orders, the national court must give up authority to that power and must send the case to the Tribunal.",
+    "technique": "Euphemism Elimination (Post-Colonial Discourse)",
+    "application_steps": [
+      "Step 1: Detect polite or indirect legal terms (\"defer,\" \"competence,\" \"refer\").",
+      "Step 2: Substitute with blunt, literal equivalents (\"give up authority,\" \"power,\" \"send\").",
+      "Step 3: Keep sentence order and legal obligations intact."
+    ]
+  },
+  {
+    "input": "**Input 432 (Statute of the Special Court for Sierra Leone, Article 8(2))** The Special Court shall have primacy over the national courts of Sierra Leone. At any stage of the procedure, the Special Court may formally request a national court to defer to its competence in accordance with the present Statute and the Rules of Procedure and Evidence. Upon such request, the national court concerned shall defer to the competence of the Special Court.",
+    "output": "**Input 432 (Statute of the Special Court for Sierra Leone, Article 8(2))** Special Court primacy over national courts Sierra Leone. Any stage procedure Special Court may request national court defer to competence under Statute Rules Procedure Evidence. Upon request national court defer to Special Court competence.",
+    "technique": "Function Word Omission (Child Language)",
+    "application_steps": [
+      "Step 1: Remove articles, auxiliary verbs, prepositions, pronouns, and conjunctions.",
+      "Step 2: Preserve core nouns and verbs to keep meaning skeleton.",
+      "Step 3: Compress resulting text into telegraphic clauses."
+    ]
+  },
+  {
+    "input": "**Input 433 (ICTY Appeals Chamber, Prosecutor v. Duško Tadić, Decision on the Defence Motion for Interlocutory Appeal on Jurisdiction)** The International Tribunal and national courts have concurrent jurisdiction to prosecute persons for serious violations of international humanitarian law. However, the International Tribunal has primacy over national courts, which means that, at any stage of the procedure, it may formally request national courts to defer to its competence. This primacy is not merely a matter of concurrent jurisdiction; it establishes a vertical relationship where the International Tribunal's jurisdiction takes precedence.",
+    "output": "**Input 433 (ICTY Appeals Chamber, Prosecutor v. Duško Tadić, Decision on the Defence Motion for Interlocutory Appeal on Jurisdiction)** The International Tribunal and national courts both prosecute persons for serious violations of international humanitarian law. However, the International Tribunal overrules national courts and may formally order them to accept its competence at any stage. This overruling creates a vertical relationship in which the International Tribunal's jurisdiction precedes that of national courts.",
+    "technique": "Nominalization Reversal (Legal)",
+    "application_steps": [
+      "Step 1: Locate abstract noun phrases (\"concurrent jurisdiction,\" \"request national courts to defer\").",
+      "Step 2: Replace abstractions with direct action verbs (\"both prosecute,\" \"order,\").",
+      "Step 3: Simplify remaining structures while maintaining legal hierarchy."
+    ]
+  },
+  {
+    "input": "**Input 434 (ICTR Trial Chamber, Prosecutor v. Michel Bagaragaza, Decision on Rule 11bis Application)** The Trial Chamber finds that the essential conditions for referral under Rule 11bis are met: the accused would receive a fair trial in the national courts, and the crimes charged are adequately provided for under national law. The gravity of the crimes and the level of responsibility of the accused do not preclude referral to national jurisdiction, particularly given the State's demonstrated commitment to genuine prosecution of international crimes.",
+    "output": "The Trial Chamber finds that the essential conditions for referral under Rule 11bis are met. The Trial Chamber finds that the accused would receive a fair trial in the national courts. The Trial Chamber finds that the crimes charged are adequately provided for under national law. The gravity of the crimes and the level of responsibility of the accused do not preclude referral to national jurisdiction. The gravity of the crimes and the level of responsibility of the accused do not preclude referral given the State's demonstrated commitment to genuine prosecution of international crimes.",
+    "technique": "Explicit Subject Repetition (Child Language)",
+    "application_steps": [
+      "Step 1: Break compound sentences into separate independent clauses.",
+      "Step 2: Replace pronouns with the full noun phrase \"The Trial Chamber\" or repeated clause subjects.",
+      "Step 3: Preserve original order and main content words."
+    ]
+  },
+  {
+    "input": "**Input 435 (SCSL Appeals Chamber, Prosecutor v. Sam Hinga Norman, Preliminary Motion Based on Lack of Jurisdiction)** The Special Court's temporal jurisdiction commences on 30 November 1996, and any acts committed prior to that date fall outside the Court's competence. The principle of legality requires that criminal jurisdiction be clearly established by law at the time of the alleged conduct. While the Court has primacy over national courts for crimes within its jurisdiction, it cannot exercise that primacy over conduct that was not within its temporal mandate.",
+    "output": "The Special Court's jurisdiction starts on 30 November 1996; acts before that date lie outside its competence. Criminal jurisdiction must be clearly set by law at the time of conduct. The Court has primacy over national courts for crimes within its mandate, but it cannot exercise primacy over conduct outside that mandate.",
+    "technique": "Redundancy Elimination (Post-Colonial Discourse)",
+    "application_steps": [
+      "Step 1: Identify doubled phrases and verbose constructs (\"commences on,\" \"fall outside the Court's competence\").",
+      "Step 2: Remove filler words, collapse date clauses, and keep direct statements.",
+      "Step 3: Retain legal meaning with lean sentences."
+    ]
+  },
+  {
+    "input": "**Input 436 (ECCC Pre-Trial Chamber, Case 003, Decision on Admissibility)** The Co-Investigating Judges must determine whether the case falls within the ECCC's personal jurisdiction ratione personae, requiring that suspects be among those \"most responsible\" for crimes committed during the temporal jurisdiction of the Court. This jurisdictional limitation reflects the Court's mandate to focus on senior leaders and those bearing greatest responsibility, distinguishing it from broader national prosecutorial authority.",
+    "output": "**Input 436 (ECCC Pre-Trial Chamber, Case 003, Decision on Admissibility)** The Co-Investigating Judges must determine whether the case falls within the ECCC's personal jurisdiction, requiring suspects to be among those \"most responsible\" for crimes committed during the Court's temporal jurisdiction. This limitation reflects the Court's mandate to focus on senior leaders and those bearing greatest responsibility, distinguishing it from broader national prosecutorial authority.",
+    "technique": "Redundant Phrase Elimination (Legal)",
+    "application_steps": [
+      "Step 1: Detect legal doublets and verbose Latin phrases (e.g., \"ratione personae\").",
+      "Step 2: Replace or remove repetitive wording without altering meaning.",
+      "Step 3: Keep quotation marks and critical terms like \"most responsible.\""
+    ]
+  },
+  {
+    "input": "**Input 437 (ICTR Appeals Chamber, Prosecutor v. Jean-Bosco Barayagwiza, Decision on Prosecutor's Request for Review or Reconsideration)** The Appeals Chamber emphasizes that the Tribunal's primacy over national courts does not depend on the adequacy or inadequacy of national legal systems, but is inherent in the Tribunal's mandate as established by the Security Council. National proceedings, even if conducted in good faith, cannot preclude the Tribunal's jurisdiction once it has been properly invoked.",
+    "output": "**Input 437 (ICTR Appeals Chamber, Prosecutor v. Jean-Bosco Barayagwiza, Decision on Prosecutor's Request for Review or Reconsideration)** The Appeals Chamber sayed that the Tribunal primacy do not depends on quality of national courts because Security Council maded that rule. Even good-faith national proceedings cannot stops Tribunal jurisdiction once Tribunal invokeded it.",
+    "technique": "Rule Generalization (Adapted Over-regularization)",
+    "application_steps": [
+      "Step 1: Apply productive grammar rules universally (e.g., add -ed to all verbs for past tense).",
+      "Step 2: Over-regularize irregular verbs (\"say\"→\"sayed,\" \"make\"→\"maded\").",
+      "Step 3: Retain sentence structure and legal message despite child-like errors."
+    ]
+  },
+  {
+    "input": "**Input 438 (STL Appeals Chamber, Interlocutory Decision on the Applicable Law)** The Tribunal's jurisdiction over terrorism under Lebanese law represents a unique feature among international criminal tribunals. The application of national law within an international judicial framework requires careful consideration of both the specificities of Lebanese criminal law and international fair-trial standards, creating a distinctive approach to the relationship between national and international legal systems.",
+    "output": "**Input 438 (STL Appeals Chamber, Interlocutory Decision on the Applicable Law)** Defined term: \"Tribunal\" = Special Tribunal for Lebanon exercising terrorism jurisdiction under Lebanese law within an international framework. The Tribunal's unique reliance on Lebanese criminal law and international fair-trial standards establishes a distinctive national-international relationship.",
+    "technique": "Strategic Term Definition and Compression (Legal)",
+    "application_steps": [
+      "Step 1: Introduce concise defined term \"Tribunal\" for lengthy subject reference.",
+      "Step 2: Replace subsequent long descriptions with the defined term.",
+      "Step 3: Re-express remainder in compressed sentences."
+    ]
+  },
+  {
+    "input": "**Input 439 (ICTY Trial Chamber, Prosecutor v. Anto Furundžija, Judgment)** The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunal's primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international community's interest in prosecution may transcend purely national considerations.",
+    "output": "**Input 439 (ICTY Trial Chamber, Prosecutor v. Anto Furundžija, Judgment)** The International Tribunal holds primacy and therefore overrides national courts when necessary. The Tribunal uses that authority to ensure effective international justice whenever national systems prosecute—or fail to prosecute—serious violations of humanitarian law.",
+    "technique": "Active Voice Conversion (Post-Colonial Discourse)",
+    "application_steps": [
+      "Step 1: Identify passive-like clauses obscuring agency (\"international justice can be administered\").",
+      "Step 2: Rewrite sentences so the Tribunal explicitly performs the action (\"The Tribunal uses...\").",
+      "Step 3: Shorten wording while keeping legal scope."
+    ]
+  },
+  {
+    "input": "**Input 440 (Special Panels for Serious Crimes, Prosecutor v. Joni Marques, Judgment)** The Special Panels' jurisdiction over serious crimes committed in East Timor during 1999 operates alongside the continuing jurisdiction of Indonesian courts over the same events. This concurrent jurisdiction requires careful coordination to avoid conflicting proceedings, though no formal primacy relationship exists between the Special Panels and Indonesian courts, unlike the relationship between ad hoc tribunals and national jurisdictions.",
+    "output": "Special Panels prosecute 1999 East Timor crimes. Indonesian courts also prosecute same crimes. Panels and courts coordinate to avoid conflict. No primacy link exists.",
+    "technique": "Core Argument Structure Preservation (Child Language)",
+    "application_steps": [
+      "Step 1: Identify main agent-action-patient elements (Panels/Indonesian courts → prosecute → crimes).",
+      "Step 2: Remove modifiers, subordinate clauses, and comparative examples.",
+      "Step 3: Produce short simple sentences retaining core roles."
+    ]
+  },
+  {
+    "input": "**Input 441 (ICTR Office of the Prosecutor, Prosecutor v. Yussuf Munyakazi, Prosecution Motion for Referral to Rwanda under Rule 11bis)** The Prosecution submits that Rwanda's national legal system has undergone substantial reforms since the establishment of the ICTR, including the creation of specialized chambers and the abolition of the death penalty. These reforms, combined with Rwanda's demonstrated commitment to fair-trial standards and adequate witness protection measures, satisfy the requirements for referral under Rule 11bis of the Rules of Procedure and Evidence.",
+    "output": "Rwanda reformed its courts, created specialized chambers, and abolished the death penalty. Rwanda also strengthened fair-trial guarantees and witness protection. These changes meet Rule 11bis requirements for referral.",
+    "technique": "Fine-Tuned Sequence-to-Sequence Simplification (AI)",
+    "application_steps": [
+      "Step 1: Compress multi-clause source into shorter sentences through lexical substitution.",
+      "Step 2: Delete redundant phrases and reorder for clarity.",
+      "Step 3: Preserve legal facts (reforms, abolition, Rule 11bis)."
+    ]
+  },
+  {
+    "input": "**Input 442 (Defense Counsel, Prosecutor v. Radovan Karadžić, Defence Preliminary Motion on Jurisdiction)** The Defense submits that the International Tribunal's assertion of jurisdiction violates the principle of complementarity as understood in customary international law. While acknowledging that the ICTY Statute grants primacy to the International Tribunal, the Defense argues that this primacy should not be exercised where national courts have already commenced genuine proceedings, as this undermines the sovereignty and judicial integrity of the territorial state.",
+    "output": "While national courts already began genuine proceedings, the Defense argues the Tribunal's primacy (which the Statute grants) violates customary complementarity. The opening claim on sovereignty moves to the end of the line, shifting the rhythm of the paragraph.",
+    "technique": "Rhythmic Displacement (Music)",
+    "application_steps": [
+      "Step 1: Treat sentences as rhythmic units of equal metrical weight.",
+      "Step 2: Shift the opening unit (sovereignty claim) to a later metrical position.",
+      "Step 3: Keep pitches (words) and relative durations (sentence lengths) unchanged."
+    ]
+  },
+  {
+    "input": "**Input 443 (Government of Sierra Leone, Letter to the President of the Special Court)** The Government of Sierra Leone respectfully requests that the Special Court exercise its primacy jurisdiction over cases involving senior members of the Armed Forces Revolutionary Council and the Revolutionary United Front. The Government acknowledges that while Sierra Leone's Truth and Reconciliation Commission has examined these events, criminal prosecution by national courts would not adequately address the gravity of the crimes or satisfy the victims' right to justice.",
+    "output": "{Fork-1} Government requests Special Court exercise primacy over AFRC and RUF senior members. {Fork-2} Government notes TRC examined events. {Fork-3} Government states national prosecution inadequate for gravity and justice. {Join} Therefore, Government seeks Special Court action.",
+    "technique": "Fork-Join (Concurrency)",
+    "application_steps": [
+      "Step 1: Divide paragraph into logical subtasks (forks) each expressing one distinct claim.",
+      "Step 2: Label each subtask sequentially (Fork-1 … Fork-n).",
+      "Step 3: Combine results with a final joined conclusion statement (Join)."
+    ]
+  },
+  {
+    "input": "**Input 444** E crimes for which he bears responsibility, distinguishing cases appropriate for the ECCC from those that may be handled by domestic courts.",
+    "output": "courts domestic by handled be may that from ECCC the for appropriate cases distinguishing responsibility bears he which for crimes e",
+    "technique": "Melodic Retrograde (Music)",
+    "application_steps": [
+      "Step 1: Treat each word as a note in a melody.",
+      "Step 2: Reverse the word order from last to first (retrograde).",
+      "Step 3: Output reversed sequence exactly."
+    ]
+  },
+  {
+    "input": "**Input 445 (Defense Counsel, Prosecutor v. Protais Zigiranyirazo, Defence Motion Challenging Jurisdiction Based on Non Bis In Idem)** The Defense challenges the Tribunal's jurisdiction on the grounds that the accused has already been tried by Rwandan courts for the same conduct underlying the international charges. While acknowledging that the ICTY and ICTR have primacy over national courts, the Defense argues that this primacy cannot overcome the fundamental principle of ne bis in idem when national proceedings were conducted fairly and resulted in a final judgment.",
+    "output": "class JurisdictionText {\n  read() {\n    return \"The Defense challenges the Tribunal's jurisdiction because Rwandan courts already tried the accused for the same conduct, and fair national proceedings reached a final judgment.\";\n  }\n}\nexport default new JurisdictionText();",
+    "technique": "Decorator Pattern (Aspect-Oriented Programming)",
+    "application_steps": [
+      "Step 1: Encapsulate the legal sentence inside a minimal wrapper class.",
+      "Step 2: Provide a read() method that returns the core text.",
+      "Step 3: Export an instance, simulating dynamic behavior extension without changing core content."
+    ]
+  },
+  {
+    "input": "**Input 446 (STL Office of the Prosecutor, Prosecutor v. Ayyash, Application for Leave to Amend Indictment)** The Prosecution applies for leave to amend the indictment to include additional charges of terrorism under Lebanese law. The Prosecution submits that the Tribunal's unique mandate to apply Lebanese criminal law within an international judicial framework permits such amendments provided they are based on the same factual matrix and do not prejudice the accused's right to prepare an adequate defense.",
+    "output": "Stage 1 (Input) → Prosecution seeks leave to amend indictment.\nStage 2 (Filter) → Identify additional terrorism charges under Lebanese law.\nStage 3 (Process) → Check that charges share same factual matrix.\nStage 4 (Output) → Confirm amendment does not prejudice accused’s defense.",
+    "technique": "Pipeline (Concurrency)",
+    "application_steps": [
+      "Step 1: Break legal request into sequential processing stages.",
+      "Step 2: Label each stage, passing results to the next stage.",
+      "Step 3: Present pipeline from input through transformation to output."
+    ]
+  },
+  {
+    "input": "**Input 447 (Allison Marston Danner, \"Enhancing the Legitimacy and Accountability of Prosecutorial Discretion at the International Criminal Court\")** The evolution from the primacy model of the ad hoc tribunals to the complementarity regime of the ICC reflects a fundamental shift in the relationship between international and national criminal justice systems. While primacy emphasizes the superior authority of international tribunals, complementarity recognizes the primary responsibility of states to prosecute international crimes, with international intervention occurring only when national systems fail to act genuinely.",
+    "output": "pointcut(\"primacy_vs_complementarity\") {\n  // Match discussion of authority models\n  \"Primacy grants international tribunals superior authority; complementarity gives primary responsibility to states, with ICC intervening only if national systems fail.\"\n}",
+    "technique": "Pointcut Definition (Aspect-Oriented Programming)",
+    "application_steps": [
+      "Step 1: Define a pointcut that targets text on authority models.",
+      "Step 2: Wrap the extracted core sentence inside pointcut syntax.",
+      "Step 3: Keep original meaning inside the pointcut body."
+    ]
+  },
+  {
+    "input": "**Input 448 (Cesare P.R. Romano, \"Mixed Jurisdictions and the Redefinition of International Criminal Justice\")** Hybrid tribunals occupy a unique position in the international criminal justice landscape, neither fully international nor purely domestic. Their relationship with national courts varies significantly depending on their constitutional structure: some exercise primacy like the ad hoc tribunals, while others operate with more complex jurisdictional arrangements that blur traditional distinctions between national and international authority.",
+    "output": "**Input 448 (Cesare P.R. Romano, \"Mixed Jurisdictions and the Redefinition of International Criminal Justice\")** Hybrid tribunals take a **longer, slower** path—**proportionally stretched**—through the justice landscape, occupying a **unique, extended** position that is **neither wholly international nor merely domestic**. Some tribunals **exercise primacy**, while others **operate in increasingly elongated, complex arrangements** that blur lines between national and international authority.",
+    "technique": "Melodic Augmentation (Music)",
+    "application_steps": [
+      "Step 1: Conceptually lengthen rhythmic values by adding intensifiers (\"longer, slower,\" \"extended\").",
+      "Step 2: Insert proportional descriptive modifiers to stretch the 'melodic' flow of the sentence.",
+      "Step 3: Maintain pitch (core ideas) but augment duration (lexical length)."
+    ]
+  }
+]
+[
+  {
+    "input": "E crimes for which he bears responsibility, distinguishing cases appropriate for the ECCC from those that may be handled by domestic courts.",
+    "output": "Define “Relevant Crimes” as “crimes for which he bears responsibility.” Relevant Crimes distinguish cases appropriate for the ECCC from those handled by domestic courts.",
+    "technique": "Strategic Term Definition and Compression (Legal)",
+    "application_steps": [
+      "Step 1: Identify lengthy phrase “crimes for which he bears responsibility.”",
+      "Step 2: Introduce definition: “Relevant Crimes” = that phrase.",
+      "Step 3: Replace subsequent usage with “Relevant Crimes,” compressing the sentence."
+    ]
+  },
+  {
+    "input": "The Defense challenges the Tribunal's jurisdiction on the grounds that the accused has already been tried by Rwandan courts for the same conduct underlying the international charges. While acknowledging that the ICTY and ICTR have primacy over national courts, the Defense argues that this primacy cannot overcome the fundamental principle of ne bis in idem when national proceedings were conducted fairly and resulted in a final judgment.",
+    "output": "The Defense challenges the Tribunal’s jurisdiction on the basis that the accused was already tried by Rwandan courts for the same conduct. The Defense acknowledges that the ICTY and ICTR have primacy over national courts. The Defense argues this primacy cannot override ne bis in idem when national proceedings were fair and reached a final judgment.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Break compound sentences into individual clauses.",
+      "Step 2: End each clause with a period to form short sentences.",
+      "Step 3: Preserve all original content words without pronoun replacement."
+    ]
+  },
+  {
+    "input": "The Prosecution applies for leave to amend the indictment to include additional charges of terrorism under Lebanese law. The Prosecution submits that the Tribunal's unique mandate to apply Lebanese criminal law within an international judicial framework permits such amendments provided they are based on the same factual matrix and do not prejudice the accused's right to prepare an adequate defense.",
+    "output": "The Prosecution applies to amend the indictment and add terrorism charges under Lebanese law. The Tribunal applies Lebanese criminal law within an international framework. This authority allows amendments on the same facts without harming the accused’s right to prepare a defense.",
+    "technique": "Nominalization Reversal (Legal)",
+    "application_steps": [
+      "Step 1: Locate abstract noun phrases (e.g., “application for leave,” “unique mandate”).",
+      "Step 2: Convert them to verbs (e.g., “applies,” “add,” “apply”).",
+      "Step 3: Restructure sentences around these verbs for clarity."
+    ]
+  },
+  {
+    "input": "The evolution from the primacy model of the ad hoc tribunals to the complementarity regime of the ICC reflects a fundamental shift in the relationship between international and national criminal justice systems. While primacy emphasizes the superior authority of international tribunals, complementarity recognizes the primary responsibility of states to prosecute international crimes, with international intervention occurring only when national systems fail to act genuinely.",
+    "output": "The evoluted from the primacy modeled of the ad hocs tribunals to the complementarityed regime of the ICC reflectes a fundamentaled shift in the relationshiped between internationaled and nationaled criminaled justice systemsed. While primacyed emphasizesed the superiored authorityed of internationaled tribunalssed, complementarityed recognizesed the primaryed responsibilityed of statesed to prosecutor internationaled crimesed, with internationaled interventioned occurended only when nationaled systemsed faileded to acted genuinelyed.",
+    "technique": "Rule Generalization (Adapted Over-regularization) (Child Language)",
+    "application_steps": [
+      "Step 1: Add “-ed” to all verbs and irregular forms uniformly.",
+      "Step 2: Apply the same rule to nouns and adjectives where possible.",
+      "Step 3: Maintain original word order despite child-like errors."
+    ]
+  },
+  {
+    "input": "Hybrid tribunals occupy a unique position in the international criminal justice landscape, neither fully international nor purely domestic. Their relationship with national courts varies significantly depending on their constitutional structure:",
+    "output": "Hybrid tribunals combine international and domestic features. They relate to national courts differently based on their constitutional setup.",
+    "technique": "Fine-Tuned Sequence-to-Sequence Simplification (AI)",
+    "application_steps": [
+      "Step 1: Input the text into a seq2seq simplification model trained on legal/plain pairs.",
+      "Step 2: Perform lexical substitutions and delete redundant phrases.",
+      "Step 3: Output two concise sentences preserving core meaning."
+    ]
+  }
+]
+[
+  {
+    "input": "The jurisdictional relationships established by different international criminal tribunals significantly influence prosecutorial strategy and case outcomes. The primacy model enables international prosecutors to override national proceedings regardless of their quality, while complementarity-based systems require continuous assessment of national capacity and willingness, creating different incentive structures for both international and domestic actors.",
+    "output": "Jurisdictional relationships among international criminal tribunals influence prosecutorial strategy and case outcomes. The primacy model lets international prosecutors override national proceedings, while complementarity models require ongoing assessment of national capacity and willingness, creating varied incentives for international and domestic actors.",
+    "technique": "Redundancy Elimination (Post-Colonial Discourse)",
+    "application_steps": [
+      "Step 1: Locate filler terms and verbose phrases (e.g., \"significantly influence,\" \"regardless of their quality\").",
+      "Step 2: Remove or condense redundant wording while retaining core legal content.",
+      "Step 3: Re-join clauses into tighter sentences to improve immediacy."
+    ]
+  },
+  {
+    "input": "Hybrid tribunals represent an attempt to balance international standards with local ownership, creating novel approaches to the relationship between international and national criminal justice. Unlike the clear hierarchical relationships established by pure primacy or complementarity models, hybrid courts often embody more complex arrangements that require ongoing negotiation between international and domestic legal authorities, potentially offering lessons for future tribunal design.",
+    "output": "Hybrid tribunals represent an attempt to balance international standards with local ownership, creating novel approaches to the relationship between international and national criminal justice. Hybrid tribunals represent an attempt to balance international standards with local ownership, creating novel approaches to the relationship between international and national criminal justice.",
+    "technique": "Melodic Augmentation (Music)",
+    "application_steps": [
+      "Step 1: Treat each sentence as a musical ‘phrase’.",
+      "Step 2: Double the rhythmic value by repeating each phrase sequentially.",
+      "Step 3: Keep pitch (word order) identical, yielding a slower, lengthened ‘melody’ in prose."
+    ]
+  },
+  {
+    "input": "The International Criminal Court is established as a permanent institution that shall be complementary to national criminal jurisdictions. This fundamental principle ensures that states retain the primary duty to exercise criminal jurisdiction over those responsible for international crimes, with the Court intervening only when national systems are unwilling or unable to genuinely carry out investigations or prosecutions.",
+    "output": "@Decorator\nclass ComplementaryICC:\n    \"\"\"The ICC is permanent and complementary to national jurisdictions.\n    States retain the primary duty to prosecute; the Court steps in only if they are unwilling or unable.\"\"\"",
+    "technique": "Decorator Pattern (Aspect-Oriented Programming)",
+    "application_steps": [
+      "Step 1: Create a decorator wrapper named @Decorator to add behaviour without changing original meaning.",
+      "Step 2: Encapsulate the legal rule inside a class for modular extension.",
+      "Step 3: Compress wording while preserving the complementary principle within the decorator."
+    ]
+  },
+  {
+    "input": "The principle of complementarity is implemented by the ICC through Article 17, which provides that a case is inadmissible before the Court if it is currently under investigation by a state with jurisdiction over it. However, ICC jurisdiction is allowed when the state is unwilling or unable to proceed with an investigation, or if the state investigation is conducted in bad faith, such as to shield a person from criminal responsibility.",
+    "output": "When a state investigates a case, the ICC deems the case inadmissible. If that state is unwilling or unable to investigate, or conducts a sham probe to shield someone, the ICC will take the case.",
+    "technique": "Active Voice Conversion (Post-Colonial Discourse)",
+    "application_steps": [
+      "Step 1: Identify passive clauses that obscure agency (e.g., \"a case is inadmissible\").",
+      "Step 2: Recast with explicit actors (\"the ICC deems,\" \"a state investigates\").",
+      "Step 3: Remove hedging phrases to foreground power dynamics."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber rejected the appellant's argument that he had an exclusive right to be tried by national courts under national laws. While acknowledging that national courts have concurrent jurisdiction, the ICTY's statutory framework grants the Tribunal primacy, meaning the transfer of jurisdiction to the international tribunal did not infringe any rights of the accused when fair trial rights were equivalent.",
+    "output": "fork {\n  evaluateAppellantClaim();\n  compareJurisdictions();\n} join {\n  concludeTribunalPrimacy();\n  affirmNoRightsInfringed();\n}",
+    "technique": "Fork-Join (Concurrency)",
+    "application_steps": [
+      "Step 1: Split legal reasoning into parallel subtasks (fork).",
+      "Step 2: Represent each subtask as a function call.",
+      "Step 3: Merge results in a join block stating the final conclusion."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber, when assessing Rule 11bis applications for referral to national jurisdictions, considers whether the accused will receive a fair trial and whether the national system has demonstrated the willingness and capacity to prosecute. This assessment includes evaluating the national laws, the judicial system's independence, and guarantees for due process, ensuring genuine prosecution at the domestic level.",
+    "output": "Appeals Chamber assess Rule 11bis referral: fair trial? national system willing, able prosecute? evaluate laws, independence, due process guarantees. ensure genuine prosecution domestic level.",
+    "technique": "Function Word Omission (Child Language)",
+    "application_steps": [
+      "Step 1: Strip articles, auxiliaries, prepositions, pronouns, and conjunctions.",
+      "Step 2: Retain core content words (nouns, main verbs, adjectives).",
+      "Step 3: Keep sequence to preserve meaning despite telegraphic style."
+    ]
+  },
+  {
+    "input": "The Chamber reiterated that the principle of complementarity places the primary responsibility for investigating and prosecuting international crimes on national authorities. The Court’s role is to act as a safety net, exercising jurisdiction only when national proceedings are found to be genuinely lacking or non-existent for the same person and same conduct that form the basis of the case before the Court.",
+    "output": "The Chamber reiterated this rule. National authorities investigate and prosecute first. The Court acts as a safety net. The Court intervenes only when national proceedings are absent or inadequate for the same person and conduct.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Identify each clause conveying a distinct idea.",
+      "Step 2: Replace commas and conjunctions with periods.",
+      "Step 3: Ensure each new sentence carries one proposition."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber affirmed that the Special Court for Sierra Leone possesses primacy over national courts of Sierra Leone regarding the prosecution of persons who bear the greatest narrow scope before the Chambers can proceed with an investigation or prosecution, thereby distinguishing its role from broader national jurisdiction.",
+    "output": "The Appeals Chamber affirmeded that the Special Court possesseded primacy over national courts. The Special Courted prosecutored persons who beared greatest responsibility. This distingu sheded its role from broad national jurisdiction.",
+    "technique": "Rule Generalization (Adapted Over-regularization) (Child Language)",
+    "application_steps": [
+      "Step 1: Add regular '-ed' endings to all verbs, including irregular ones.",
+      "Step 2: Apply over-regularization to affected noun forms for consistency.",
+      "Step 3: Retain sentence order despite grammatical distortions."
+    ]
+  },
+  {
+    "input": "The ECCC's jurisdiction is limited to senior leaders of Democratic Kampuchea and those most responsible for crimes committed during the relevant period. This criterion acts as an admissibility filter, requiring a determination that an individual falls within this narrow scope before the Chambers can proceed with an investigation or prosecution, thereby distinguishing its role from broader national jurisdiction.",
+    "output": "The ECCC's jurisdiction is limited to senior leaders of Democratic Kampuchea. The ECCC's jurisdiction is limited to those most responsible for crimes. The ECCC requires a determination that an individual falls within this scope. The ECCC distinguishes this role from broader national jurisdiction.",
+    "technique": "Explicit Subject Repetition (Child Language)",
+    "application_steps": [
+      "Step 1: Break compound sentences at conjunctions.",
+      "Step 2: Replace pronouns with the full phrase “The ECCC”.",
+      "Step 3: Repeat the subject at the start of each new sentence."
+    ]
+  },
+  {
+    "input": "The Pre-Trial Chamber recognized the Prosecutor's discretion in assessing complementarity. In the Darfur situation, despite the ongoing national processes, the Prosecutor proceeded with investigations based on findings that the national authorities were unable or unwilling to genuinely investigate the same crimes and individuals relevant to the Court's jurisdiction.",
+    "output": "The Pre-Trial Chamber recognized that the Prosecutor may assess complementarity and choose to investigate when national authorities cannot or will not act. In Darfur the Chamber said: the Prosecutor acted because Sudan failed to investigate the same crimes and suspects.",
+    "technique": "Nominalization Reversal (Legal)",
+    "application_steps": [
+      "Step 1: Convert abstract nouns like \"discretion\" and \"investigations\" to verbs (\"may assess,\" \"investigate\").",
+      "Step 2: Shorten sentences while making actors explicit.",
+      "Step 3: Preserve legal condition—national inability/willingness threshold."
+    ]
+  },
+  {
+    "input": "The Office of the Prosecutor employs a \"two-track approach\" to complementarity, involving both partnership with states to promote cooperation and complementary action, and vigilance in independently and impartially verifying the genuineness of national proceedings. This strategy aims to support national authorities while ensuring the ICC remains ready to exercise its mandate where necessary.",
+    "output": "Define “Two-Track Approach” as “partner-and-verify”. The partner-and-verify strategy supports national authorities while ensuring the ICC can act when needed.",
+    "technique": "Strategic Term Definition and Compression (Legal)",
+    "application_steps": [
+      "Step 1: Introduce concise definition for the long phrase \"two-track approach\".",
+      "Step 2: Replace subsequent mentions with the defined term.",
+      "Step 3: Compress remaining clauses to one explanatory sentence."
+    ]
+  },
+  {
+    "input": "The Government of Rwanda detailed the legislative and institutional reforms undertaken to enhance responsibility for serious violations of international humanitarian law. This specific jurisdictional scope ensures that the Court focuses its resources on the most grave crimes and the most culpable individuals.",
+    "output": "Rwanda passed new laws, built special chambers, and strengthened courts. These reforms let the Court target only the gravest crimes and the most culpable people.",
+    "technique": "Fine-Tuned Sequence-to-Sequence Simplification (AI)",
+    "application_steps": [
+      "Step 1: Feed text through a simplification model fine-tuned on legal/plain pairs.",
+      "Step 2: Substitute complex legal phrases with common vocabulary.",
+      "Step 3: Output shorter sentences retaining meaning."
+    ]
+  },
+  {
+    "input": "The Defense argued that the Special Court for Sierra Leone lacked jurisdiction over the accused, asserting that certain acts fell outside the temporal or material jurisdiction of the Court. Such challenges aim to ensure that the Special Court adheres strictly to its mandate and does not overstep the agreed-upon limitations of its powers, even with its stated primacy over national courts.",
+    "output": "courts national over primacy stated its with even powers its of limitations agreed-upon the overstep not does and mandate its to adheres Court Special the that ensure to aim challenges Such. Court the of jurisdiction material or temporal the outside fell acts certain that asserting accused the over jurisdiction lacked Sierra for Court Special the that argued Defense The",
+    "technique": "Melodic Retrograde (Music)",
+    "application_steps": [
+      "Step 1: Tokenize the input into word units.",
+      "Step 2: Reverse the token sequence to create a retrograde line.",
+      "Step 3: Reassemble tokens into a continuous string, preserving punctuation."
+    ]
+  },
+  {
+    "input": "The Prosecutor must be able to gather information to verify that national procedures are carried out genuinely. While cooperative states generally benefit from a presumption of good faith, where there are indicia that a national process is not genuine, the Prosecutor must be prepared to take follow-up steps, leading if necessary to an exercise of jurisdiction.",
+    "output": "Stage 1 → Collect verification data.\nStage 2 → Check for good-faith indicators.\nStage 3 → Detect signs of sham proceedings.\nStage 4 → Trigger follow-up action; escalate to ICC jurisdiction if needed.",
+    "technique": "Pipeline (Concurrency)",
+    "application_steps": [
+      "Step 1: Identify sequential tasks described in the text.",
+      "Step 2: Map each task to a numbered pipeline stage.",
+      "Step 3: Present stages in order, using arrows to indicate flow."
+    ]
+  },
+  {
+    "input": "The shift from the \"primacy\" model, Prosecutor v. Augustin Ngirabatware) The Government of Rwanda detailed the legislative and institutional reforms undertaken to enhance its capacity and willingness to prosecute international crimes, specifically citing specialized chambers and witness protection programs. This communication aimed to demonstrate Rwanda's genuine capability to ensure fair trials, thereby supporting the referral of cases from the ICTR to its national courts.",
+    "output": "pointcut(\"capacityBoost\") {\n  \"Rwanda enhanced its capacity and willingness to prosecute international crimes by creating specialized chambers and witness-protection programs, showing genuine ability for fair trials.\" \n}",
+    "technique": "Pointcut Definition (Aspect-Oriented Programming)",
+    "application_steps": [
+      "Step 1: Distill the main reform statement showing Rwanda’s capability.",
+      "Step 2: Wrap the distilled statement inside a pointcut named \"capacityBoost\".",
+      "Step 3: Use AOP syntax to mark where the aspect (reform evidence) should be applied."
+    ]
+  }
+]
+[
+  {
+    "input": "If a requested State foresees that execution of an ICC cooperation request would conflict with its obligations under an existing international agreement, it shall immediately consult with the Court to resolve the matter.",
+    "output": "Treaty binds the State;\nICC asks—duties collide.\nTalk, solve, keep the peace.",
+    "technique": "Haiku Compression (Poetic Transformation)",
+    "application_steps": [
+      "Step 1: Reduced the provision to its three essential ideas (obligation, conflict, consultation).",
+      "Step 2: Cast each idea as a 5-7-5 syllable line.",
+      "Step 3: Preserved legal intent through compact imagery."
+    ]
+  },
+  {
+    "input": "Requests for cooperation and any supporting documents shall be conveyed through diplomatic channels or any other appropriate channel as may be designated by a State Party.",
+    "output": "SELECT request_id, channel\n  FROM CooperationRequests\n WHERE channel IN ('Diplomatic', 'DesignatedAlternate');",
+    "technique": "SQL-Style Query (Structured Query Transformation)",
+    "application_steps": [
+      "Step 1: Identified key fields (request_id, channel) from the sentence.",
+      "Step 2: Framed the legal options as an IN-clause enumeration.",
+      "Step 3: Presented in standard SQL SELECT form."
+    ]
+  },
+  {
+    "input": "Upon urgent request, a State Party shall, pending the submission of a surrender request, provisionally arrest the person sought, in accordance with its national law.",
+    "output": "provisional_arrest:\n  trigger: urgent_request\n  status: pending surrender\n  authority: national_law",
+    "technique": "YAML Mapping (Structured Serialization)",
+    "application_steps": [
+      "Step 1: Extracted three key-value pairs—trigger, status, authority.",
+      "Step 2: Represented them in YAML indentation for clarity.",
+      "Step 3: Omitted narrative to highlight data structure."
+    ]
+  },
+  {
+    "input": "Before confirming charges, the Pre-Trial Chamber shall hold a hearing to determine whether there is sufficient evidence to establish substantial grounds to believe that the person committed each of the crimes charged.",
+    "output": "EN: Does the evidence give substantial grounds for each crime?\nES: ¿Aporta la prueba motivos sustanciales para cada delito?",
+    "technique": "Parallel Translation (Bilingual Reformulation)",
+    "application_steps": [
+      "Step 1: Reformulated the rule into a direct English question.",
+      "Step 2: Translated that question into Spanish.",
+      "Step 3: Presented both lines side-by-side for comparison."
+    ]
+  },
+  {
+    "input": "The Court shall enjoy in the territory of each State Party such privileges and immunities as are necessary for the fulfilment of its purposes, including immunity from legal process.",
+    "output": "🏛️ ➡️ ✈️  Privileges & Immunities ✔️  🙅‍♂️⚖️",
+    "technique": "Emoji Summary (Iconic Representation)",
+    "application_steps": [
+      "Step 1: Chose icons for Court, movement, legal shield, and bar to legal action.",
+      "Step 2: Sequenced emojis to mirror provision logic.",
+      "Step 3: Added checkmark to signal entitlement."
+    ]
+  },
+  {
+    "input": "The Court may enforce fines and forfeitures ordered under its jurisdiction through cooperation with States Parties, consistent with individual rights.",
+    "output": "- Financial Measures\n  - Fines\n  - Forfeitures\n    - Asset Seizure\n- Safeguards\n  - Due Process\n  - Property Rights",
+    "technique": "Taxonomy Tree (Hierarchical Listing)",
+    "application_steps": [
+      "Step 1: Split the rule into enforcement tools and safeguards.",
+      "Step 2: Created a two-level indented tree.",
+      "Step 3: Labeled branches to show hierarchy."
+    ]
+  },
+  {
+    "input": "A decision of acquittal or conviction may be appealed on the grounds of procedural error, error of fact, or error of law.",
+    "output": "```mermaid\nflowchart TD\n  A[Trial Judgment] --> B{Grounds?}\n  B --> |Procedural| C[Appeal]\n  B --> |Fact| C\n  B --> |Law| C\n```",
+    "technique": "Flowchart Diagram (Visual Structuring)",
+    "application_steps": [
+      "Step 1: Identified the single decision node and three appeal branches.",
+      "Step 2: Used mermaid syntax for clarity.",
+      "Step 3: Unified branches into common ‘Appeal’ endpoint."
+    ]
+  },
+  {
+    "input": "An appeal shall be filed within thirty days of notification of the decision under appeal.",
+    "output": "/\\bappeal_filed_date\\b\\s*<\\s*decision_notification_date\\s*\\+\\s*30d/",
+    "technique": "Regular Expression Abstraction (Pattern Encoding)",
+    "application_steps": [
+      "Step 1: Translated the 30-day deadline into a pattern comparison.",
+      "Step 2: Used symbolic < operator to denote ‘within’.",
+      "Step 3: Embedded a +30d offset for clarity."
+    ]
+  },
+  {
+    "input": "In ordering reparations, the Court may, either directly or through the Trust Fund, make individual or collective awards to victims, as appropriate.",
+    "output": "if (reparationsMode === 'individual' || reparationsMode === 'collective') {\n  TrustFund.disburse(awards);\n}",
+    "technique": "Pseudocode Representation (Code Transformation)",
+    "application_steps": [
+      "Step 1: Abstracted the two award modes into a conditional.",
+      "Step 2: Represented the Trust Fund as a method call.",
+      "Step 3: Omitted legal prose to show pure logic."
+    ]
+  },
+  {
+    "input": "The Trust Fund for Victims may complement Court-ordered reparations with additional resources, subject to the criteria established by the Assembly of States Parties.",
+    "output": "Should the Trust Fund add its own resources to Court-ordered reparations under the ASP criteria?",
+    "technique": "Question Reformulation (Interrogative Transformation)",
+    "application_steps": [
+      "Step 1: Changed declarative sentence into a decisional question.",
+      "Step 2: Kept actors (Trust Fund, ASP) explicit.",
+      "Step 3: Emphasized conditional nature (‘should’)."
+    ]
+  },
+  {
+    "input": "When the person sentenced has served two-thirds of the sentence, or 25 years in the case of life imprisonment, the Court shall review the sentence to determine whether it should be reduced.",
+    "output": "There once was a review so keen,\nAt two-thirds or at 25 seen.\nThe Court took a look,\nBy statute and book,\nTo judge if the term should be lean.",
+    "technique": "Limerick Transformation (Poetic Re-rendering)",
+    "application_steps": [
+      "Step 1: Identified numeric triggers (two-thirds, 25 years).",
+      "Step 2: Shaped content into AABBA limerick rhyme.",
+      "Step 3: Preserved legal decision theme humorously."
+    ]
+  },
+  {
+    "input": "If the Pre-Trial Chamber orders interim release, it may impose conditions to ensure the person’s appearance at trial and to protect the investigation or court proceedings.",
+    "output": "“Released but restrained: show up, stay quiet, keep justice on track.”",
+    "technique": "Tagline Generation (Promotional Reframing)",
+    "application_steps": [
+      "Step 1: Condensed the condition-laden rule into a catchphrase.",
+      "Step 2: Used parallel verbs for rhythm (“show up, stay quiet”).",
+      "Step 3: Encapsulated purpose in concluding clause."
+    ]
+  },
+  {
+    "input": "In determining the sentence, the Court shall take into account factors such as the gravity of the crime and the individual circumstances of the convicted person.",
+    "output": {
+      "title": "SentencingFactors",
+      "type": "object",
+      "properties": {
+        "gravity": { "type": "string" },
+        "individualCircumstances": { "type": "string" }
+      },
+      "required": ["gravity", "individualCircumstances"]
+    },
+    "technique": "JSON Schema (Data Structure Transformation)",
+    "application_steps": [
+      "Step 1: Converted abstract factors into JSON properties.",
+      "Step 2: Declared both properties as required.",
+      "Step 3: Added a title for schema clarity."
+    ]
+  },
+  {
+    "input": "The State of enforcement may submit a request to the Court to transfer a sentenced person to another State, for reasons including humanitarian grounds or other compelling circumstances.",
+    "output": "Transfer plea? ✔︎   ➜   Humanitarian ∨ Compelling ⇒ Court decides",
+    "technique": "Headline-Style Summary (Condensed Headline)",
+    "application_steps": [
+      "Step 1: Framed the event as a short headline question and arrow.",
+      "Step 2: Replaced textual ‘or’ with logical ∨ symbol.",
+      "Step 3: Ended with outcome cue (“Court decides”)."
+    ]
+  },
+  {
+    "input": "A sentence of imprisonment shall be served in a State designated by the Court from a list of willing States Parties; such designation is made on an equitable basis and in accordance with the criteria set out in Article 103.",
+    "output": "∀s ∈ StatesList: willing(s) ∧ equitable_select(s) → possible_site(s)\nCourt_designates(site)",
+    "technique": "Formal Logic Notation (Symbolic Representation)",
+    "application_steps": [
+      "Step 1: Quantified over the list of willing States.",
+      "Step 2: Added an equitable selection predicate.",
+      "Step 3: Concluded with designation function."
+    ]
+  },
+  {
+    "input": "The Court shall conduct its proceedings in the working languages of English and French unless otherwise provided in the Rules of Procedure and Evidence.",
+    "output": "| Proceeding Language | Default? | Exception Rule |\n|---------------------|----------|----------------|\n| English             | ✓        | RPE Art. 40    |\n| French              | ✓        | RPE Art. 40    |\n| Other               | —        | RPE permits    |",
+    "technique": "Decision Matrix Table (Tabular Formatting)",
+    "application_steps": [
+      "Step 1: Created columns for language, default status, and exception basis.",
+      "Step 2: Marked ticks for defaults, dash for non-default option.",
+      "Step 3: Cited Rules generically for reference."
+    ]
+  },
+  {
+    "input": "The Court may order that certain filings be kept ex parte or under seal to protect witnesses or the integrity of proceedings.",
+    "output": "```\n+-------------+\n|  PUBLIC     |\n+-------------+\n      ↑\n      |  (protect)\n      ↓\n+-------------+\n|  SEALED     |\n+-------------+\n```",
+    "technique": "ASCII Art Block Diagram (Visual Representation)",
+    "application_steps": [
+      "Step 1: Represented two document states as boxes.",
+      "Step 2: Added arrow indicating movement from public to sealed.",
+      "Step 3: Annotated transition purpose with parenthetical note."
+    ]
+  },
+  {
+    "input": "Victims may present their views and concerns at stages of the proceedings determined to be appropriate by the Court and in a manner not prejudicial to the rights of the accused.",
+    "output": "function registerVictimInput(stage) {\n  if (court.deemsAppropriate(stage) && !prejudiceRights(accused)) {\n    victims.presentViews(stage);\n  }\n}",
+    "technique": "Function Snippet (Programming-Style Transformation)",
+    "application_steps": [
+      "Step 1: Created a function taking ‘stage’ as parameter.",
+      "Step 2: Embedded dual conditions: Court approval and no prejudice.",
+      "Step 3: Called victims’ presentation method upon success."
+    ]
+  },
+  {
+    "input": "The Court shall take appropriate measures to protect the safety, physical and psychological well-being, dignity and privacy of victims and witnesses.",
+    "output": "The ICC must protect victims and witnesses first; specifics follow only after safety is secured.",
+    "technique": "Inverted Summary (Narrative Reversal)",
+    "application_steps": [
+      "Step 1: Re-ordered emphasis so obligation (‘must protect’) leads.",
+      "Step 2: Compressed list of safeguarded interests into two groups.",
+      "Step 3: Added concluding clause to show sequencing."
+    ]
+  },
+  {
+    "input": "The Court shall submit an annual report on its activities to the Assembly of States Parties and to the United Nations.",
+    "output": "**Annual Report:** Yearly ICC activity summary → delivered to ASP & UN",
+    "technique": "Glossary Definition (Lexical Entry)",
+    "application_steps": [
+      "Step 1: Labeled term in bold followed by colon.",
+      "Step 2: Summarized purpose in concise phrase.",
+      "Step 3: Indicated dual recipients with arrow notation."
+    ]
+  }
+]
+[
+  {
+    "input": "A State that becomes a Party to this Statute thereby accepts the jurisdiction of the Court with respect to the crimes referred to in Article 5. This provision establishes automatic jurisdiction for States Parties over the core crimes. It forms the basis of the Court's personal jurisdiction.",
+    "output": "SELECT StateParty\n  FROM RomeStatute\n WHERE accepts_jurisdiction = TRUE\n   AND crimes IN (Article5);\n-- automatic jurisdiction for core crimes",
+    "technique": "SQL-Style Query (Structured Query Transformation)",
+    "application_steps": [
+      "Step 1: Identified the subject (StateParty) as a table entity.",
+      "Step 2: Mapped acceptance of jurisdiction and core crimes to WHERE clauses.",
+      "Step 3: Formatted as a SELECT statement with commentary."
+    ]
+  },
+  {
+    "input": "The Court may exercise jurisdiction if the State on the territory of which the conduct in question occurred is a Party to the Statute or has accepted jurisdiction. If the crime was committed on board a vessel or aircraft, the State of registration must be a Party or have accepted jurisdiction. This is based on the principle of territorial jurisdiction.",
+    "output": "territorial_jurisdiction:\n  territory_party: true OR accepted_jurisdiction: true\n  vessel_registration:\n    party: true OR accepted_jurisdiction: true",
+    "technique": "YAML Mapping (Structured Serialization)",
+    "application_steps": [
+      "Step 1: Broke down the two jurisdiction conditions into separate keys.",
+      "Step 2: Represented logical OR conditions as YAML boolean expressions.",
+      "Step 3: Nested vessel registration under a separate mapping."
+    ]
+  },
+  {
+    "input": "The Court may exercise jurisdiction if the State of which the person accused of the crime is a national is a Party to the Statute or has accepted jurisdiction. This provision allows for the exercise of jurisdiction based on the active nationality principle. It complements territorial jurisdiction.",
+    "output": {
+      "type": "object",
+      "properties": {
+        "nationality_jurisdiction": {
+          "type": "boolean",
+          "description": "true if StateParty OR acceptedJurisdiction"
+        }
+      },
+      "required": ["nationality_jurisdiction"]
+    },
+    "technique": "JSON Schema (Data Structure Transformation)",
+    "application_steps": [
+      "Step 1: Defined an object with a single property for nationality-based jurisdiction.",
+      "Step 2: Specified the property type and description.",
+      "Step 3: Marked the property as required."
+    ]
+  },
+  {
+    "input": "The Court may exercise its jurisdiction if a situation in which one or more crimes appear to have been committed is referred to the Prosecutor by a State Party. This mechanism allows States to self-refer situations within their territory or involving their nationals. It is a key pathway for initiating investigations.",
+    "output": "```mermaid\nflowchart LR\n  A[State Party referral] --> B{Situation with crimes?}\n  B -- yes --> C[Prosecutor investigation initiated]\n  B -- no --> D[No ICC jurisdiction]\n```",
+    "technique": "Flowchart Diagram (Visual Structuring)",
+    "application_steps": [
+      "Step 1: Identified nodes for referral, condition, initiation, and no-action.",
+      "Step 2: Connected nodes with directed arrows and conditional branches.",
+      "Step 3: Encapsulated in mermaid syntax."
+    ]
+  },
+  {
+    "input": "The Court may exercise its jurisdiction if the referral is made by the Security Council acting under Chapter VII of the Charter of the United Nations. This provides a powerful avenue for jurisdiction, even over non-States Parties.",
+    "output": "The Security Council refers under Chapter VII ⇒ ICC jurisdiction applies",
+    "technique": "Active Voice Conversion (Voice Transformation)",
+    "application_steps": [
+      "Step 1: Converted passive phrase to active cause-and-effect sentence.",
+      "Step 2: Replaced narrative connectors with a symbolic arrow.",
+      "Step 3: Preserved key entities and citation details."
+    ]
+  },
+  {
+    "input": "The Court may exercise its jurisdiction if the Prosecutor has initiated an investigation in respect of such a crime. This refers to the Prosecutor's proprio motu power, exercised in accordance with Article 15. This independent prosecutorial power is crucial for the Court's effectiveness.",
+    "output": "jurisdiction = (prosecutorInitiated ? TRUE : FALSE)",
+    "technique": "Boolean Expression (Symbolic Representation)",
+    "application_steps": [
+      "Step 1: Identified the condition (prosecutorInitiated).",
+      "Step 2: Represented it as a ternary Boolean assignment.",
+      "Step 3: Named the variable to reflect jurisdiction outcome."
+    ]
+  },
+  {
+    "input": "In deciding whether to initiate an investigation, the Prosecutor shall consider if there are substantial reasons to believe an investigation would not serve the interests of justice. This consideration takes into account the gravity of the crime and the interests of victims. This grants the Prosecutor significant discretion.",
+    "output": "Would initiating an investigation serve the interests of justice, considering crime gravity and victim interests?",
+    "technique": "Question Reformulation (Interrogative Transformation)",
+    "application_steps": [
+      "Step 1: Converted declarative policy into a direct question.",
+      "Step 2: Highlighted key evaluation criteria as question clauses.",
+      "Step 3: Ensured readability by ordering criteria logically."
+    ]
+  },
+  {
+    "input": "States Parties shall, in accordance with the provisions of this Statute, cooperate fully with the Court. This cooperation extends to the Court's investigation and prosecution of crimes within its jurisdiction. This article establishes the fundamental obligation of State Parties to assist the ICC.",
+    "output": "| Abbreviation | Definition    |\n|--------------|---------------|\n| ICC          | International Criminal Court |\n| State Party  | Country that ratified the Statute |\n| Cooperation  | Full assistance in investigations/prosecutions |",
+    "technique": "Abbreviation Table (Tabular Formatting)",
+    "application_steps": [
+      "Step 1: Identified key terms to abbreviate.",
+      "Step 2: Constructed a Markdown table with headers.",
+      "Step 3: Populated definitions concisely."
+    ]
+  },
+  {
+    "input": "The Court can request the arrest and surrender of a person to any State where that person may be found. States Parties are obligated to comply with these requests in accordance with the Statute and their national law. This is a critical aspect of international cooperation.",
+    "output": "[REDACTED] can request [REDACTED] to any [REDACTED]. [REDACTED] must comply under national law.",
+    "technique": "Named Entity Masking (Anonymization)",
+    "application_steps": [
+      "Step 1: Replaced all proper nouns and institutional references with [REDACTED].",
+      "Step 2: Maintained sentence structure and modality.",
+      "Step 3: Preserved legal obligation tone."
+    ]
+  },
+  {
+    "input": "If a person sought for surrender challenges the request based on ne bis in idem (Article 20), the requested State must consult the Court. The purpose is to determine if a relevant admissibility ruling has been made by the ICC. This ensures coordination on double jeopardy claims during surrender.",
+    "output": "- Challenge request under ne bis in idem\n- State consults ICC\n- Verify admissibility ruling exists\n- Proceed or defer surrender",
+    "technique": "Imperative Bullet List (Directive Transformation)",
+    "application_steps": [
+      "Step 1: Extracted each procedural step as an imperative command.",
+      "Step 2: Formatted as a Markdown bullet list.",
+      "Step 3: Omitted explanatory clauses for brevity."
+    ]
+  }
+]
+[
+  {
+    "input": "A case's admissibility or the Court's jurisdiction may generally be challenged only once by any person or State. The challenge must occur prior to or at the commencement of the trial. Exceptional circumstances may allow for multiple or later challenges, but only based on Article 17, paragraph 1(c).",
+    "output": "∀ challenger ∈ {persons, States}, challenge_count(challenger) ≤ 1 ∧ challenge_time ≤ trial_start ∨ (exception ∧ exception_source = Article 17(1)(c))",
+    "technique": "Formal Logic Notation (Symbolic Representation)",
+    "application_steps": [
+      "Step 1: Identified quantifiable entities («persons», «States») as the domain variable.",
+      "Step 2: Encoded the one-time challenge limit and temporal constraint in predicate form.",
+      "Step 3: Represented the exceptional condition as a logical disjunction referencing Article 17(1)(c)."
+    ]
+  },
+  {
+    "input": "If a challenge is made by a State under Article 19(2)(b) or (c), the Prosecutor shall suspend the investigation. This suspension remains in effect until the Court makes a determination in accordance with Article 17.",
+    "output": "```\nif (challenge.fromState && (challenge.type === '19(2)(b)' || challenge.type === '19(2)(c)')) {\n  prosecutor.suspendInvestigation();\n  await court.determination(Article17);\n}\n```",
+    "technique": "Pseudocode Representation (Code Transformation)",
+    "application_steps": [
+      "Step 1: Mapped legal entities («Prosecutor», «Court») to variable-like identifiers.",
+      "Step 2: Translated conditional clauses into an if-statement with logical OR.",
+      "Step 3: Represented suspension and await-determination as function calls."
+    ]
+  },
+  {
+    "input": "If the Court has decided a case is inadmissible under Article 17, the Prosecutor may request a review of that decision. This review is permissible when new facts have arisen that negate the original basis for inadmissibility.",
+    "output": "- **Trigger:** Court finds inadmissible under Article 17\n- **Action:** Prosecutor may request review\n- **Condition:** New facts must negate original basis",
+    "technique": "Structured Bullet List (Information Highlighting)",
+    "application_steps": [
+      "Step 1: Isolated the triggering event, action, and condition.",
+      "Step 2: Converted each element into a bold-labelled bullet for clarity.",
+      "Step 3: Omitted narrative connectors to focus on key elements."
+    ]
+  },
+  {
+    "input": "Except as provided in this Statute, no person shall be tried before the Court with respect to conduct which formed the basis of crimes. This applies to conduct for which the person has already been convicted or acquitted by the Court.",
+    "output": "The Court will not retry an individual for the same conduct unless explicitly allowed elsewhere in the Statute.",
+    "technique": "Inverted Summary (Narrative Reversal)",
+    "application_steps": [
+      "Step 1: Reversed the original negative construction into an affirmative statement.",
+      "Step 2: Generalized the exception clause to “unless explicitly allowed.”",
+      "Step 3: Condensed two sentences into one cohesive summary."
+    ]
+  },
+  {
+    "input": "No person shall be tried by another court for a crime referred to in Article 5 for which that person has already been convicted or acquitted by the Court.",
+    "output": "/^No person shall be tried by another court for crime in Article 5 if prior_ICC_verdict(person, crime) = true$/",
+    "technique": "Regular Expression Abstraction (Pattern Encoding)",
+    "application_steps": [
+      "Step 1: Identified the key prohibition and its condition.",
+      "Step 2: Encoded the rule as a regex-style assertion.",
+      "Step 3: Applied a function call notation for prior verdict check."
+    ]
+  },
+  {
+    "input": "A person tried by another court for conduct proscribed under Articles 6, 7, or 8 may be tried by the Court if the national proceedings were for shielding the person from criminal responsibility. This exception to ne bis in idem addresses sham trials.",
+    "output": "```mermaid\ndecisionTree\n  title Exception Decision\n  \"Tried by national court for Art6/7/8?\" --> |Shielding motive| \"ICC may try\"\n  \"Tried by national court for Art6/7/8?\" --> |Legitimate process| \"No ICC trial\"\n```",
+    "technique": "Decision Tree Diagram (Visual Structuring)",
+    "application_steps": [
+      "Step 1: Framed the key decision point as whether shielding motive exists.",
+      "Step 2: Used mermaid syntax to define branches for each outcome.",
+      "Step 3: Kept labels concise to reflect legal trigger and result."
+    ]
+  },
+  {
+    "input": "A person previously tried nationally can be tried by the ICC if the other court's proceedings were not conducted independently or impartially. This applies if they were conducted inconsistently with an intent to bring the person to justice.",
+    "output": "```js\nfunction isICCAdmissible(nationalProceedings) {\n  return !nationalProceedings.independent || !nationalProceedings.impartial;\n}\n```",
+    "technique": "Function Snippet (Programming-Style Transformation)",
+    "application_steps": [
+      "Step 1: Defined a boolean function encapsulating the admissibility test.",
+      "Step 2: Mapped «independent» and «impartial» to Boolean properties.",
+      "Step 3: Used logical NOT to trigger ICC jurisdiction when either fails."
+    ]
+  },
+  {
+    "input": "The States Parties emphasize that the International Criminal Court established under this Statute shall be complementary to national criminal jurisdictions. This foundational declaration underscores the Court's subsidiary role.",
+    "output": "“Complementarity is our cornerstone: the ICC serves only when national courts cannot.”",
+    "technique": "Tagline Generation (Promotional Reframing)",
+    "application_steps": [
+      "Step 1: Captured the essence of subsidiary role in a single slogan.",
+      "Step 2: Introduced parallelism (“only when… cannot”) for rhetorical impact.",
+      "Step 3: Removed formal references to keep the tone memorable."
+    ]
+  },
+  {
+    "input": "An International Criminal Court is hereby established as a permanent institution. It shall have the power to exercise jurisdiction over persons for the most serious crimes of international concern, as referred to in this Statute. Crucially, it shall be complementary to national criminal jurisdictions.",
+    "output": "ICC Established: Permanent court → Serious international crimes → Subsidiary to national systems",
+    "technique": "Headline-Style Summary (Condensed Headline)",
+    "application_steps": [
+      "Step 1: Broke into three core facts separated by arrows.",
+      "Step 2: Transformed narrative into lead-style headline fragments.",
+      "Step 3: Highlighted complementarity as the crucial final element."
+    ]
+  },
+  {
+    "input": "The jurisdiction of the Court is limited to the most serious crimes of concern to the international community as a whole. These crimes include genocide, crimes against humanity, war crimes, and the crime of aggression. This article defines the subject-matter jurisdiction of the Court.",
+    "output": "**Jurisdiction (Article 5):** serious international crimes ⇒ genocide; crimes against humanity; war crimes; aggression",
+    "technique": "Glossary Definition (Lexical Entry)",
+    "application_steps": [
+      "Step 1: Prefixed with label and article reference in bold.",
+      "Step 2: Listed crime categories separated by semicolons.",
+      "Step 3: Appended “subject-matter jurisdiction” context in summary."
+    ]
+  }
+]
+[
+  {
+    "input": "For the ICC, the question of complementarity pertains to the admissibility of a case rather than the Court's inherent jurisdiction. Therefore, the principle of complementarity does not affect the existence of jurisdiction of the ICC itself, but rather regulates when this jurisdiction may be exercised, with Rules of Procedure providing that jurisdiction challenges are ruled upon before admissibility.",
+    "output": "For the ICC, the question of complementarity pertains to the admissibility of a case rather than the Court's inherent jurisdiction. \n\nExtracted logic: The principle of complementarity does not affect the existence of ICC jurisdiction, but regulates when it may be exercised, with Rules of Procedure ruling on challenges before admissibility.",
+    "technique": "Extract Method (Code Refactoring)",
+    "application_steps": [
+      "Step 1: Identified the subordinate clause beginning with 'Therefore...' as a cohesive logic block.",
+      "Step 2: Created a new sentence prefixed by 'Extracted logic:' containing that block.",
+      "Step 3: Replaced the original clause with a call to the extracted sentence."
+    ]
+  },
+  {
+    "input": "Complementarity and cooperation are fundamentally connected, forming a mutually reinforcing relationship central to the Rome Statute system. This involves not only the judicial application of Article 17 but also simultaneous efforts to support national authorities in taking greater responsibility for investigating and prosecuting core international crimes, representing a comprehensive \"two-track approach\".",
+    "output": "# Complementarity & Cooperation\n\nComplementarity and cooperation are fundamentally connected, forming a mutually reinforcing relationship central to the Rome Statute system.\n\nThis involves not only:\n- Judicial application of Article 17\n- Supporting national authorities in investigations and prosecutions\n\nTogether they represent a comprehensive “two-track approach.”",
+    "technique": "Hierarchical Headings (Visual/Spatial Organization)",
+    "application_steps": [
+      "Step 1: Added a top‐level heading summarizing the main idea.",
+      "Step 2: Inserted a sub‐heading bullet list for the two core components.",
+      "Step 3: Formatted list items for clarity and scanning."
+    ]
+  },
+  {
+    "input": "Hybrid tribunals, being neither fully international nor purely domestic, exhibit varied relationships with national courts, as cited in \"An Overview of the Principle of Complementarity\" Article 17 of the Rome Statute reflects the core purpose of the principle of complementarity, which is \"to protect sovereign interests in the pursuit of justice for crimes within the Court’s jurisdiction.\" It mandates that the Court \"shall determine that a case is inadmissible\" if the criteria stipulated in the article are genuinely satisfied by national proceedings.",
+    "output": "- Hybrid tribunals are neither fully international nor purely domestic\n- They exhibit varied relationships with national courts\n- Article 17 protects sovereign interests in pursuing justice\n- The Court shall declare a case inadmissible if national proceedings meet Article 17 criteria",
+    "technique": "Bullet Point Transformation (Visual/Spatial Organization)",
+    "application_steps": [
+      "Step 1: Broke the paragraph into its four core propositions.",
+      "Step 2: Converted each proposition into a standalone bullet point.",
+      "Step 3: Removed narrative connectors to prioritize scannability."
+    ]
+  },
+  {
+    "input": "The concept of complementarity, at its inception, was conceived to balance the competing interests of establishing a court with universal jurisdiction and respecting state sovereignty. A case becomes admissible at the ICC only when the state with original jurisdiction is \"unwilling or unable genuinely to carry out the investigation or prosecution,\" ensuring national courts retain jurisdiction otherwise.",
+    "output": "Complementarity balances universal jurisdiction with state sovereignty. Case admissible at ICC only when the state is unwilling or unable to prosecute. Otherwise, national courts keep jurisdiction.",
+    "technique": "Minimalist Interface Text (Visual/Spatial Organization)",
+    "application_steps": [
+      "Step 1: Removed extraneous qualifiers and citation details.",
+      "Step 2: Consolidated into three concise sentences.",
+      "Step 3: Preserved only essential policy conditions and outcomes."
+    ]
+  },
+  {
+    "input": "A State that has challenged a Pre-Trial Chamber ruling under Article 18 may subsequently challenge the admissibility of a case under Article 19. This subsequent challenge must be based on additional significant facts or a significant change of circumstances. This allows for evolving factual situations to be considered.",
+    "output": "A State that challenges an Article 18 ruling may later challenge admissibility under Article 19.\n\n---\n\nSuch a challenge requires additional facts or changed circumstances.\n\n---\n\nThis ensures evolving situations can be reviewed.",
+    "technique": "Chunking with Visual Breaks (Visual/Spatial Organization)",
+    "application_steps": [
+      "Step 1: Split the original text into three conceptual chunks.",
+      "Step 2: Inserted '---' horizontal rules between chunks.",
+      "Step 3: Retained key conditions and explanatory clause in each chunk."
+    ]
+  },
+  {
+    "input": "The Court shall satisfy itself that it has jurisdiction in any case brought before it. The Court may also, on its own motion, determine the admissibility of a case in accordance with Article 17. This affirms the Court's inherent power to assess its own competence.",
+    "output": "The Court checks its jurisdiction in every case. It can also decide admissibility under Article 17 on its own motion. This confirms its power to assess competence.",
+    "technique": "Simplified Syntax Patterns (Reading Level Adjustment)",
+    "application_steps": [
+      "Step 1: Shortened sentences to basic S-V-O form.",
+      "Step 2: Replaced passive constructions with active verbs.",
+      "Step 3: Removed redundant phrases to target lower reading level."
+    ]
+  },
+  {
+    "input": "Challenges to the admissibility of a case or the jurisdiction of the Court may be made by an accused or a person for whom a warrant of arrest or summons to appear has been issued under Article 58. This grants specific individuals the right to contest the Court's authority.",
+    "output": "Anyone indicted or summoned under Article 58 may contest admissibility or jurisdiction.",
+    "technique": "Flesch-Kincaid Level Targeting (Reading Level Adjustment)",
+    "application_steps": [
+      "Step 1: Merged two sentences into one compact statement.",
+      "Step 2: Replaced complex noun phrases with simpler equivalents.",
+      "Step 3: Ensured vocabulary and structure suit a middle-school audience."
+    ]
+  },
+  {
+    "input": "A State which has jurisdiction over a case may challenge admissibility or jurisdiction. This challenge is based on the ground that it is investigating or prosecuting the case, or has investigated or prosecuted it. This empowers states to assert their primary jurisdiction.",
+    "output": "challengeState(state) = {\n  if (state.isInvestigating || state.hasInvestigated) {\n    return 'admissibilityOrJurisdictionChallenge';\n  }\n}",
+    "technique": "Beta-reduction (Lambda Calculus)",
+    "application_steps": [
+      "Step 1: Represented challenge logic as a lambda-style function.",
+      "Step 2: Substituted conditions directly into function body.",
+      "Step 3: Reduced descriptive clauses into programmatic expressions."
+    ]
+  },
+  {
+    "input": "Challenges to the admissibility or jurisdiction may also be made by a State from which acceptance of jurisdiction is required under Article 12. This provision ensures that states whose consent is necessary can formally contest the Court's exercise of power.",
+    "output": "(λState. contest(state))",
+    "technique": "Eta-conversion (Lambda Calculus)",
+    "application_steps": [
+      "Step 1: Encapsulated contest action as a lambda abstraction over State.",
+      "Step 2: Removed redundant lambda application since 'state' is passed unchanged.",
+      "Step 3: Simplified to the pure function name 'contest'."
+    ]
+  },
+  {
+    "input": "The Prosecutor may seek a ruling from the Court regarding a question of jurisdiction or admissibility. Additionally, those who referred the situation under Article 13, as well as victims, may submit observations to the Court in such proceedings. This ensures broad participation in jurisdictional debates.",
+    "output": "λproceedings. notify(prosecutor, referrers, victims)",
+    "technique": "Alpha-conversion (Lambda Calculus)",
+    "application_steps": [
+      "Step 1: Renamed bound variable from 'λx' to 'λproceedings' for clarity.",
+      "Step 2: Consolidated participants into parameter list (prosecutor, referrers, victims).",
+      "Step 3: Preserved semantic meaning while avoiding name collisions."
+    ]
+  }
+]
