@@ -1,0 +1,1838 @@
+[
+  {
+    "input": "The gravity threshold in Article 17(1)(d) of the Rome Statute serves as an additional admissibility criterion, distinct from the complementarity assessment. This threshold ensures that the Court focuses its limited resources on the most serious crimes of concern to the international community. The Court's jurisprudence has identified several factors relevant to the gravity assessment, including the scale, nature, manner of commission, and impact of the crimes, as well as the role and position of the alleged perpetrator.",
+    "output": "COMPRESS0.7 LEXICALSIMPLE The gravity threshold in Article 17(1)(d) of the Rome Statute serves as an additional admissibility criterion, distinct from the complementarity assessment. Court focuses resources on serious international crimes. Court considers scale, nature, commission manner, impact, and perpetrator role.",
+    "technique": "Controllable Generation with Control Tokens (AI)",
+    "application_steps": [
+      "Step 1: Add control tokens COMPRESS0.7 LEXICALSIMPLE to specify compression ratio and lexical simplicity",
+      "Step 2: Compress content by removing redundant phrases while maintaining core meaning",
+      "Step 3: Simplify complex terms and sentence structures for accessibility"
+    ]
+  },
+  {
+    "input": "The concept of proactive complementarity suggests that the ICC should actively encourage domestic prosecutions of international crimes through positive engagement with national authorities. This approach recognizes that the Court's limited resources make it impossible for it to prosecute all international crimes, and that national courts are often better positioned to conduct such proceedings. By promoting domestic capacity and willingness, the ICC can maximize its impact and fulfill the vision of the Rome Statute system as a comprehensive framework for international justice.",
+    "output": "The concept of proactive complementarity suggests that the ICC should actively encourage domestic prosecutions of international crimes through positive engagement with national authorities. By promoting domestic capacity and willingness, the ICC can maximize its impact and fulfill the vision of the Rome Statute system as a comprehensive framework for international justice.",
+    "technique": "Attention-Based Token Pruning (AI)",
+    "application_steps": [
+      "Step 1: Identify tokens with low attention weights in middle sentence",
+      "Step 2: Remove redundant explanatory clause about limited resources and positioning",
+      "Step 3: Maintain core meaning while creating more concise text"
+    ]
+  },
+  {
+    "input": "The International Tribunal shall have primacy over national courts. At any stage of the procedure, the International Tribunal may formally request national courts to defer to the competence of the International Tribunal in accordance with the present Statute and the Rules of Procedure and Evidence of the International Tribunal. Upon such request, the national court shall defer to the competence of the International Tribunal and shall refer the case to the International Tribunal.",
+    "output": "The International Tribunal shall have priority over national courts. At any stage of the procedure, the International Tribunal may formally request national courts to defer to the competence of the International Tribunal in accordance with the present Statute and the Rules of Procedure and Evidence of the International Tribunal. Upon such request, the national court shall defer to the competence of the International Tribunal and shall refer the case to the International Tribunal.",
+    "technique": "Embedding-Based Lexical Simplification (AI)",
+    "application_steps": [
+      "Step 1: Identify complex word 'primacy' for substitution",
+      "Step 2: Use contextual embeddings to find semantically similar simpler synonym",
+      "Step 3: Replace 'primacy' with 'priority' maintaining legal meaning"
+    ]
+  },
+  {
+    "input": "The Special Court shall have primacy over the national courts of Sierra Leone. At any stage of the procedure, the Special Court may formally request a national court to defer to its competence in accordance with the present Statute and the Rules of Procedure and Evidence. Upon such request, the national court concerned shall defer to the competence of the Special Court.",
+    "output": "The Special Court shall maintain optimal primacy temperature over the national courts of Sierra Leone at 65°C. At any procedural stage, the Special Court may formally request temperature adjustment from national courts to defer to competence levels in accordance with present heating protocols and Evidence procedures. Upon such thermal request, the national court concerned shall defer to the Special Court's temperature competence.",
+    "technique": "Temperature Control in Mashing (Brewing Science)",
+    "application_steps": [
+      "Step 1: Replace legal hierarchy terms with temperature control terminology",
+      "Step 2: Convert procedural stages to brewing process stages with specific temperatures",
+      "Step 3: Transform legal protocols into thermal management procedures"
+    ]
+  },
+  {
+    "input": "The International Tribunal and national courts have concurrent jurisdiction to prosecute persons for serious violations of international humanitarian law. However, the International Tribunal has primacy over national courts, which means that, at any stage of the procedure, it may formally request national courts to defer to its competence. This primacy is not merely a matter of concurrent jurisdiction it establishes a vertical relationship where the International Tribunal's jurisdiction takes precedence.",
+    "output": "The International Tribunal and national courts have concurrent jurisdiction with adjusted mineral content (calcium, sulfate, chloride) to prosecute persons for serious violations matching desired legal style profiles. However, the International Tribunal has primacy through water chemistry adjustment over national courts, affecting jurisdictional pH and precedent extraction. This primacy establishes vertical mineral relationships where International Tribunal jurisdiction takes precedence through gypsum addition for crisp, precedent-forward legal proceedings.",
+    "technique": "Water Chemistry Adjustment (Brewing Science)",
+    "application_steps": [
+      "Step 1: Replace jurisdictional terms with water chemistry terminology",
+      "Step 2: Convert legal processes to mineral adjustment procedures",
+      "Step 3: Transform hierarchical relationships into chemical composition control"
+    ]
+  },
+  {
+    "input": "The Trial Chamber finds that the essential conditions for referral under Rule 11bis are met the accused would receive a fair trial in the national courts, and the crimes charged are adequately provided for under national law. The gravity of the crimes and the level of responsibility of the accused do not preclude referral to national jurisdiction, particularly given the State's demonstrated commitment to genuine prosecution of international crimes.",
+    "output": "Through fractional distillation, the Trial Chamber separates essential conditions for referral under Rule 11bis, achieving precise separation of fair trial components from national court elements, enhancing purity of jurisdictional control. The gravity-based separation of crimes and responsibility levels enables referral isolation to national jurisdiction through repeated vaporization and condensation of State commitment to genuine prosecution processes.",
+    "technique": "Fractional Distillation (Distillation)",
+    "application_steps": [
+      "Step 1: Convert legal analysis to distillation process terminology",
+      "Step 2: Transform jurisdictional assessment into separation and purification procedures",
+      "Step 3: Apply fractionation concepts to legal decision-making processes"
+    ]
+  },
+  {
+    "input": "Algebraic notation maps chessboard squares to alphanumeric coordinates using files a-h and ranks 1-8, enabling concise move recording with piece letters K, Q, R, B, N followed by destination squares. This standard system eliminates ambiguity through systematic coordinate assignment.",
+    "output": "Jd4 Jurisdiction to d4 square Cc7 Complementarity to c7 square Pg6 Primacy to g6 square",
+    "technique": "Algebraic Notation Coordinate System (Chess)",
+    "application_steps": [
+      "Step 1: Map legal concepts to chess piece notation system",
+      "Step 2: Assign coordinate positions to jurisdictional movements",
+      "Step 3: Create concise legal move recording using alphanumeric coordinates"
+    ]
+  },
+  {
+    "input": "ICCF numeric notation represents squares with two-digit numbers where first digit indicates file (1-8 for a-h) and second digit indicates rank. Moves become four-digit sequences showing source and destination, eliminating language barriers in international correspondence.",
+    "output": "Jd4 5254 from square 52 to 54 Cc7 3137 from square 31 to 37 Pg6 4786 from square 47 to 86",
+    "technique": "ICCF Numeric Notation Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Convert legal movements to ICCF numeric system",
+      "Step 2: Create four-digit sequences for jurisdictional transfers",
+      "Step 3: Eliminate language barriers in international legal correspondence"
+    ]
+  },
+  {
+    "input": "The Special Court's temporal jurisdiction commences on 30 November 1996, and any acts committed prior to that date fall outside the Court's competence. The principle of legality requires that criminal jurisdiction be clearly established by law at the time of the alleged conduct. While the Court has primacy over national courts for crimes within its jurisdiction, it cannot exercise that primacy over conduct that was not within its temporal mandate.",
+    "output": "┌─────────────────────────────┐\n│ │ │ │SC│ │ │ │96│\n├─────────────────────────────┤\n│ │PL│ │ │CJ│ │ │ │\n├─────────────────────────────┤\n│ │ │PR│ │ │NC│ │ │\n├─────────────────────────────┤\n│TM│ │ │ │ │ │ │ │\n└─────────────────────────────┘\nFiles: a-h (Temporal-Mandate)\nRanks: 1-8 (1996-Competence)",
+    "technique": "FEN to ASCII Art Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Convert legal concepts to chess piece symbols (SC=Special Court, PL=Principle Legality)",
+      "Step 2: Create ASCII grid representation of jurisdictional relationships",
+      "Step 3: Add coordinate labels for temporal and competence dimensions"
+    ]
+  },
+  {
+    "input": "The Co-Investigating Judges must determine whether the case falls within the ECCC's personal jurisdiction ratione personae, requiring that suspects be among those most responsible for crimes committed during the temporal jurisdiction of the Court. This jurisdictional limitation reflects the Court's mandate to focus on senior leaders and those bearing greatest responsibility, distinguishing it from broader national prosecutorial authority.",
+    "output": "Jd4JUCO Co-Investigating Judges to d4 for jurisdictional control and case oversight Rp7SRLE Ratione personae to p7 for senior responsibility and leadership evaluation Tm5TMFO Temporal mandate to m5 for focus and organizational priority",
+    "technique": "Move Intent Encoding System (Chess)",
+    "application_steps": [
+      "Step 1: Assign strategic purpose tags to legal concepts (JUCO=Jurisdictional Control)",
+      "Step 2: Create move notation with intent encoding for legal processes",
+      "Step 3: Apply pattern analysis structure to jurisdictional decision-making"
+    ]
+  },
+  {
+    "input": "The Appeals Chamber emphasizes that the Tribunal's primacy over national courts does not depend on the adequacy or inadequacy of national legal systems, but is inherent in the Tribunal's mandate as established by the Security Council. National proceedings, even if conducted in good faith, cannot preclude the Tribunal's jurisdiction once it has been properly invoked.",
+    "output": "Appeals(Chamber, X) unified with Tribunal(primacy, Y) produces substitution X→Security_Council, Y→mandate and simplified term Tribunal(primacy, mandate). Complex jurisdiction Appeals(Chamber, adequacy), National(proceedings, good_faith) unifies to derive Appeals(Chamber, Security_Council) with single substitution.",
+    "technique": "Unification-Based Term Simplification (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Identify terms for syntactic unification in legal hierarchy",
+      "Step 2: Find most general substitutions for jurisdictional relationships",
+      "Step 3: Apply substitutions to transform complex legal expressions into simplified forms"
+    ]
+  },
+  {
+    "input": "The Tribunal's jurisdiction over terrorism under Lebanese law represents a unique feature among international criminal tribunals. The application of national law within an international judicial framework requires careful consideration of both the specificities of Lebanese criminal law and international fair trial standards, creating a distinctive approach to the relationship between national and international legal systems.",
+    "output": "Pattern Tribunal(X, Y) matches Lebanese_law(terrorism, jurisdiction) and transforms to International_framework(jurisdiction, terrorism) via rule Tribunal(X, Y) → International_framework(Y, X). National_law pattern SELECT specificities FROM Lebanese_criminal_law transforms to international_judicial equivalent framework.Lebanese_criminal_law.find({specificities: 1}).",
+    "technique": "Parametric Pattern Transformation (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Create template patterns for legal jurisdiction transformation",
+      "Step 2: Bind variables to matched legal components",
+      "Step 3: Apply transformation rules to convert between legal frameworks"
+    ]
+  },
+  {
+    "input": "The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunal's primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international community's interest in prosecution may transcend purely national considerations.",
+    "output": "λjurisdiction.jurisdiction concurrent_jurisdiction → concurrent_jurisdiction apply the identity function. λx.y.xy International_Tribunal national_courts → y.International_Tribunal(national_courts) substitute International_Tribunal for x.",
+    "technique": "Beta Reduction (Formal Methods)",
+    "application_steps": [
+      "Step 1: Apply lambda calculus function-application to legal jurisdiction",
+      "Step 2: Substitute argument expressions for formal parameters in legal relationships",
+      "Step 3: Simplify jurisdictional applications through beta reduction"
+    ]
+  },
+  {
+    "input": "The Special Panels' jurisdiction over serious crimes committed in East Timor during 1999 operates alongside the continuing jurisdiction of Indonesian courts over the same events. This concurrent jurisdiction requires careful coordination to avoid conflicting proceedings, though no formal primacy relationship exists between the Special Panels and Indonesian courts, unlike the relationship between ad hoc tribunals and national jurisdictions.",
+    "output": "while (serious_crimes_in_East_Timor) { Special_Panels.jurisdiction++; Indonesian_courts.continuing_jurisdiction++; } List comprehension [coordinate(x) | x ← conflicting_proceedings] → map(λx.coordinate(x), conflicting_proceedings).",
+    "technique": "Desugaring (Formal Methods)",
+    "application_steps": [
+      "Step 1: Replace high-level jurisdictional syntax with primitive legal constructs",
+      "Step 2: Convert concurrent jurisdiction loops into while statements",
+      "Step 3: Transform coordination comprehensions into primitive mapping functions"
+    ]
+  },
+  {
+    "input": "The Prosecution submits that Rwanda's national legal system has undergone substantial reforms since the establishment of the ICTR, including the creation of specialized chambers and the abolition of the death penalty. These reforms, combined with Rwanda's demonstrated commitment to fair trial standards and adequate witness protection measures, satisfy the requirements for referral under Rule 11bis of the Rules of Procedure and Evidence.",
+    "output": "Using Rwanda + 0 → Rwanda, simplify legal_system + substantial_reforms to legal_system. With specialized_chambers * 1 → specialized_chambers, rewrite death_penalty + abolition * 0 to abolition.",
+    "technique": "Term Rewriting Algebraic Simplification (Formal Methods)",
+    "application_steps": [
+      "Step 1: Apply algebraic rules like x+0=x to legal reform equations",
+      "Step 2: Rewrite legal expressions using identity and zero multiplication rules",
+      "Step 3: Systematically transform legal terms into normalized simplified forms"
+    ]
+  },
+  {
+    "input": "Converting latitude/longitude to UTM coordinates. Transforming global datasets from WGS84 to local coordinate systems.",
+    "output": "Converting legal_jurisdiction/complementarity_principles to International_Criminal_Court coordinates. Transforming global legal_datasets from Rome_Statute to local jurisdictional_systems.",
+    "technique": "Map Projection Transformation (GeoSpatial)",
+    "application_steps": [
+      "Step 1: Convert spherical legal coordinates to flat jurisdictional representations",
+      "Step 2: Apply mathematical transformation formulas to legal positioning",
+      "Step 3: Preserve specific legal properties like jurisdiction area and precedent distance"
+    ]
+  },
+  {
+    "input": "The Defense submits that the International Tribunal's assertion of jurisdiction violates the principle of complementarity as understood in customary international law. While acknowledging that the ICTY Statute grants primacy to the International Tribunal, the Defense argues that this primacy should not be exercised where national courts have already commenced genuine proceedings, as this undermines the sovereignty and judicial integrity of the territorial state.",
+    "output": "Merging individual Defense_submission footprints into International_Tribunal blocks. Combining small complementarity_principle patches into larger customary_international_law areas.",
+    "technique": "Aggregation (GeoSpatial)",
+    "application_steps": [
+      "Step 1: Combine multiple nearby legal features of same type into single units",
+      "Step 2: Reduce visual complexity of jurisdictional arguments while maintaining total legal area",
+      "Step 3: Create more readable legal feature distributions at smaller analytical scales"
+    ]
+  },
+  {
+    "input": "The Government of Sierra Leone respectfully requests that the Special Court exercise its primacy jurisdiction over cases involving senior members of the Armed Forces Revolutionary Council and the Revolutionary United Front. The Government acknowledges that while Sierra Leone's Truth and Reconciliation Commission has examined these events, criminal prosecution by national courts would not adequately address the gravity of the crimes or satisfy the victims' right to justice.",
+    "output": "SIZE: Government of Sierra Leone (1 requesting entity) ACTIVITY: exercising primacy jurisdiction LOCATION: Special Court jurisdiction over AFRC/RUF cases UNIT: Armed Forces Revolutionary Council and Revolutionary United Front TIME: post-Truth and Reconciliation Commission examination EQUIPMENT: criminal prosecution mechanisms insufficient for gravity/victims' rights",
+    "technique": "SALUTE Report Standardization (Military)",
+    "application_steps": [
+      "Step 1: Transform complex legal observations into structured SALUTE intelligence format",
+      "Step 2: Compress detailed jurisdictional data into Size, Activity, Location, Unit, Time, Equipment categories",
+      "Step 3: Enable rapid transmission and processing of legal reconnaissance information"
+    ]
+  },
+  {
+    "input": "The Defense challenges the Tribunal's jurisdiction on the grounds that the accused has already been tried by Rwandan courts for the same conduct underlying the international charges. While acknowledging that the ICTY and ICTR have primacy over national courts, the Defense argues that this primacy cannot overcome the fundamental principle of ne bis in idem when national proceedings were conducted fairly and resulted in a final judgment.",
+    "output": "SITUATION: Defense challenges Tribunal jurisdiction based on prior Rwandan court proceedings. MISSION: Establish ne bis in idem principle precedence over Tribunal primacy. EXECUTION: Phase 1 - Acknowledge ICTY/ICTR primacy, Phase 2 - Assert fair national proceedings protection, Phase 3 - Demonstrate final judgment authority. SUSTAINMENT: Maintain fundamental legal principle integrity. COMMAND/CONTROL: Defense coordination with international legal precedent framework.",
+    "technique": "Operations Order (OPORD) Five-Paragraph Structure (Military)",
+    "application_steps": [
+      "Step 1: Transform complex legal defense strategy into standardized OPORD format",
+      "Step 2: Organize jurisdictional challenge information into five universal military categories",
+      "Step 3: Simplify legal order transmission for tactical legal implementation"
+    ]
+  },
+  {
+    "input": "The Prosecution applies for leave to amend the indictment to include additional charges of terrorism under Lebanese law. The Prosecution submits that the Tribunal's unique mandate to apply Lebanese criminal law within an international judicial framework permits such amendments provided they are based on the same factual matrix and do not prejudice the accused's right to prepare an adequate defense.",
+    "output": "Step 1: Research legal sources for terrorism charges under Lebanese law. Step 2: Outline amendment application structure. Step 3: Write introduction establishing Tribunal's unique mandate. Step 4: Draft body paragraphs addressing factual matrix consistency and defense prejudice prevention. Step 5: Edit for international judicial framework compliance.",
+    "technique": "Task Analysis (Pedagogy)",
+    "application_steps": [
+      "Step 1: Decompose complex legal amendment process into manageable sequential steps",
+      "Step 2: Create targeted learning objectives for each procedural component",
+      "Step 3: Build systematic instruction framework for legal amendment preparation"
+    ]
+  },
+  {
+    "input": "The evolution from the primacy model of the ad hoc tribunals to the complementarity regime of the ICC reflects a fundamental shift in the relationship between international and national criminal justice systems. While primacy emphasizes the superior authority of international tribunals, complementarity recognizes the primary responsibility of states to investigate and prosecute international crimes, with the ICC serving as a court of last resort.",
+    "output": "The evolution from the primacy model of the ad hoc tribunals to the complementarity regime of the ICC reflects a fundamental shift in the relationship between international and national criminal justice systems. While primacy emphasizes the superior authority of international tribunals, complementarity recognizes the primary responsibility of states to investigate and prosecute international crimes, with the ICC serving as a court of last resort. Renaming the dummy variable in primacy∫tribunals dx to complementarity∫tribunals dt ensures international_authority outside the integral isn't confused with the integration variable.",
+    "technique": "Variable Renaming - Alpha Conversion (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify bound variables in legal expressions that create naming conflicts",
+      "Step 2: Rename dummy variables to avoid confusion between legal concepts",
+      "Step 3: Preserve legal statement meaning while simplifying jurisdictional notation"
+    ]
+  },
+  {
+    "input": "The principle of complementarity in the Rome Statute establishes that the ICC will only exercise jurisdiction when national courts are unwilling or unable to genuinely investigate or prosecute. This creates a presumption in favor of national jurisdiction, requiring the ICC to demonstrate that domestic proceedings are inadequate before it can intervene.",
+    "output": "If national courts are willing and able (P), then ICC exercises jurisdiction (Q). Transforming into contrapositive: If ICC does not exercise jurisdiction (¬Q), then national courts are willing and able (¬P), which is logically equivalent but demonstrates presumption in favor of national jurisdiction more clearly.",
+    "technique": "Proof by Contraposition (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Transform legal implication P→Q into contrapositive ¬Q→¬P",
+      "Step 2: Identify logical equivalence that makes jurisdictional relationship clearer",
+      "Step 3: Demonstrate presumption principle through contrapositive reasoning"
+    ]
+  },
+  {
+    "input": "The ICC's preliminary examination process serves as a filter to determine whether a situation warrants formal investigation. During this phase, the Office of the Prosecutor conducts a preliminary analysis of available information to assess whether there is a reasonable basis to believe that crimes within the Court's jurisdiction have been committed.",
+    "output": "Let P(preliminary_examination) = filter_function and I(investigation) = formal_process. Assume ¬P(preliminary_examination) → ¬I(investigation). To prove P(preliminary_examination) → I(investigation), we show through preliminary analysis that crimes_committed ∧ reasonable_basis → jurisdiction_satisfied, therefore filter_function → formal_process.",
+    "technique": "Proof by Contradiction (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Assume negation of desired legal conclusion",
+      "Step 2: Show assumption leads to logical contradiction in jurisdictional framework",
+      "Step 3: Conclude original legal statement must be true by elimination"
+    ]
+  },
+  {
+    "input": "The Rome Statute's admissibility provisions in Articles 17-19 establish a framework for determining when the ICC can exercise jurisdiction. These provisions create a multi-layered assessment process that considers complementarity, gravity, and the interests of justice.",
+    "output": "∃x ∈ Rome_Statute : Admissibility(x) ∧ Articles_17_19(x) → Framework(x). ∀y ∈ ICC_Jurisdiction : Multi_layered_assessment(y) ↔ [Complementarity(y) ∧ Gravity(y) ∧ Interests_of_justice(y)].",
+    "technique": "First-Order Logic Formalization (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Convert legal natural language into first-order logical propositions",
+      "Step 2: Use quantifiers to express universal and existential legal relationships",
+      "Step 3: Create formal logical framework for admissibility assessment process"
+    ]
+  },
+  {
+    "input": "The ICC's jurisdiction is limited to crimes committed after the entry into force of the Rome Statute on July 1, 2002, for founding states, and after the date of ratification for states that joined later. This temporal limitation reflects the principle of non-retroactivity in international criminal law.",
+    "output": "∫[July_1_2002]^[∞] ICC_jurisdiction(t) dt for founding states. ∫[ratification_date]^[∞] ICC_jurisdiction(t) dt for later joining states. ∂/∂t[non_retroactivity_principle] = 0, indicating temporal limitation remains constant across jurisdictional boundaries.",
+    "technique": "Calculus Application (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Express temporal jurisdiction as definite integrals with appropriate bounds",
+      "Step 2: Apply calculus concepts to legal temporal limitations",
+      "Step 3: Use derivatives to show non-retroactivity principle consistency"
+    ]
+  },
+  {
+    "input": "State cooperation is essential for the ICC's effectiveness, as the Court lacks its own enforcement mechanism and relies on states to arrest suspects, provide evidence, and facilitate witness testimony. The Rome Statute establishes various obligations for state parties to cooperate with the Court's proceedings.",
+    "output": "State_cooperation ∈ {essential, voluntary, mandatory} where essential = max(effectiveness). ICC_enforcement = ∅ (null set). State_obligations ⊆ {arrest_suspects, provide_evidence, facilitate_witnesses} such that |State_obligations| → ICC_effectiveness.",
+    "technique": "Set Theory Application (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define legal concepts as mathematical sets and their relationships",
+      "Step 2: Use set operations to represent jurisdictional dependencies",
+      "Step 3: Apply cardinality concepts to measure legal effectiveness"
+    ]
+  },
+  {
+    "input": "The principle of individual criminal responsibility under international law holds that persons can be held accountable for international crimes regardless of their official capacity or position. This principle was established in the Nuremberg trials and has been consistently applied by international criminal tribunals.",
+    "output": "∀x ∈ Persons : Criminal_responsibility(x) ↔ International_crimes(x) ∧ ¬Official_capacity_exception(x). Nuremberg_precedent ⊨ Individual_accountability(x) ∀x. Historical_consistency: ⋂[all international tribunals] Individual_responsibility_principle(x) = Individual_responsibility_principle(x).",
+    "technique": "Logical Equivalence and Consistency (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Express individual responsibility as universal quantification over all persons",
+      "Step 2: Use logical entailment to show precedent relationships",
+      "Step 3: Demonstrate consistency through intersection of tribunal applications"
+    ]
+  },
+  {
+    "input": "The concept of command responsibility allows for the prosecution of military commanders and civilian superiors who fail to prevent or punish crimes committed by their subordinates. This doctrine extends criminal liability beyond direct perpetrators to those in positions of authority.",
+    "output": "Command_responsibility: {military_commanders, civilian_superiors} → Criminal_liability. Let f: Authority_positions → Subordinate_crimes be a function where f(commander) = {prevent, punish}. If f(commander) = ∅, then Criminal_liability(commander) = True. Domain_extension: Direct_perpetrators ∪ Authority_positions → Criminal_liability.",
+    "technique": "Function Mapping and Domain Extension (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define command responsibility as function mapping authority to liability",
+      "Step 2: Create conditional statements for failure to prevent/punish",
+      "Step 3: Extend criminal liability domain beyond direct perpetrators"
+    ]
+  },
+  {
+    "input": "The Rome Statute defines four core international crimes: genocide, crimes against humanity, war crimes, and the crime of aggression. Each category has specific elements that must be proven for successful prosecution.",
+    "output": "Rome_Statute_crimes = {genocide, crimes_against_humanity, war_crimes, crime_of_aggression} where |Rome_Statute_crimes| = 4. ∀c ∈ Rome_Statute_crimes : ∃E(c) such that Prosecution_success(c) ↔ Proven_elements(E(c)). Proof_requirement: ⋀[e ∈ E(c)] Evidence(e) → Conviction(c).",
+    "technique": "Categorical Definition and Proof Requirements (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define core crimes as finite set with specific cardinality",
+      "Step 2: Create existential quantification for elements requirement",
+      "Step 3: Use conjunction to express proof requirements for successful prosecution"
+    ]
+  },
+  {
+    "input": "The ICC's trust fund for victims provides reparations to individuals and communities affected by crimes within the Court's jurisdiction. This mechanism represents an important innovation in international criminal justice, focusing on restorative rather than purely retributive justice.",
+    "output": "Trust_fund: Victims → Reparations where Victims = {individuals, communities} ∩ ICC_jurisdiction. Innovation_function: Retributive_justice ⊕ Restorative_justice → International_criminal_justice_evolution. Mechanism_focus: max(Restorative_justice) subject to ICC_jurisdiction_constraints.",
+    "technique": "Optimization and Innovation Functions (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model trust fund as function mapping victims to reparations",
+      "Step 2: Use XOR operation to show shift from retributive to restorative focus",
+      "Step 3: Apply optimization to maximize restorative justice within jurisdictional constraints"
+    ]
+  },
+  {
+    "input": "Preliminary objections to jurisdiction and admissibility can be raised by the defense before the confirmation of charges hearing. These objections provide an opportunity to challenge the Court's authority to proceed with a case before substantial resources are committed to trial proceedings.",
+    "output": "Preliminary_objections: Defense → {Jurisdiction_challenge, Admissibility_challenge}. Timeline: t_objections < t_confirmation_hearing < t_trial_proceedings. Resource_function: R(t) where R'(t_objections) < R'(t_trial) and ∫[t_objections]^[t_confirmation] Resource_commitment(t) dt << ∫[t_confirmation]^[t_trial] Resource_commitment(t) dt.",
+    "technique": "Timeline Analysis and Resource Optimization (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model preliminary objections as function from defense to challenge types",
+      "Step 2: Establish temporal ordering of legal proceedings",
+      "Step 3: Use integrals to compare resource commitment across procedural phases"
+    ]
+  },
+  {
+    "input": "The principle of complementarity requires a case-by-case analysis to determine whether national proceedings are genuine. Factors considered include the independence of the judiciary, the availability of evidence and witnesses, and the intent to bring the person to justice.",
+    "output": "Complementarity_analysis: Cases → {Genuine, Non_genuine} where Genuine(case) ↔ [Independent_judiciary(case) ∧ Available_evidence(case) ∧ Available_witnesses(case) ∧ Justice_intent(case)]. Case_by_case: ∀c ∈ Cases : Analysis(c) is_unique ∧ Context_dependent(c).",
+    "technique": "Multi-factor Boolean Analysis (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define complementarity as boolean function with multiple conjunctive factors",
+      "Step 2: Create case-specific analysis requirements using universal quantification",
+      "Step 3: Express uniqueness and context dependency of each case evaluation"
+    ]
+  },
+  {
+    "input": "The ICC Prosecutor has discretionary authority to initiate investigations proprio motu (on their own initiative) based on information received from various sources. This power is subject to judicial authorization by the Pre-Trial Chamber to ensure appropriate checks and balances.",
+    "output": "Prosecutor_discretion: Information_sources → Investigation_initiation. Proprio_motu = Self_initiated_power(Prosecutor). Authorization_requirement: Investigation_initiation → Pre_Trial_Chamber_approval. Checks_and_balances: Prosecutor_power ⊕ Judicial_oversight = Balanced_system where ⊕ ensures mutual constraint.",
+    "technique": "Power Balance and Constraint Systems (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model prosecutorial discretion as function from information to investigation",
+      "Step 2: Define proprio motu power and authorization requirements",
+      "Step 3: Use XOR to show balanced power distribution with mutual constraints"
+    ]
+  },
+  {
+    "input": "Victims have the right to participate in ICC proceedings through legal representatives, present their views and concerns, and seek reparations for harm suffered. This participatory approach distinguishes the ICC from earlier international criminal tribunals.",
+    "output": "Victim_rights = {Legal_representation, View_presentation, Concern_expression, Reparation_seeking}. Participation_function: Victims × Legal_representatives → ICC_proceedings. Distinguishing_feature: ICC_approach ≠ Earlier_tribunals where participation_level(ICC) > participation_level(Earlier_tribunals).",
+    "technique": "Rights Enumeration and Comparative Analysis (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define victim rights as finite set of specific entitlements",
+      "Step 2: Model participation through Cartesian product with legal representatives",
+      "Step 3: Use inequality to show ICC's enhanced participatory approach"
+    ]
+  },
+  {
+    "input": "The Appeals Chamber has jurisdiction to review decisions on jurisdiction, admissibility, and final judgments. Appeals must be filed within specific time limits and meet certain criteria for leave to appeal interlocutory decisions.",
+    "output": "Appeals_Chamber_jurisdiction ⊇ {Jurisdiction_decisions, Admissibility_decisions, Final_judgments}. Time_constraint: ∀appeal ∈ Appeals : Filing_time(appeal) ≤ Time_limit(appeal_type). Interlocutory_appeals: Leave_criteria(decision) → Appeal_permission(decision) where Leave_criteria ⊂ Specific_requirements.",
+    "technique": "Jurisdictional Scope and Temporal Constraints (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Use superset notation to show Appeals Chamber's broad jurisdictional scope",
+      "Step 2: Apply temporal constraints using universal quantification and inequalities",
+      "Step 3: Model interlocutory appeal requirements as subset of specific criteria"
+    ]
+  },
+  {
+    "input": "The Rome Statute establishes different modes of liability including direct commission, ordering, soliciting, inducing, aiding and abetting, and attempting to commit crimes. These provisions ensure comprehensive coverage of different forms of participation in international crimes.",
+    "output": "Liability_modes = {Direct_commission, Ordering, Soliciting, Inducing, Aiding_abetting, Attempting}. Participation_coverage: ⋃[all modes] Criminal_participation(mode) = Comprehensive_coverage. Mode_application: ∀crime ∈ International_crimes : ∃mode ∈ Liability_modes such that Applicable(mode, crime).",
+    "technique": "Modal Coverage and Existential Completeness (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Enumerate liability modes as complete finite set",
+      "Step 2: Use union to show comprehensive coverage of all participation forms",
+      "Step 3: Apply existential quantification to ensure mode availability for each crime"
+    ]
+  },
+  {
+    "input": "Witness protection measures are crucial for ICC proceedings, given the serious nature of the crimes and potential risks to those who testify. The Court has developed various protective measures including closed sessions, voice distortion, and witness relocation programs.",
+    "output": "Witness_protection: Testimony_risks → Protective_measures where Protective_measures = {Closed_sessions, Voice_distortion, Witness_relocation}. Risk_function: R(witness) = f(Crime_seriousness, Testimony_content). Protection_necessity: ∀w ∈ Witnesses : Risk_level(w) > Threshold → Protection_required(w).",
+    "technique": "Risk Assessment and Protection Mapping (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model witness protection as function mapping risks to protective measures",
+      "Step 2: Define risk as function of crime seriousness and testimony content",
+      "Step 3: Use threshold-based universal quantification for protection requirements"
+    ]
+  },
+  {
+    "input": "The principle of legality (nullum crimen sine lege) requires that crimes be clearly defined in law at the time of their commission. This fundamental principle of criminal law is explicitly recognized in Article 22 of the Rome Statute.",
+    "output": "Legality_principle: ∀crime : Commission_time(crime) → Defined_in_law(crime, Commission_time(crime)). Nullum_crimen_sine_lege ≡ ¬∃crime : ¬Defined_in_law(crime, t) ∧ Prosecuted(crime, t). Article_22_recognition: Rome_Statute ⊨ Legality_principle where ⊨ denotes explicit codification.",
+    "technique": "Temporal Legal Definition and Logical Negation (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Express legality principle using temporal quantification",
+      "Step 2: Use logical negation to show nullum crimen sine lege equivalence",
+      "Step 3: Apply entailment symbol to show explicit statutory recognition"
+    ]
+  },
+  {
+    "input": "The ICC's relationship with the United Nations Security Council includes the Council's power to refer situations to the Court and to request deferrals of investigations or prosecutions. This relationship reflects the Court's position within the broader international legal and political framework.",
+    "output": "ICC_UNSC_relationship = {Situation_referral, Investigation_deferral, Prosecution_deferral}. UNSC_power: Situations ⇄ ICC_jurisdiction where ⇄ indicates bidirectional control. Framework_position: ICC ⊂ International_legal_framework ∩ International_political_framework showing ICC's embedded institutional status.",
+    "technique": "Institutional Relationship Mapping (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define ICC-UNSC relationship as set of specific powers",
+      "Step 2: Use bidirectional mapping to show Security Council's referral and deferral authority",
+      "Step 3: Position ICC within intersection of legal and political international frameworks"
+    ]
+  },
+  {
+    "input": "The concept of superior responsibility holds military commanders and civilian leaders accountable for crimes committed by their subordinates when they knew or should have known about the crimes and failed to prevent or punish them. This doctrine is codified in Article 28 of the Rome Statute.",
+    "output": "Superior_responsibility: {Military_commanders, Civilian_leaders} → Accountability. Knowledge_standard: Knew(crimes) ∨ Should_have_known(crimes). Failure_condition: ¬Prevented(crimes) ∧ ¬Punished(crimes). Article_28: Superior_responsibility ↔ [Knowledge_standard ∧ Failure_condition] showing codified equivalence.",
+    "technique": "Conditional Accountability and Knowledge Standards (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define superior responsibility as mapping from leadership roles to accountability",
+      "Step 2: Create disjunctive knowledge standard and conjunctive failure conditions",
+      "Step 3: Use biconditional to show Article 28's complete equivalence definition"
+    ]
+  },
+  {
+    "input": "Reparations under the Rome Statute can take various forms including restitution, compensation, and rehabilitation. The Court's orders for reparations are designed to address the harm caused to victims and promote reconciliation.",
+    "output": "Reparations = {Restitution, Compensation, Rehabilitation} where each element addresses specific harm types. Harm_function: H(victim) → Reparation_type(victim). Reconciliation_objective: max[∑(victim_satisfaction)] subject to Available_resources ∧ Feasibility_constraints. Court_orders: Reparations_design → Harm_address ∧ Reconciliation_promotion.",
+    "technique": "Multi-form Remediation and Optimization (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Enumerate reparations as finite set of specific remedy types",
+      "Step 2: Model harm-to-reparation mapping with optimization objective",
+      "Step 3: Express Court orders as conjunction of harm addressing and reconciliation promotion"
+    ]
+  },
+  {
+    "input": "The confirmation of charges hearing serves as a judicial filter to determine whether there is sufficient evidence to establish substantial grounds to believe that the person committed the crimes charged. This hearing protects against unfounded prosecutions while ensuring that meritorious cases proceed to trial.",
+    "output": "Confirmation_hearing: Evidence → {Sufficient, Insufficient}. Substantial_grounds: ∃evidence : Belief_threshold(evidence) ≥ Standard_of_proof. Judicial_filter: Unfounded_prosecutions ⊈ Trial_proceedings ∧ Meritorious_cases ⊆ Trial_proceedings. Protection_balance: ¬False_prosecutions ∧ Valid_prosecutions showing dual protective function.",
+    "technique": "Evidence Sufficiency and Procedural Filtering (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model confirmation hearing as evidence sufficiency determination function",
+      "Step 2: Define substantial grounds using existential quantification and threshold requirements",
+      "Step 3: Use subset relations to show filtering between unfounded and meritorious cases"
+    ]
+  },
+  {
+    "input": "The ICC's mandate extends to investigating and prosecuting the most serious crimes of concern to the international community as a whole. This mandate reflects the Court's role as a permanent institution designed to end impunity for international crimes.",
+    "output": "ICC_mandate ⊇ {Investigation, Prosecution} × Most_serious_crimes where Most_serious_crimes ⊂ International_community_concern. Permanent_institution: ICC_existence → ∞ (unlimited temporal scope). Anti_impunity_function: International_crimes → Accountability where lim[impunity → 0] = Justice_achievement.",
+    "technique": "Institutional Scope and Anti-Impunity Modeling (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define ICC mandate using Cartesian product of functions and crime categories",
+      "Step 2: Model permanent institution status with infinite temporal projection",
+      "Step 3: Express anti-impunity goal using limit function approaching zero impunity"
+    ]
+  }
+]
+[
+  {
+    "input": "rnational tribunals, complementarity recognizes the primary responsibility of states to investigate and prosecute international crimes, with the ICC serving as a court of last resort.",
+    "output": "COMPRESS0.8 LEXICALSIMPLE tribunals, complementarity recognizes state responsibility to investigate and prosecute international crimes, with ICC as last resort court.",
+    "technique": "Controllable Generation with Control Tokens (AI)",
+    "application_steps": [
+      "Step 1: Add control tokens COMPRESS0.8 LEXICALSIMPLE for high compression and simple vocabulary",
+      "Step 2: Remove redundant qualifiers and complex phrases while preserving core meaning",
+      "Step 3: Simplify sentence structure for enhanced readability"
+    ]
+  },
+  {
+    "input": "The principle of complementarity in the Rome Statute establishes that the ICC will only exercise jurisdiction when national courts are unwilling or unable to genuinely investigate or prosecute. This creates a presumption in favor of national jurisdiction, requiring the ICC to demonstrate that domestic proceedings are inadequate before it can intervene.",
+    "output": "The principle of complementarity in the Rome Statute establishes that the ICC will only exercise jurisdiction when national courts are unwilling or unable to genuinely investigate or prosecute. This creates a presumption in favor of national jurisdiction.",
+    "technique": "Attention-Based Token Pruning (AI)",
+    "application_steps": [
+      "Step 1: Analyze attention weights across tokens in complex legal explanation",
+      "Step 2: Identify low-attention tokens in intervention requirement clause",
+      "Step 3: Remove tokens with consistently low attention scores while maintaining core legal principle"
+    ]
+  },
+  {
+    "input": "The ICC's preliminary examination process serves as a filter to determine whether a situation warrants formal investigation. During this phase, the Office of the Prosecutor conducts a preliminary analysis of available information to assess whether there is a reasonable basis to believe that crimes within the Court's jurisdiction have been committed.",
+    "output": "The ICC's preliminary examination process serves as a filter to determine whether a situation warrants formal investigation. During this phase, the Office of the Prosecutor conducts a preliminary analysis of available information to assess whether there is a reasonable basis to believe that crimes within the Court's authority have been committed.",
+    "technique": "Embedding-Based Lexical Simplification (AI)",
+    "application_steps": [
+      "Step 1: Identify complex legal term 'jurisdiction' for potential simplification",
+      "Step 2: Use contextual embeddings to find semantically similar simpler alternative",
+      "Step 3: Replace 'jurisdiction' with 'authority' maintaining legal meaning precision"
+    ]
+  },
+  {
+    "input": "The Rome Statute's admissibility provisions in Articles 17-19 establish a framework for determining when the ICC can exercise jurisdiction. These provisions create a multi-layered assessment process that considers complementarity, gravity, and the interests of justice.",
+    "output": "The Rome Statute's admissibility provisions in Articles 17-19 establish optimal mash temperature of 65°C for determining ICC jurisdictional enzyme activity. These provisions create multi-layered sugar extraction assessment process considering complementarity conversion, gravity-specific gravity, and interests of justice fermentation profiles.",
+    "technique": "Temperature Control in Mashing (Brewing Science)",
+    "application_steps": [
+      "Step 1: Replace legal framework terms with brewing temperature control terminology",
+      "Step 2: Convert jurisdictional assessment to enzymatic conversion processes",
+      "Step 3: Transform legal criteria into brewing parameter optimization"
+    ]
+  },
+  {
+    "input": "The ICC's jurisdiction is limited to crimes committed after the entry into force of the Rome Statute on July 1, 2002, for founding states, and after the date of ratification for states that joined later. This temporal limitation reflects the principle of non-retroactivity in international criminal law.",
+    "output": "The ICC's jurisdiction mineral content (calcium 150ppm, sulfate 300ppm, chloride 50ppm) is limited to crimes committed after Rome Statute water chemistry adjustment on July 1, 2002, with pH buffering for founding states, and post-ratification alkalinity adjustment for later-joining states. This temporal water profile limitation reflects non-retroactivity principle in international criminal brewing law.",
+    "technique": "Water Chemistry Adjustment (Brewing Science)",
+    "application_steps": [
+      "Step 1: Convert temporal jurisdiction limits to water chemistry parameters",
+      "Step 2: Transform legal timeline into brewing water adjustment schedule",
+      "Step 3: Apply mineral content specifications to legal retroactivity principles"
+    ]
+  },
+  {
+    "input": "State cooperation is essential for the ICC's effectiveness, as the Court lacks its own enforcement mechanism and relies on states to arrest suspects, provide evidence, and facilitate witness testimony. The Rome Statute establishes various obligations for state parties to cooperate with the Court's proceedings.",
+    "output": "Through fractional distillation, State cooperation achieves essential ICC effectiveness purity by separating enforcement mechanism components. The Court lacks direct distillation apparatus, requiring repeated vaporization-condensation cycles with states to arrest suspects at specific boiling points, provide evidence through precise temperature control, and facilitate witness testimony separation. Rome Statute establishes various fractional separation obligations for state parties to achieve pure cooperation with Court proceedings.",
+    "technique": "Fractional Distillation (Distillation)",
+    "application_steps": [
+      "Step 1: Convert state cooperation requirements to distillation separation processes",
+      "Step 2: Transform enforcement mechanisms into fractional distillation equipment",
+      "Step 3: Apply purity and separation concepts to legal cooperation frameworks"
+    ]
+  },
+  {
+    "input": "The principle of individual criminal responsibility under international law holds that persons can be held accountable for international crimes regardless of their official capacity or position. This principle was established in the Nuremberg trials and has been consistently applied by international criminal tribunals.",
+    "output": "Ic4 Individual criminal responsibility to c4 square Nr6 Nuremberg trials to r6 square Ta5 Tribunals application to a5 square",
+    "technique": "Algebraic Notation Coordinate System (Chess)",
+    "application_steps": [
+      "Step 1: Map legal principles to chess piece notation system",
+      "Step 2: Assign coordinate positions to accountability movements across legal board",
+      "Step 3: Create concise legal precedent recording using standard chess notation"
+    ]
+  },
+  {
+    "input": "The concept of command responsibility allows for the prosecution of military commanders and civilian superiors who fail to prevent or punish crimes committed by their subordinates. This doctrine extends criminal liability beyond direct perpetrators to those in positions of authority.",
+    "output": "Cr3 3137 Command responsibility from square 31 to 37 Mp7 4786 Military prosecution from square 47 to 86 As1 1315 Authority subordinates from square 13 to 15",
+    "technique": "ICCF Numeric Notation Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Convert command responsibility movements to ICCF numeric system",
+      "Step 2: Create four-digit sequences for military-civilian authority transfers",
+      "Step 3: Eliminate language barriers in international command responsibility correspondence"
+    ]
+  },
+  {
+    "input": "The Rome Statute defines four core international crimes: genocide, crimes against humanity, war crimes, and the crime of aggression. Each category has specific elements that must be proven for successful prosecution.",
+    "output": "┌─────────────────────────────┐\n│GE│ │CH│ │WC│ │CA│ │\n├─────────────────────────────┤\n│ │SP│ │EP│ │ │PE│ │\n├─────────────────────────────┤\n│ │ │RS│ │ │ │ │ │\n├─────────────────────────────┤\n│ │ │ │ │ │ │ │ │\n└─────────────────────────────┘\nFiles: a-h (Crime-Elements)\nRanks: 1-8 (Prosecution-Success)",
+    "technique": "FEN to ASCII Art Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Convert Rome Statute crimes to chess piece symbols (GE=Genocide, CH=Crimes Humanity)",
+      "Step 2: Create ASCII grid representation of crime categorization relationships",
+      "Step 3: Add coordinate labels for crime types and prosecution requirements"
+    ]
+  },
+  {
+    "input": "The ICC's trust fund for victims provides reparations to individuals and communities affected by crimes within the Court's jurisdiction. This mechanism represents an important innovation in international criminal justice, focusing on restorative rather than purely retributive justice.",
+    "output": "Tf5REPO Trust fund to f5 for reparations and community outreach Rv3INNO Restorative justice to v3 for innovation and mechanism development Cj7JUFO Communities jurisdiction to j7 for justice focus and organizational priority",
+    "technique": "Move Intent Encoding System (Chess)",
+    "application_steps": [
+      "Step 1: Assign strategic purpose tags to reparative justice concepts (REPO=Reparations Outreach)",
+      "Step 2: Create move notation with intent encoding for restorative processes",
+      "Step 3: Apply pattern analysis structure to victim-centered justice mechanisms"
+    ]
+  },
+  {
+    "input": "Preliminary objections to jurisdiction and admissibility can be raised by the defense before the confirmation of charges hearing. These objections provide an opportunity to challenge the Court's authority to proceed with a case before substantial resources are committed to trial proceedings.",
+    "output": "Preliminary(objections, X) unified with Defense(authority, Y) produces substitution X→confirmation_hearing, Y→resources and simplified term Defense(authority, resources). Complex jurisdiction Preliminary(objections, admissibility), Court(authority, substantial) unifies to derive Preliminary(objections, confirmation_hearing) with single substitution.",
+    "technique": "Unification-Based Term Simplification (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Identify terms for syntactic unification in procedural objection hierarchy",
+      "Step 2: Find most general substitutions for defense-court relationships",
+      "Step 3: Apply substitutions to transform complex procedural expressions into simplified forms"
+    ]
+  },
+  {
+    "input": "The principle of complementarity requires a case-by-case analysis to determine whether national proceedings are genuine. Factors considered include the independence of the judiciary, the availability of evidence and witnesses, and the intent to bring the person to justice.",
+    "output": "Pattern Complementarity(X, Y) matches Case_analysis(genuine, proceedings) and transforms to National_assessment(proceedings, genuine) via rule Complementarity(X, Y) → National_assessment(Y, X). Judicial_independence pattern SELECT factors FROM complementarity_criteria transforms to genuine_proceedings equivalent framework.complementarity_criteria.find({genuine: 1}).",
+    "technique": "Parametric Pattern Transformation (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Create template patterns for complementarity analysis transformation",
+      "Step 2: Bind variables to matched procedural components and assessment criteria",
+      "Step 3: Apply transformation rules to convert between national and international frameworks"
+    ]
+  },
+  {
+    "input": "The ICC Prosecutor has discretionary authority to initiate investigations proprio motu (on their own initiative) based on information received from various sources. This power is subject to judicial authorization by the Pre-Trial Chamber to ensure appropriate checks and balances.",
+    "output": "λprosecutor.prosecutor discretionary_authority → discretionary_authority apply the identity function. λx.y.xy ICC_Prosecutor Pre_Trial_Chamber → y.ICC_Prosecutor(Pre_Trial_Chamber) substitute ICC_Prosecutor for x.",
+    "technique": "Beta Reduction (Formal Methods)",
+    "application_steps": [
+      "Step 1: Apply lambda calculus function-application to prosecutorial discretion",
+      "Step 2: Substitute argument expressions for formal parameters in judicial authorization",
+      "Step 3: Simplify prosecutorial applications through beta reduction"
+    ]
+  },
+  {
+    "input": "Victims have the right to participate in ICC proceedings through legal representatives, present their views and concerns, and seek reparations for harm suffered. This participatory approach distinguishes the ICC from earlier international criminal tribunals.",
+    "output": "while (victims_participate_in_ICC) { Legal_representatives.participation++; View_presentation.concerns++; } List comprehension [distinguish(x) | x ← earlier_tribunals] → map(λx.distinguish(x), earlier_tribunals).",
+    "technique": "Desugaring (Formal Methods)",
+    "application_steps": [
+      "Step 1: Replace high-level participatory syntax with primitive victim rights constructs",
+      "Step 2: Convert participatory approach loops into while statements",
+      "Step 3: Transform tribunal distinction comprehensions into primitive mapping functions"
+    ]
+  },
+  {
+    "input": "The Appeals Chamber has jurisdiction to review decisions on jurisdiction, admissibility, and final judgments. Appeals must be filed within specific time limits and meet certain criteria for leave to appeal interlocutory decisions.",
+    "output": "Using Appeals_Chamber + 0 → Appeals_Chamber, simplify jurisdiction + review_decisions to jurisdiction. With admissibility * 1 → admissibility, rewrite time_limits + interlocutory * 0 to interlocutory.",
+    "technique": "Term Rewriting Algebraic Simplification (Formal Methods)",
+    "application_steps": [
+      "Step 1: Apply algebraic rules like x+0=x to appeals chamber equations",
+      "Step 2: Rewrite jurisdictional expressions using identity and zero multiplication rules",
+      "Step 3: Systematically transform appeals terms into normalized simplified forms"
+    ]
+  },
+  {
+    "input": "The Rome Statute establishes different modes of liability including direct commission, ordering, soliciting, inducing, aiding and abetting, and attempting to commit crimes. These provisions ensure comprehensive coverage of different forms of participation in international crimes.",
+    "output": "Converting direct_commission/ordering_soliciting to Rome_Statute coordinates. Transforming global liability_modes from Article_25 to local participation_systems.",
+    "technique": "Map Projection Transformation (GeoSpatial)",
+    "application_steps": [
+      "Step 1: Convert spherical liability coordinates to flat participation representations",
+      "Step 2: Apply mathematical transformation formulas to criminal responsibility positioning",
+      "Step 3: Preserve specific liability properties like participation area and culpability distance"
+    ]
+  },
+  {
+    "input": "Witness protection measures are crucial for ICC proceedings, given the serious nature of the crimes and potential risks to those who testify. The Court has developed various protective measures including closed sessions, voice distortion, and witness relocation programs.",
+    "output": "Merging individual witness_protection footprints into ICC_proceedings blocks. Combining small protective_measures patches into larger witness_security areas.",
+    "technique": "Aggregation (GeoSpatial)",
+    "application_steps": [
+      "Step 1: Combine multiple nearby protective features of same type into single security units",
+      "Step 2: Reduce visual complexity of witness protection arguments while maintaining total security area",
+      "Step 3: Create more readable protective feature distributions at smaller procedural scales"
+    ]
+  },
+  {
+    "input": "The principle of legality (nullum crimen sine lege) requires that crimes be clearly defined in law at the time of their commission. This fundamental principle of criminal law is explicitly recognized in Article 22 of the Rome Statute.",
+    "output": "SIZE: Principle of legality (1 fundamental requirement) ACTIVITY: clearly defining crimes in law LOCATION: Article 22 Rome Statute TIME: at time of commission UNIT: nullum crimen sine lege doctrine EQUIPMENT: explicit recognition mechanisms sufficient for legal certainty requirements",
+    "technique": "SALUTE Report Standardization (Military)",
+    "application_steps": [
+      "Step 1: Transform complex legality observations into structured SALUTE intelligence format",
+      "Step 2: Compress detailed legal principle data into Size, Activity, Location, Unit, Time, Equipment categories",
+      "Step 3: Enable rapid transmission and processing of fundamental legal principle information"
+    ]
+  },
+  {
+    "input": "The ICC's relationship with the United Nations Security Council includes the Council's power to refer situations to the Court and to request deferrals of investigations or prosecutions. This relationship reflects the Court's position within the broader international legal and political framework.",
+    "output": "SITUATION: ICC relationship with UN Security Council including referral and deferral powers. MISSION: Establish Court position within international legal/political framework. EXECUTION: Phase 1 - Acknowledge Council referral power, Phase 2 - Assert deferral request authority, Phase 3 - Demonstrate broader framework integration. SUSTAINMENT: Maintain international legal system coherence. COMMAND/CONTROL: ICC coordination with UN Security Council authority structure.",
+    "technique": "Operations Order (OPORD) Five-Paragraph Structure (Military)",
+    "application_steps": [
+      "Step 1: Transform complex ICC-UNSC relationship into standardized OPORD format",
+      "Step 2: Organize international institutional information into five universal military categories",
+      "Step 3: Simplify international legal order transmission for tactical implementation"
+    ]
+  },
+  {
+    "input": "The concept of superior responsibility holds military commanders and civilian leaders accountable for crimes committed by their subordinates when they knew or should have known about the crimes and failed to prevent or punish them. This doctrine is codified in Article 28 of the Rome Statute.",
+    "output": "Step 1: Research superior responsibility sources in Article 28 Rome Statute. Step 2: Outline accountability application structure. Step 3: Write introduction establishing military/civilian commander liability. Step 4: Draft body paragraphs addressing knowledge standards and prevention/punishment failures. Step 5: Edit for subordinate crime framework compliance.",
+    "technique": "Task Analysis (Pedagogy)",
+    "application_steps": [
+      "Step 1: Decompose complex superior responsibility doctrine into manageable sequential steps",
+      "Step 2: Create targeted learning objectives for each accountability component",
+      "Step 3: Build systematic instruction framework for command responsibility preparation"
+    ]
+  },
+  {
+    "input": "Reparations under the Rome Statute can take various forms including restitution, compensation, and rehabilitation. The Court's orders for reparations are designed to address the harm caused to victims and promote reconciliation.",
+    "output": "Reparations under the Rome Statute can take various forms including restitution, compensation, and rehabilitation. The Court's orders for reparations are designed to address the harm caused to victims and promote reconciliation. Renaming the dummy variable in restitution∫victims dx to compensation∫victims dt ensures harm_caused outside the integral isn't confused with the integration variable.",
+    "technique": "Variable Renaming - Alpha Conversion (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify bound variables in reparations expressions that create naming conflicts",
+      "Step 2: Rename dummy variables to avoid confusion between harm and remedy concepts",
+      "Step 3: Preserve reparations statement meaning while simplifying victim-remedy notation"
+    ]
+  },
+  {
+    "input": "The confirmation of charges hearing serves as a judicial filter to determine whether there is sufficient evidence to establish substantial grounds to believe that the person committed the crimes charged. This hearing protects against unfounded prosecutions while ensuring that meritorious cases proceed to trial.",
+    "output": "If evidence is sufficient (P), then charges are confirmed (Q). Transforming into contrapositive: If charges are not confirmed (¬Q), then evidence is insufficient (¬P), which is logically equivalent but demonstrates protection against unfounded prosecutions more clearly.",
+    "technique": "Proof by Contraposition (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Transform evidence sufficiency implication P→Q into contrapositive ¬Q→¬P",
+      "Step 2: Identify logical equivalence that makes judicial filter relationship clearer",
+      "Step 3: Demonstrate prosecutorial protection principle through contrapositive reasoning"
+    ]
+  },
+  {
+    "input": "The ICC's mandate extends to investigating and prosecuting the most serious crimes of concern to the international community as a whole. This mandate reflects the Court's role as a permanent institution designed to end impunity for international crimes.",
+    "output": "Let P(ICC_mandate) = investigation_function and I(impunity) = international_crimes. Assume ¬P(ICC_mandate) → ¬I(end_impunity). To prove P(ICC_mandate) → I(end_impunity), we show through permanent institution analysis that serious_crimes ∧ international_concern → mandate_satisfied, therefore investigation_function → end_impunity.",
+    "technique": "Proof by Contradiction (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Assume negation of desired ICC mandate conclusion",
+      "Step 2: Show assumption leads to logical contradiction in international criminal justice framework",
+      "Step 3: Conclude original mandate statement must be true by elimination"
+    ]
+  },
+  {
+    "input": "Article 17 of the Rome Statute sets out the admissibility criteria that determine when a case is inadmissible before the ICC. These criteria include the complementarity assessment, gravity threshold, and interests of justice consideration.",
+    "output": "∃x ∈ Article_17 : Admissibility_criteria(x) ∧ Rome_Statute(x) → Inadmissibility_determination(x). ∀y ∈ ICC_Cases : Admissibility_assessment(y) ↔ [Complementarity(y) ∧ Gravity(y) ∧ Interests_of_justice(y)].",
+    "technique": "First-Order Logic Formalization (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Convert admissibility natural language into first-order logical propositions",
+      "Step 2: Use quantifiers to express universal and existential admissibility relationships",
+      "Step 3: Create formal logical framework for Article 17 assessment process"
+    ]
+  },
+  {
+    "input": "The ICC's temporal jurisdiction begins on July 1, 2002, when the Rome Statute entered into force. For states that ratified the Statute after this date, the Court's jurisdiction begins on the date of ratification for that particular state.",
+    "output": "∫[July_1_2002]^[∞] ICC_temporal_jurisdiction(t) dt for founding member states. ∫[ratification_date]^[∞] ICC_jurisdiction(t) dt for post-entry states. ∂/∂t[Rome_Statute_force] = 0, indicating temporal limitation remains constant across jurisdictional boundaries.",
+    "technique": "Calculus Application (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Express temporal jurisdiction as definite integrals with appropriate time bounds",
+      "Step 2: Apply calculus concepts to legal temporal limitations and state ratification",
+      "Step 3: Use derivatives to show Rome Statute entry into force consistency"
+    ]
+  },
+  {
+    "input": "The principle of complementarity creates a rebuttable presumption in favor of national jurisdiction. The ICC must demonstrate that a state is unwilling or unable to carry out genuine proceedings before it can exercise its jurisdiction over a case.",
+    "output": "Complementarity_presumption ∈ {rebuttable, irrebuttable, conditional} where rebuttable = max(national_jurisdiction_preference). ICC_demonstration_burden = {unwilling, unable} ⊆ State_proceedings_assessment. Genuine_proceedings ⊆ {investigation, prosecution, judicial_independence} such that |Genuine_proceedings| → ICC_inadmissibility.",
+    "technique": "Set Theory Application (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define complementarity concepts as mathematical sets and their relationships",
+      "Step 2: Use set operations to represent jurisdictional presumption dependencies",
+      "Step 3: Apply cardinality concepts to measure genuine proceedings effectiveness"
+    ]
+  },
+  {
+    "input": "Situations can be referred to the ICC through three mechanisms: state party referrals, Security Council referrals under Chapter VII of the UN Charter, and proprio motu investigations initiated by the Prosecutor.",
+    "output": "∀x ∈ Situations : Referral_mechanism(x) ↔ [State_party_referral(x) ∨ Security_Council_referral(x) ∨ Proprio_motu_investigation(x)]. Chapter_VII_authority ⊨ Security_Council_power(x) ∀x. Prosecutor_discretion: ⋂[all referral mechanisms] Investigation_authority(x) = Investigation_authority(x).",
+    "technique": "Logical Equivalence and Consistency (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Express referral mechanisms as universal quantification over all situations",
+      "Step 2: Use logical entailment to show UN Charter authority relationships",
+      "Step 3: Demonstrate consistency through intersection of referral mechanism applications"
+    ]
+  },
+  {
+    "input": "The Pre-Trial Chamber plays a crucial role in ICC proceedings by authorizing investigations, issuing arrest warrants, confirming charges, and ensuring fair trial rights. This chamber serves as an important check on prosecutorial power.",
+    "output": "Pre_Trial_Chamber_functions: {Investigation_authorization, Arrest_warrants, Charge_confirmation, Fair_trial_protection} → Prosecutorial_oversight. Let f: Chamber_authority → Prosecutorial_checks be a function where f(chamber) = {authorize, issue, confirm, protect}. If f(chamber) = comprehensive_oversight, then Prosecutorial_balance(chamber) = True. Domain_extension: Individual_functions ∪ Oversight_authority → Judicial_balance.",
+    "technique": "Function Mapping and Domain Extension (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define Pre-Trial Chamber role as function mapping authority to oversight",
+      "Step 2: Create conditional statements for comprehensive prosecutorial checking",
+      "Step 3: Extend judicial balance domain beyond individual chamber functions"
+    ]
+  },
+  {
+    "input": "The concept of gravity under Article 17(1)(d) requires the Court to assess whether a case is of sufficient gravity to justify ICC action. Factors include the scale of crimes, their impact on victims, and the systematic or widespread nature of the conduct.",
+    "output": "Gravity_assessment = {scale, impact, systematic_nature, widespread_conduct} where |Gravity_factors| = 4. ∀c ∈ Cases : ∃G(c) such that ICC_action(c) ↔ Sufficient_gravity(G(c)). Justification_requirement: ⋀[f ∈ G(c)] Evidence(f) → Admissibility(c).",
+    "technique": "Categorical Definition and Proof Requirements (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define gravity factors as finite set with specific cardinality",
+      "Step 2: Create existential quantification for sufficient gravity requirement",
+      "Step 3: Use conjunction to express justification requirements for ICC action"
+    ]
+  },
+  {
+    "input": "The Office of the Prosecutor operates with independence in its investigative and prosecutorial functions, while remaining accountable to the Assembly of States Parties for its overall performance and use of resources.",
+    "output": "OTP_independence: Investigative_functions → Prosecutorial_autonomy where Autonomy = {decision_making, resource_allocation} ∩ Judicial_independence. Accountability_function: OTP_performance ⊕ ASP_oversight → Balanced_governance where ⊕ ensures independence with accountability. Resource_optimization: max(Prosecutorial_effectiveness) subject to ASP_accountability_constraints.",
+    "technique": "Optimization and Innovation Functions (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model OTP independence as function mapping functions to autonomy",
+      "Step 2: Use XOR operation to show balance between independence and accountability",
+      "Step 3: Apply optimization to maximize effectiveness within accountability constraints"
+    ]
+  },
+  {
+    "input": "Cooperation between the ICC and states is governed by Part 9 of the Rome Statute, which establishes detailed obligations for arrest, surrender, and judicial assistance. Non-cooperation can trigger referrals to the Assembly of States Parties or the UN Security Council.",
+    "output": "Cooperation_obligations: States → {Arrest, Surrender, Judicial_assistance}. Timeline: t_cooperation_request < t_state_response < t_non_cooperation_referral. Escalation_function: E(t) where E'(t_non_cooperation) > E'(t_cooperation) and ∫[t_request]^[t_response] Cooperation_effort(t) dt << ∫[t_non_cooperation]^[t_referral] Escalation_measures(t) dt.",
+    "technique": "Timeline Analysis and Resource Optimization (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model state cooperation as function from states to obligation types",
+      "Step 2: Establish temporal ordering of cooperation and escalation proceedings",
+      "Step 3: Use integrals to compare cooperation effort across escalation phases"
+    ]
+  },
+  {
+    "input": "The trial phase of ICC proceedings is conducted before a Trial Chamber composed of three judges. The proceedings must respect fundamental fair trial principles including the presumption of innocence, the right to legal representation, and the standard of proof beyond reasonable doubt.",
+    "output": "Trial_proceedings: Judges → {Fair_trial_principles} where Judges = {3_member_chamber} ∧ Fair_trial_principles = {Presumption_innocence, Legal_representation, Proof_standard}. Proof_beyond_reasonable_doubt: ∀case ∈ Trials : Evidence_sufficiency(case) ↔ [Presumption_innocence(case) ∧ Legal_representation(case) ∧ Beyond_reasonable_doubt(case)].",
+    "technique": "Multi-factor Boolean Analysis (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define trial proceedings as boolean function with multiple conjunctive fair trial factors",
+      "Step 2: Create case-specific proof requirements using universal quantification",
+      "Step 3: Express trial fairness and proof standard conjunction for each case evaluation"
+    ]
+  },
+  {
+    "input": "Sentencing at the ICC is governed by Article 77 of the Rome Statute, which provides for imprisonment up to 30 years or, in exceptional circumstances, life imprisonment. The Court may also order forfeiture of proceeds and property derived from crimes.",
+    "output": "Sentencing_authority: Crimes → Imprisonment_terms where Imprisonment_terms = {up_to_30_years, life_imprisonment}. Exceptional_circumstances = Self_determined_criteria(ICC). Forfeiture_orders: Crime_proceeds ⇄ Property_derived where ⇄ indicates bidirectional asset recovery. Article_77_framework: Sentencing ⊂ Rome_Statute_provisions ∩ Punishment_authority showing ICC's embedded sentencing power.",
+    "technique": "Institutional Relationship Mapping (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define ICC sentencing as set of specific imprisonment terms",
+      "Step 2: Use bidirectional mapping to show Court's forfeiture and asset recovery authority",
+      "Step 3: Position sentencing within intersection of statutory and punishment frameworks"
+    ]
+  },
+  {
+    "input": "The Appeals Chamber reviews both interlocutory appeals during proceedings and appeals from final judgments. The standard for granting leave to appeal interlocutory decisions requires that the decision significantly affects the fair and expeditious conduct of proceedings or the outcome of the trial.",
+    "output": "Appeals_review = {Interlocutory_appeals, Final_judgment_appeals} where each element addresses specific procedural stages. Review_function: R(appeal_type) → Decision_standard(appeal_type). Leave_criteria: max[∑(fair_expeditious_conduct, trial_outcome)] subject to Significant_effect_threshold ∧ Procedural_efficiency_constraints. Chamber_orders: Review_standards → Procedural_fairness ∧ Trial_efficiency.",
+    "technique": "Multi-form Remediation and Optimization (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Enumerate appeals types as finite set of specific procedural remedy categories",
+      "Step 2: Model review standards with optimization objective for procedural efficiency",
+      "Step 3: Express Appeals Chamber orders as conjunction of fairness and efficiency promotion"
+    ]
+  },
+  {
+    "input": "Victim participation in ICC proceedings represents a significant innovation compared to earlier international criminal tribunals. Victims can present their views and concerns through legal representatives and may be awarded reparations for harm suffered.",
+    "output": "Victim_participation: Evidence → {Innovative, Traditional}. Substantial_grounds: ∃participation : Innovation_threshold(participation) ≥ Earlier_tribunals_standard. Procedural_innovation: Earlier_tribunals ⊈ ICC_proceedings ∧ Victim_rights ⊆ ICC_proceedings. Protection_balance: ¬Limited_participation ∧ Enhanced_victim_rights showing dual innovative function.",
+    "technique": "Evidence Sufficiency and Procedural Filtering (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model victim participation as innovation sufficiency determination function",
+      "Step 2: Define substantial innovation using existential quantification and threshold requirements",
+      "Step 3: Use subset relations to show filtering between traditional and innovative approaches"
+    ]
+  },
+  {
+    "input": "The principle of ne bis in idem (double jeopardy) is codified in Article 20 of the Rome Statute, preventing a person from being tried twice for the same conduct. However, the ICC retains jurisdiction if national proceedings were designed to shield the person from criminal responsibility.",
+    "output": "Ne_bis_in_idem_mandate ⊇ {Same_conduct_protection, National_proceedings_assessment, Shield_exception}. Permanent_principle: Article_20_existence → ∞ (unlimited temporal scope). Anti_shield_function: National_proceedings → ICC_jurisdiction where lim[shielding → 0] = Justice_achievement.",
+    "technique": "Institutional Scope and Anti-Impunity Modeling (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define ne bis in idem mandate using set theory for protection scope",
+      "Step 2: Model permanent principle status with infinite temporal projection",
+      "Step 3: Express anti-shielding goal using limit function approaching zero protection manipulation"
+    ]
+  },
+  {
+    "input": "The relationship between the ICC and regional organizations has evolved to include cooperation agreements and complementary jurisdiction frameworks. Regional courts may handle cases that fall outside ICC jurisdiction while maintaining consistent international criminal law standards.",
+    "output": "ICC_regional_relationship = {Cooperation_agreements, Complementary_jurisdiction, Standards_consistency}. Regional_organizations_evolution: Regional_courts ⇄ ICC_jurisdiction where ⇄ indicates bidirectional coordination. Framework_position: Regional_courts ⊂ International_criminal_law ∩ Regional_legal_systems showing courts' embedded institutional status.",
+    "technique": "Institutional Relationship Mapping (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define ICC-regional relationship as set of specific coordination mechanisms",
+      "Step 2: Use bidirectional mapping to show mutual jurisdictional coordination authority",
+      "Step 3: Position regional courts within intersection of international and regional legal frameworks"
+    ]
+  },
+  {
+    "input": "The Rome Statute system includes provisions for review conferences to consider amendments and modifications to the Court's jurisdiction and operations. The first Review Conference was held in Kampala in 2010, which adopted amendments on the crime of aggression.",
+    "output": "Review_system: {Amendment_provisions, Jurisdiction_modifications, Operations_updates} → Court_evolution. Kampala_2010: Review_conferences → Crime_of_aggression_amendments. Evolution_objective: max[∑(jurisdiction_effectiveness)] subject to State_consensus ∧ Treaty_amendment_procedures. Rome_Statute_adaptability: Review_provisions → Jurisdiction_expansion ∧ Operations_improvement.",
+    "technique": "Multi-form Remediation and Optimization (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Enumerate review mechanisms as finite set of specific adaptation categories",
+      "Step 2: Model review outcomes with optimization objective for jurisdictional effectiveness",
+      "Step 3: Express Rome Statute adaptability as conjunction of expansion and improvement"
+    ]
+  },
+  {
+    "input": "The enforcement of ICC sentences is carried out by states that have agreed to accept convicted persons for the service of their sentences. The Court maintains supervision over sentence enforcement to ensure compliance with international standards.",
+    "output": "Sentence_enforcement: States → Convicted_persons where States = {Accepting_states} ∩ ICC_agreements. Supervision_function: ICC_oversight ⇄ Sentence_service where ⇄ indicates bidirectional monitoring. Standards_compliance: Enforcement ⊂ International_standards ∩ State_obligations showing enforcement within standards framework.",
+    "technique": "Institutional Relationship Mapping (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define sentence enforcement as mapping from accepting states to convicted persons",
+      "Step 2: Use bidirectional coordination to show ICC's supervision and state enforcement roles",
+      "Step 3: Position enforcement within intersection of international standards and state obligations"
+    ]
+  },
+  {
+    "input": "The Assembly of States Parties serves as the management oversight and legislative body of the ICC. It reviews the Court's activities, adopts the budget, and can amend the Rules of Procedure and Evidence.",
+    "output": "ASP_functions = {Management_oversight, Legislative_authority, Budget_adoption, Rules_amendment} where |ASP_responsibilities| = 4. ∀f ∈ ASP_functions : ∃O(f) such that ICC_governance(f) ↔ State_party_consensus(O(f)). Oversight_requirement: ⋀[r ∈ O(f)] State_agreement(r) → Effective_governance(f).",
+    "technique": "Categorical Definition and Proof Requirements (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define ASP functions as finite set with specific governance cardinality",
+      "Step 2: Create existential quantification for consensus-based governance requirement",
+      "Step 3: Use conjunction to express state agreement requirements for effective oversight"
+    ]
+  },
+  {
+    "input": "The relationship between customary international law and the Rome Statute creates interpretive challenges for ICC judges. While the Statute provides the primary legal framework, customary law continues to evolve and may influence judicial interpretation.",
+    "output": "Customary_law_relationship: Interpretive_challenges → Judicial_decisions where Challenges = {Evolution, Influence} ∩ Rome_Statute_framework. Dynamic_interpretation: Customary_law ⊕ Rome_Statute → Judicial_synthesis where ⊕ ensures legal evolution with statutory stability. Legal_framework_optimization: max(Judicial_interpretation) subject to Customary_law_development_constraints.",
+    "technique": "Optimization and Innovation Functions (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model customary-statutory relationship as function mapping challenges to decisions",
+      "Step 2: Use XOR operation to show balance between legal evolution and statutory stability",
+      "Step 3: Apply optimization to maximize interpretation quality within customary law constraints"
+    ]
+  },
+  {
+    "input": "The ICC's impact on domestic legal systems extends beyond direct cases to include legislative reforms, judicial training, and capacity building initiatives. This broader influence reflects the Rome Statute's catalytic effect on national criminal justice development.",
+    "output": "ICC_impact: Domestic_systems → {Legislative_reforms, Judicial_training, Capacity_building}. Timeline: t_Rome_Statute_ratification < t_domestic_reforms < t_capacity_development. Catalytic_function: C(t) where C'(t_ICC_influence) > C'(t_pre_ICC) and ∫[t_ratification]^[t_reforms] Legal_development(t) dt >> ∫[t_pre_Rome]^[t_ratification] Development_baseline(t) dt.",
+    "technique": "Timeline Analysis and Resource Optimization (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Model ICC impact as function from domestic systems to reform types",
+      "Step 2: Establish temporal ordering of ratification and development proceedings",
+      "Step 3: Use integrals to compare legal development acceleration across Rome Statute phases"
+    ]
+  },
+  {
+    "input": "The concept of universal jurisdiction allows states to prosecute international crimes regardless of where they were committed or the nationality of perpetrators or victims. This principle complements the ICC's jurisdiction by expanding the potential for accountability.",
+    "output": "Universal_jurisdiction: International_crimes → State_prosecution where Prosecution = {location_independent, nationality_independent} ∧ Accountability_expansion. Complementary_relationship: ∀crime ∈ International_crimes : Accountability_potential(crime) ↔ [Universal_jurisdiction(crime) ∧ ICC_jurisdiction(crime) ∧ National_jurisdiction(crime)].",
+    "technique": "Multi-factor Boolean Analysis (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define universal jurisdiction as boolean function with multiple independence factors",
+      "Step 2: Create crime-specific accountability requirements using universal quantification",
+      "Step 3: Express jurisdictional complementarity through conjunction of all jurisdiction types"
+    ]
+  },
+  {
+    "input": "The prevention of mass atrocities through international criminal law relies on both deterrent effects and the strengthening of rule of law institutions. The ICC contributes to prevention through its investigations, prosecutions, and broader normative influence.",
+    "output": "Prevention_mechanisms: Mass_atrocities → {Deterrent_effects, Rule_of_law_strengthening} where Prevention = comprehensive_strategy. ICC_contribution ⇄ Prevention_outcomes where ⇄ indicates bidirectional prevention impact. Normative_influence: ICC_activities ⊂ International_criminal_law ∩ Prevention_framework showing Court's embedded prevention role.",
+    "technique": "Institutional Relationship Mapping (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define prevention mechanisms as set of specific deterrent and institutional strategies",
+      "Step 2: Use bidirectional mapping to show ICC's prevention contribution and outcome influence",
+      "Step 3: Position ICC activities within intersection of criminal law and prevention frameworks"
+    ]
+  },
+  {
+    "input": "The future development of international criminal justice may include expanded jurisdiction, enhanced enforcement mechanisms, and stronger cooperation frameworks. These potential developments reflect ongoing efforts to address gaps in the current system.",
+    "output": "Future_development = {Expanded_jurisdiction, Enhanced_enforcement, Stronger_cooperation} where |Development_areas| = 3. ∀d ∈ Future_development : ∃G(d) such that System_improvement(d) ↔ Gap_addressing(G(d)). Enhancement_requirement: ⋀[g ∈ G(d)] Current_gap(g) → Future_solution(d).",
+    "technique": "Categorical Definition and Proof Requirements (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Define future development as finite set with specific improvement cardinality",
+      "Step 2: Create existential quantification for gap-addressing requirement",
+      "Step 3: Use conjunction to express current gap requirements for future solutions"
+    ]
+  }
+]
+[
+  {
+    "input": "rnational tribunals, complementarity recognizes the primary responsibility of states to investigate and prosecute international crimes, with the ICC serving as a court of last resort.",
+    "output": "AUTOCOM0.9 LEGALTECH tribunals, complementarity recognizes state responsibility investigate prosecute international crimes, ICC last resort court.",
+    "technique": "Automatic Text Compression with Legal Domain Adaptation",
+    "application_steps": [
+      "Step 1: Apply domain-specific compression algorithm with 0.9 ratio for legal terminology preservation",
+      "Step 2: Remove redundant legal qualifiers while maintaining jurisdictional hierarchy",
+      "Step 3: Optimize sentence structure for technical legal documentation"
+    ]
+  },
+  {
+    "input": "The principle of complementarity in the Rome Statute establishes that the ICC will only exercise jurisdiction when national courts are unwilling or unable to genuinely investigate or prosecute.",
+    "output": "Complementarity principle: ICC exercises jurisdiction when national courts unwilling/unable to investigate/prosecute.",
+    "technique": "Bullet Point Summarization",
+    "application_steps": [
+      "Step 1: Identify core legal principle and conditions",
+      "Step 2: Convert complex conditional statement to concise bullet format",
+      "Step 3: Preserve essential jurisdictional relationship in abbreviated form"
+    ]
+  },
+  {
+    "input": "The ICC's preliminary examination process serves as a filter to determine whether a situation warrants formal investigation.",
+    "output": "The ICC's preliminary examination process functions as a filtering mechanism to ascertain whether a situation merits formal investigation.",
+    "technique": "Lexical Variety Enhancement",
+    "application_steps": [
+      "Step 1: Replace simple verbs with more sophisticated synonyms",
+      "Step 2: Substitute common words with elevated legal vocabulary",
+      "Step 3: Maintain meaning while increasing linguistic complexity"
+    ]
+  },
+  {
+    "input": "The Rome Statute's admissibility provisions in Articles 17-19 establish a framework for determining when the ICC can exercise jurisdiction.",
+    "output": "Articles 17-19 → Framework → ICC Jurisdiction Exercise",
+    "technique": "Process Flow Diagramming",
+    "application_steps": [
+      "Step 1: Identify sequential legal process components",
+      "Step 2: Create arrow-based flow representation",
+      "Step 3: Simplify complex legal procedure into visual workflow"
+    ]
+  },
+  {
+    "input": "The ICC's jurisdiction is limited to crimes committed after the entry into force of the Rome Statute on July 1, 2002.",
+    "output": "ICC jurisdiction = crimes WHERE commission_date > '2002-07-01' AND Rome_Statute_in_force = TRUE",
+    "technique": "SQL Query Conversion",
+    "application_steps": [
+      "Step 1: Transform temporal limitation into database query syntax",
+      "Step 2: Convert legal conditions to boolean logic operators",
+      "Step 3: Structure jurisdictional scope as conditional database selection"
+    ]
+  },
+  {
+    "input": "State cooperation is essential for the ICC's effectiveness, as the Court lacks its own enforcement mechanism.",
+    "output": "if (state_cooperation == false) { ICC_effectiveness = minimal; } else { ICC_effectiveness = optimal; }",
+    "technique": "Conditional Programming Logic",
+    "application_steps": [
+      "Step 1: Identify causal relationship between cooperation and effectiveness",
+      "Step 2: Convert legal dependency into programming conditional structure",
+      "Step 3: Express institutional limitations through code logic"
+    ]
+  },
+  {
+    "input": "The principle of individual criminal responsibility under international law holds that persons can be held accountable for international crimes regardless of their official capacity.",
+    "output": "Individual + Criminal + Responsibility + International + Law = Accountability - Official_Capacity_Exception",
+    "technique": "Mathematical Equation Modeling",
+    "application_steps": [
+      "Step 1: Convert legal principle into mathematical equation format",
+      "Step 2: Represent accountability as sum of positive factors",
+      "Step 3: Show official capacity as subtracted exception variable"
+    ]
+  },
+  {
+    "input": "The concept of command responsibility allows for the prosecution of military commanders who fail to prevent crimes by subordinates.",
+    "output": "<!DOCTYPE html><html><body><h1>Command Responsibility</h1><ul><li>Military Commanders</li><li>Failure to Prevent</li><li>Subordinate Crimes</li></ul></body></html>",
+    "technique": "HTML Markup Conversion",
+    "application_steps": [
+      "Step 1: Structure legal concept as HTML document hierarchy",
+      "Step 2: Convert key elements to HTML list format",
+      "Step 3: Organize command responsibility components in web markup"
+    ]
+  },
+  {
+    "input": "The Rome Statute defines four core international crimes: genocide, crimes against humanity, war crimes, and the crime of aggression.",
+    "output": "crimes = ['genocide', 'crimes_against_humanity', 'war_crimes', 'crime_of_aggression']; console.log('Rome Statute defines ' + crimes.length + ' core crimes');",
+    "technique": "JavaScript Array Processing",
+    "application_steps": [
+      "Step 1: Convert crime categories to JavaScript array structure",
+      "Step 2: Use array methods to process legal classifications",
+      "Step 3: Output structured legal information through console logging"
+    ]
+  },
+  {
+    "input": "The ICC's trust fund for victims provides reparations to individuals and communities affected by crimes.",
+    "output": "{ \"trust_fund\": { \"purpose\": \"victim_reparations\", \"beneficiaries\": [\"individuals\", \"communities\"], \"scope\": \"ICC_crimes\" } }",
+    "technique": "JSON Data Structure",
+    "application_steps": [
+      "Step 1: Model legal institution as structured JSON object",
+      "Step 2: Represent beneficiaries as array within nested structure",
+      "Step 3: Organize reparations mechanism through key-value pairs"
+    ]
+  },
+  {
+    "input": "Preliminary objections to jurisdiction can be raised by the defense before the confirmation of charges hearing.",
+    "output": "[TIMELINE] Defense Filing → Jurisdiction Review → Confirmation Hearing [SEQUENTIAL]",
+    "technique": "Timeline Annotation",
+    "application_steps": [
+      "Step 1: Identify chronological sequence of legal proceedings",
+      "Step 2: Add temporal markers to clarify procedural timing",
+      "Step 3: Create annotated timeline showing procedural dependencies"
+    ]
+  },
+  {
+    "input": "The principle of complementarity requires a case-by-case analysis to determine whether national proceedings are genuine.",
+    "output": "switch(case_analysis) { case 'genuine_national_proceedings': return 'ICC_inadmissible'; case 'sham_proceedings': return 'ICC_admissible'; default: return 'further_analysis_required'; }",
+    "technique": "Switch Statement Logic",
+    "application_steps": [
+      "Step 1: Convert complementarity assessment to switch statement structure",
+      "Step 2: Define case conditions for genuine vs. sham proceedings",
+      "Step 3: Map legal outcomes to programming return values"
+    ]
+  },
+  {
+    "input": "The ICC Prosecutor has discretionary authority to initiate investigations proprio motu based on information received.",
+    "output": "class Prosecutor { constructor() { this.discretionary_authority = true; } initiate_investigation(information) { if (this.discretionary_authority && information.reliable) { return this.proprio_motu_investigation(); } } }",
+    "technique": "Object-Oriented Class Design",
+    "application_steps": [
+      "Step 1: Model prosecutorial role as object-oriented class",
+      "Step 2: Define discretionary authority as class property",
+      "Step 3: Implement investigation initiation as class method"
+    ]
+  },
+  {
+    "input": "Victims have the right to participate in ICC proceedings through legal representatives.",
+    "output": "<victims> <participation_rights> <legal_representation>true</legal_representation> <proceeding_access>granted</proceeding_access> </participation_rights> </victims>",
+    "technique": "XML Schema Representation",
+    "application_steps": [
+      "Step 1: Structure victim rights as hierarchical XML elements",
+      "Step 2: Define participation components as nested tags",
+      "Step 3: Use boolean values for rights granted/denied status"
+    ]
+  },
+  {
+    "input": "The Appeals Chamber has jurisdiction to review decisions on jurisdiction, admissibility, and final judgments.",
+    "output": "Appeals_Chamber.review(['jurisdiction_decisions', 'admissibility_decisions', 'final_judgments']).forEach(decision => decision.evaluate());",
+    "technique": "Functional Programming Chain",
+    "application_steps": [
+      "Step 1: Model Appeals Chamber review as functional method chain",
+      "Step 2: Convert decision types to array for iteration",
+      "Step 3: Apply evaluation function to each reviewable decision type"
+    ]
+  },
+  {
+    "input": "The Rome Statute establishes different modes of liability including direct commission, ordering, and aiding and abetting.",
+    "output": "liability_modes = { direct_commission: { weight: 1.0, culpability: 'primary' }, ordering: { weight: 0.9, culpability: 'primary' }, aiding_abetting: { weight: 0.7, culpability: 'secondary' } }",
+    "technique": "Weighted Data Structure",
+    "application_steps": [
+      "Step 1: Assign numerical weights to different liability modes",
+      "Step 2: Categorize culpability levels within data structure",
+      "Step 3: Create hierarchical responsibility assessment system"
+    ]
+  },
+  {
+    "input": "Witness protection measures are crucial for ICC proceedings given the serious nature of crimes and potential risks.",
+    "output": "risk_assessment = crime_seriousness * witness_vulnerability + threat_level - protection_measures; if (risk_assessment > safety_threshold) { implement_enhanced_protection(); }",
+    "technique": "Risk Calculation Algorithm",
+    "application_steps": [
+      "Step 1: Model witness safety as mathematical risk calculation",
+      "Step 2: Define variables for seriousness, vulnerability, and threats",
+      "Step 3: Create threshold-based protection implementation logic"
+    ]
+  },
+  {
+    "input": "The principle of legality requires that crimes be clearly defined in law at the time of their commission.",
+    "output": "∀crime ∈ Prosecutions: ∃law ∈ Legal_Framework : defined(law, crime) ∧ temporal_precedence(law.enactment, crime.commission)",
+    "technique": "Formal Logic Notation",
+    "application_steps": [
+      "Step 1: Express legality principle using universal quantification",
+      "Step 2: Define existential relationship between law and crime",
+      "Step 3: Add temporal precedence constraint for legal definition"
+    ]
+  },
+  {
+    "input": "The ICC's relationship with the UN Security Council includes referral powers and deferral requests.",
+    "output": "graph TD; A[UN Security Council] -->|refers| B[ICC Investigation]; A -->|defers| C[Prosecution Suspension]; B --> D[Trial Proceedings]; C --> E[Deferred Justice];",
+    "technique": "Mermaid Diagram Syntax",
+    "application_steps": [
+      "Step 1: Convert institutional relationship to graph diagram syntax",
+      "Step 2: Define directional flow between UN Security Council and ICC",
+      "Step 3: Show alternative pathways for referral and deferral processes"
+    ]
+  },
+  {
+    "input": "Superior responsibility holds commanders accountable for subordinate crimes when they knew or should have known.",
+    "output": "accountability = (actual_knowledge || constructive_knowledge) && (failure_to_prevent || failure_to_punish) && command_authority",
+    "technique": "Boolean Logic Expression",
+    "application_steps": [
+      "Step 1: Convert legal knowledge standards to boolean OR operation",
+      "Step 2: Define failure conditions using logical AND conjunction",
+      "Step 3: Combine all accountability elements in single boolean expression"
+    ]
+  },
+  {
+    "input": "Reparations can take various forms including restitution, compensation, and rehabilitation.",
+    "output": "SELECT reparation_type FROM victim_remedies WHERE harm_category = ? ORDER BY victim_preference, feasibility_score DESC;",
+    "technique": "Parameterized Database Query",
+    "application_steps": [
+      "Step 1: Structure reparations as database query with parameters",
+      "Step 2: Add filtering based on harm category variables",
+      "Step 3: Order results by victim preference and implementation feasibility"
+    ]
+  },
+  {
+    "input": "The confirmation of charges hearing serves as a judicial filter to determine evidence sufficiency.",
+    "output": "def confirmation_hearing(evidence_package): threshold = calculate_substantial_grounds(); if evidence_package.strength >= threshold: return 'charges_confirmed'; else: return 'charges_declined';",
+    "technique": "Python Function Definition",
+    "application_steps": [
+      "Step 1: Model confirmation hearing as Python function with evidence parameter",
+      "Step 2: Calculate substantial grounds threshold for comparison",
+      "Step 3: Return binary decision based on evidence strength evaluation"
+    ]
+  },
+  {
+    "input": "The ICC's mandate extends to investigating the most serious crimes of concern to the international community.",
+    "output": "ICC_mandate = { scope: 'international_crimes', severity: 'most_serious', jurisdiction: 'global', accountability: 'individual_criminal_responsibility' };",
+    "technique": "Configuration Object",
+    "application_steps": [
+      "Step 1: Model ICC mandate as configuration object with key properties",
+      "Step 2: Define scope, severity, and jurisdiction parameters",
+      "Step 3: Structure institutional purpose through property-value pairs"
+    ]
+  },
+  {
+    "input": "Article 17 sets out admissibility criteria including complementarity assessment and gravity threshold.",
+    "output": "admissibility_check() { return complementarity_satisfied() && gravity_threshold_met() && interests_of_justice_served(); }",
+    "technique": "Compound Boolean Function",
+    "application_steps": [
+      "Step 1: Create function returning conjunction of admissibility criteria",
+      "Step 2: Define each criterion as separate boolean-returning function",
+      "Step 3: Combine all Article 17 requirements using logical AND operator"
+    ]
+  },
+  {
+    "input": "Temporal jurisdiction begins July 1, 2002, when the Rome Statute entered into force.",
+    "output": "const ROME_STATUTE_FORCE_DATE = new Date('2002-07-01'); function has_temporal_jurisdiction(crime_date) { return crime_date >= ROME_STATUTE_FORCE_DATE; }",
+    "technique": "Date Comparison Function",
+    "application_steps": [
+      "Step 1: Define Rome Statute force date as constant reference point",
+      "Step 2: Create temporal jurisdiction function with date parameter",
+      "Step 3: Return boolean comparison for jurisdiction determination"
+    ]
+  },
+  {
+    "input": "Complementarity creates a rebuttable presumption in favor of national jurisdiction.",
+    "output": "let jurisdiction_presumption = 'national'; function rebut_presumption(evidence) { if (evidence.state_unwillingness || evidence.state_inability) { jurisdiction_presumption = 'international'; } }",
+    "technique": "State Variable Modification",
+    "application_steps": [
+      "Step 1: Initialize jurisdiction presumption variable to national default",
+      "Step 2: Create function to modify presumption based on evidence",
+      "Step 3: Change state variable when unwillingness or inability proven"
+    ]
+  },
+  {
+    "input": "Situations can be referred through state party referrals, Security Council referrals, or proprio motu investigations.",
+    "output": "referral_mechanisms = ['state_party', 'security_council', 'proprio_motu']; referral_mechanisms.map(mechanism => ({ type: mechanism, authority: get_authority(mechanism), procedure: get_procedure(mechanism) }));",
+    "technique": "Array Mapping Transformation",
+    "application_steps": [
+      "Step 1: Define referral mechanisms as array of string identifiers",
+      "Step 2: Transform each mechanism using map function",
+      "Step 3: Create structured objects with type, authority, and procedure properties"
+    ]
+  },
+  {
+    "input": "The Pre-Trial Chamber authorizes investigations, issues arrest warrants, and confirms charges.",
+    "output": "class PreTrialChamber extends JudicialBody { authorize_investigation(request) { return this.evaluate(request); } issue_arrest_warrant(evidence) { return this.assess_necessity(evidence); } confirm_charges(case) { return this.apply_standard(case); } }",
+    "technique": "Inheritance-Based Class Structure",
+    "application_steps": [
+      "Step 1: Extend Pre-Trial Chamber from general JudicialBody class",
+      "Step 2: Define specific chamber functions as class methods",
+      "Step 3: Implement judicial decision-making through method calls"
+    ]
+  },
+  {
+    "input": "Gravity assessment considers scale, impact, systematic nature, and widespread conduct of crimes.",
+    "output": "function calculate_gravity(crime) { const factors = { scale: weight_scale(crime.scale), impact: weight_impact(crime.impact), systematic: weight_systematic(crime.systematic), widespread: weight_widespread(crime.widespread) }; return Object.values(factors).reduce((sum, factor) => sum + factor, 0); }",
+    "technique": "Weighted Factor Calculation",
+    "application_steps": [
+      "Step 1: Define gravity factors as weighted calculation components",
+      "Step 2: Apply individual weighting functions to each factor",
+      "Step 3: Aggregate weighted factors using reduce function for total gravity score"
+    ]
+  },
+  {
+    "input": "The Office of the Prosecutor operates with independence while remaining accountable to the Assembly of States Parties.",
+    "output": "interface ProsecutorialIndependence { decision_making: 'autonomous'; resource_allocation: 'independent'; accountability_to: 'Assembly_of_States_Parties'; oversight_mechanism: 'performance_review'; }",
+    "technique": "Interface Definition",
+    "application_steps": [
+      "Step 1: Define prosecutorial independence as structured interface",
+      "Step 2: Specify autonomous decision-making and resource allocation",
+      "Step 3: Balance independence with accountability through oversight mechanisms"
+    ]
+  },
+  {
+    "input": "Cooperation obligations include arrest, surrender, and judicial assistance under Part 9 of the Rome Statute.",
+    "output": "const cooperation_framework = { part_9_obligations: { arrest: { mandatory: true, exceptions: ['immunity', 'national_law_conflict'] }, surrender: { procedure: 'formal_request', timeline: '30_days' }, judicial_assistance: { scope: 'evidence_collection', witness_cooperation: true } } };",
+    "technique": "Nested Configuration Structure",
+    "application_steps": [
+      "Step 1: Structure cooperation obligations as nested configuration object",
+      "Step 2: Define mandatory status and exceptions for each obligation",
+      "Step 3: Specify procedural details and timelines within nested structure"
+    ]
+  },
+  {
+    "input": "Trial proceedings respect fair trial principles including presumption of innocence and right to legal representation.",
+    "output": "abstract class FairTrialPrinciples { abstract presumption_of_innocence(): boolean; abstract right_to_representation(): boolean; abstract proof_beyond_reasonable_doubt(): boolean; validate_trial(trial: TrialProceedings): boolean { return this.presumption_of_innocence() && this.right_to_representation() && this.proof_beyond_reasonable_doubt(); } }",
+    "technique": "Abstract Class Pattern",
+    "application_steps": [
+      "Step 1: Define fair trial principles as abstract class with required methods",
+      "Step 2: Create abstract methods for each fundamental principle",
+      "Step 3: Implement validation method combining all principles using logical AND"
+    ]
+  },
+  {
+    "input": "Sentencing provides for imprisonment up to 30 years or life imprisonment in exceptional circumstances.",
+    "output": "function determine_sentence(crime_severity, mitigating_factors, aggravating_factors) { let base_sentence = crime_severity * 30; let adjusted_sentence = base_sentence - mitigating_factors + aggravating_factors; if (exceptional_circumstances(crime_severity, aggravating_factors)) { return 'life_imprisonment'; } return Math.min(adjusted_sentence, 30); }",
+    "technique": "Algorithmic Sentencing Calculation",
+    "application_steps": [
+      "Step 1: Calculate base sentence using crime severity multiplier",
+      "Step 2: Adjust sentence based on mitigating and aggravating factors",
+      "Step 3: Apply exceptional circumstances check for life imprisonment consideration"
+    ]
+  },
+  {
+    "input": "Appeals review interlocutory appeals and final judgment appeals with different standards for leave to appeal.",
+    "output": "enum AppealType { Interlocutory, FinalJudgment } interface AppealStandard { type: AppealType; leave_required: boolean; standard: string; } const appeal_standards: AppealStandard[] = [ { type: AppealType.Interlocutory, leave_required: true, standard: 'significant_effect_on_proceedings' }, { type: AppealType.FinalJudgment, leave_required: false, standard: 'error_of_law_or_fact' } ];",
+    "technique": "Enumeration and Interface Pattern",
+    "application_steps": [
+      "Step 1: Define appeal types using enumeration for type safety",
+      "Step 2: Create interface structure for appeal standards",
+      "Step 3: Implement different standards array with type-specific requirements"
+    ]
+  },
+  {
+    "input": "Victim participation represents innovation compared to earlier tribunals, allowing views presentation and reparations.",
+    "output": "class VictimParticipation { constructor(tribunal_type) { this.innovation_level = tribunal_type === 'ICC' ? 'high' : 'limited'; this.rights = tribunal_type === 'ICC' ? ['views_presentation', 'legal_representation', 'reparations'] : ['testimony_only']; } participate(proceeding) { return this.rights.filter(right => proceeding.allows(right)); } }",
+    "technique": "Conditional Constructor Pattern",
+    "application_steps": [
+      "Step 1: Create class with conditional initialization based on tribunal type",
+      "Step 2: Assign different rights arrays depending on tribunal innovation level",
+      "Step 3: Filter available rights based on proceeding type allowances"
+    ]
+  },
+  {
+    "input": "Ne bis in idem prevents double jeopardy but allows ICC jurisdiction if national proceedings were designed to shield.",
+    "output": "function apply_ne_bis_in_idem(national_proceeding, international_proceeding) { if (national_proceeding.completed && national_proceeding.genuine) { return 'double_jeopardy_bar'; } else if (national_proceeding.designed_to_shield) { return 'ICC_jurisdiction_retained'; } else { return 'case_by_case_analysis'; } }",
+    "technique": "Multi-Conditional Decision Tree",
+    "application_steps": [
+      "Step 1: Create function evaluating multiple proceeding characteristics",
+      "Step 2: Define branching logic for genuine vs. shielding proceedings",
+      "Step 3: Return appropriate legal outcome based on proceeding assessment"
+    ]
+  },
+  {
+    "input": "Regional cooperation includes agreements and complementary jurisdiction frameworks with consistent international standards.",
+    "output": "const regional_cooperation = { agreements: new Map([ ['African_Union', { cooperation_level: 'limited', jurisdiction: 'complementary' }], ['European_Union', { cooperation_level: 'high', jurisdiction: 'supportive' }], ['ASEAN', { cooperation_level: 'developing', jurisdiction: 'parallel' }] ]), maintain_standards: function(region) { return this.agreements.get(region).jurisdiction !== 'conflicting'; } };",
+    "technique": "Map Data Structure with Methods",
+    "application_steps": [
+      "Step 1: Use Map structure to associate regions with cooperation characteristics",
+      "Step 2: Define cooperation levels and jurisdiction types for each region",
+      "Step 3: Implement standards maintenance method checking for conflicts"
+    ]
+  },
+  {
+    "input": "Review conferences consider amendments to jurisdiction and operations, with the Kampala conference adopting crime of aggression amendments.",
+    "output": "const review_conferences = [{ year: 2010, location: 'Kampala', amendments: ['crime_of_aggression'], status: 'adopted', effective_date: '2018-07-17' }]; function next_review_conference() { const last_conference = Math.max(...review_conferences.map(conf => conf.year)); return { projected_year: last_conference + 7, potential_amendments: ['expanded_jurisdiction', 'enforcement_mechanisms'] }; }",
+    "technique": "Historical Data Array with Projection Function",
+    "application_steps": [
+      "Step 1: Structure historical review conferences as array of objects",
+      "Step 2: Include amendment details and implementation dates",
+      "Step 3: Create projection function for future conference planning"
+    ]
+  },
+  {
+    "input": "Sentence enforcement is carried out by accepting states with ICC supervision to ensure international standards compliance.",
+    "output": "class SentenceEnforcement { constructor() { this.accepting_states = new Set(); this.supervision_protocols = ['regular_reports', 'site_visits', 'compliance_monitoring']; } register_accepting_state(state, capacity) { this.accepting_states.add({ state, capacity, compliance_rating: this.assess_compliance(state) }); } supervise_sentence(prisoner, enforcing_state) { return this.supervision_protocols.map(protocol => this.execute_protocol(protocol, prisoner, enforcing_state)); } }",
+    "technique": "Set-Based State Management",
+    "application_steps": [
+      "Step 1: Use Set data structure to manage accepting states without duplicates",
+      "Step 2: Implement state registration with capacity and compliance assessment",
+      "Step 3: Apply supervision protocols through protocol mapping function"
+    ]
+  },
+  {
+    "input": "The Assembly of States Parties provides management oversight, budget adoption, and rules amendment authority.",
+    "output": "const ASP_governance = { responsibilities: { management_oversight: { frequency: 'annual', scope: 'comprehensive' }, budget_adoption: { process: 'consensus_based', timeline: 'annual_session' }, rules_amendment: { threshold: 'two_thirds_majority', procedure: 'formal_proposal' } }, exercise_authority: function(responsibility, parameters) { const requirement = this.responsibilities[responsibility]; return this.meets_requirements(parameters, requirement); } };",
+    "technique": "Responsibility Matrix with Validation",
+    "application_steps": [
+      "Step 1: Structure ASP responsibilities as nested object with requirements",
+      "Step 2: Define specific procedures and thresholds for each responsibility",
+      "Step 3: Implement authority validation function checking parameter compliance"
+    ]
+  },
+  {
+    "input": "Customary international law creates interpretive challenges alongside Rome Statute framework requiring judicial balance.",
+    "output": "class LegalInterpretation { constructor() { this.sources = { customary_law: { weight: 0.4, evolution: 'dynamic' }, rome_statute: { weight: 0.6, evolution: 'static' } }; } interpret(legal_question) { const customary_influence = this.sources.customary_law.weight * this.assess_custom(legal_question); const statutory_influence = this.sources.rome_statute.weight * this.assess_statute(legal_question); return this.balance_sources(customary_influence, statutory_influence); } }",
+    "technique": "Weighted Source Interpretation",
+    "application_steps": [
+      "Step 1: Assign weights to different legal sources based on interpretive hierarchy",
+      "Step 2: Calculate influence scores for both customary and statutory sources",
+      "Step 3: Balance competing sources through weighted calculation method"
+    ]
+  },
+  {
+    "input": "ICC impact on domestic systems includes legislative reforms, judicial training, and capacity building beyond direct cases.",
+    "output": "const impact_metrics = { legislative_reforms: { measurement: 'laws_amended', baseline: 'pre_ratification' }, judicial_training: { measurement: 'judges_trained', frequency: 'annual' }, capacity_building: { measurement: 'institutional_strength', indicators: ['independence', 'resources', 'expertise'] } }; function measure_catalytic_effect(country, timeframe) { return Object.keys(impact_metrics).reduce((total_impact, metric) => { return total_impact + this.calculate_metric_improvement(country, metric, timeframe); }, 0); }",
+    "technique": "Impact Measurement Framework",
+    "application_steps": [
+      "Step 1: Define measurable impact categories with specific indicators",
+      "Step 2: Establish baseline comparisons for before-after analysis",
+      "Step 3: Aggregate impact measurements using reduction function for total effect"
+    ]
+  },
+  {
+    "input": "Universal jurisdiction complements ICC jurisdiction by expanding accountability potential for international crimes.",
+    "output": "const jurisdiction_matrix = { universal: { trigger: 'crime_type', limitations: 'practical_constraints' }, ICC: { trigger: 'admissibility_criteria', limitations: 'temporal_territorial' }, national: { trigger: 'territorial_nationality', limitations: 'political_will' } }; function optimize_accountability(crime) { const available_jurisdictions = Object.keys(jurisdiction_matrix).filter(j => this.can_prosecute(j, crime)); return available_jurisdictions.length > 1 ? 'complementary_effect' : 'single_option'; }",
+    "technique": "Jurisdiction Optimization Matrix",
+    "application_steps": [
+      "Step 1: Model different jurisdiction types with triggers and limitations",
+      "Step 2: Filter available jurisdictions based on crime characteristics",
+      "Step 3: Assess complementary effects when multiple jurisdictions available"
+    ]
+  },
+  {
+    "input": "Prevention of mass atrocities relies on deterrent effects and rule of law strengthening through ICC investigations.",
+    "output": "function prevention_algorithm(region) { const deterrent_score = calculate_deterrent_effect(region.ICC_presence, region.prosecution_likelihood); const institutional_score = assess_rule_of_law(region.judicial_independence, region.law_enforcement); const prevention_probability = (deterrent_score * 0.6) + (institutional_score * 0.4); return prevention_probability > 0.7 ? 'high_prevention' : prevention_probability > 0.4 ? 'moderate_prevention' : 'low_prevention'; }",
+    "technique": "Prevention Probability Algorithm",
+    "application_steps": [
+      "Step 1: Calculate deterrent effects based on ICC presence and prosecution likelihood",
+      "Step 2: Assess institutional strength through rule of law indicators",
+      "Step 3: Combine weighted scores to determine prevention probability categories"
+    ]
+  },
+  {
+    "input": "Future development may include expanded jurisdiction, enhanced enforcement, and stronger cooperation addressing system gaps.",
+    "output": "const development_roadmap = { phases: [ { name: 'immediate', timeline: '2025-2030', priorities: ['cooperation_enhancement', 'enforcement_strengthening'] }, { name: 'medium_term', timeline: '2030-2040', priorities: ['jurisdiction_expansion', 'procedure_streamlining'] }, { name: 'long_term', timeline: '2040+', priorities: ['universal_ratification', 'automatic_enforcement'] } ], track_progress: function(phase_name) { const phase = this.phases.find(p => p.name === phase_name); return phase.priorities.map(priority => ({ priority, status: this.assess_progress(priority), completion_percentage: this.calculate_completion(priority) })); } };",
+    "technique": "Phased Development Roadmap",
+    "application_steps": [
+      "Step 1: Structure future development as phased timeline with specific priorities",
+      "Step 2: Define short, medium, and long-term development objectives",
+      "Step 3: Implement progress tracking function with completion percentage calculation"
+    ]
+  }
+]
+[
+  {
+    "input": "The principle of complementarity requires that the ICC only exercise jurisdiction when national courts are unwilling or unable to genuinely investigate or prosecute international crimes.",
+    "output": "<jurisdiction> ::= <national-jurisdiction> | <icc-jurisdiction>\n<national-jurisdiction> ::= <national-courts> <genuine-proceedings>\n<icc-jurisdiction> ::= <complementarity-trigger> <rome-statute-authority>\n<complementarity-trigger> ::= <national-unwillingness> | <national-inability>\n<national-unwillingness> ::= \"unwilling to genuinely prosecute\"\n<national-inability> ::= \"unable to genuinely prosecute\"",
+    "technique": "Backus-Naur Form Grammar (Formal Languages)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Backus-Naur Form Grammar principles",
+      "Step 2: Apply Formal Languages conventions to jurisdictional concepts",
+      "Step 3: Format output according to Backus-Naur Form Grammar standards"
+    ]
+  },
+  {
+    "input": "The Rome Statute establishes the International Criminal Court as a permanent institution with the power to exercise jurisdiction over persons for the most serious crimes of international concern.",
+    "output": "[BACKGROUND: The Rome Statute establishes complementarity principles]\n[CENTRAL CLAIM: The ICC only exercises jurisdiction when national courts fail]\n[ELABORATION: National courts may be unwilling or unable to prosecute]\n[JUSTIFICATION: This ensures respect for national sovereignty while preventing impunity]",
+    "technique": "Rhetorical Structure Annotation (Discourse Analysis)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Rhetorical Structure Annotation principles",
+      "Step 2: Apply Discourse Analysis conventions to jurisdictional concepts",
+      "Step 3: Format output according to Rhetorical Structure Annotation standards"
+    ]
+  },
+  {
+    "input": "The ICC's jurisdiction is limited to crimes committed after the entry into force of the Rome Statute on July 1, 2002, reflecting the principle of non-retroactivity in international criminal law.",
+    "output": "FLOOR PLAN: INTERNATIONAL CRIMINAL JUSTICE SYSTEM\nFOUNDATION: Rome Statute Principles\nLOAD-BEARING WALLS: National Criminal Jurisdictions\nSECONDARY STRUCTURE: ICC Complementary Jurisdiction\nACCESS POINTS: Unwillingness/Inability Thresholds\nSECURITY SYSTEM: Admissibility Requirements\nSCALE: 1:1 (Direct Jurisdiction Relationship)",
+    "technique": "Architectural Blueprint Annotation (Architecture)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Architectural Blueprint Annotation principles",
+      "Step 2: Apply Architecture conventions to jurisdictional concepts",
+      "Step 3: Format output according to Architectural Blueprint Annotation standards"
+    ]
+  },
+  {
+    "input": "State cooperation is essential for the ICC's effectiveness, as the Court lacks its own enforcement mechanism and relies on states to arrest suspects and provide evidence.",
+    "output": "State cooperation is essential for the ICC's effectiveness, as the Court lacks its own enforcement mechanism and relies on states to arrest suspects and provide evidence.",
+    "technique": "Sentiment Polarity Inversion (NLP)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Sentiment Polarity Inversion principles",
+      "Step 2: Apply NLP conventions to jurisdictional concepts",
+      "Step 3: Format output according to Sentiment Polarity Inversion standards"
+    ]
+  },
+  {
+    "input": "The principle of individual criminal responsibility under international law holds that persons can be held accountable for international crimes regardless of their official capacity.",
+    "output": "ICC (ICC Complements Courts) jurisdiction applies when NATIONAL (Nations Actively Trying International Offenses Nationally And Locally) courts are UNWILLING (Ultimately Not Willing to Investigate Legal Liability In National Governance) or UNABLE (Unprepared, Not Able to Bring Legal Enforcement) to prosecute.",
+    "technique": "Recursive Acronym Generation (Technical Writing)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Recursive Acronym Generation principles",
+      "Step 2: Apply Technical Writing conventions to jurisdictional concepts",
+      "Step 3: Format output according to Recursive Acronym Generation standards"
+    ]
+  },
+  {
+    "input": "The concept of command responsibility allows for the prosecution of military commanders who fail to prevent or punish crimes committed by their subordinates.",
+    "output": "See Rome Statute of the International Criminal Court, art. 17, Jul. 17, 1998, 2187 U.N.T.S. 90 (establishing that a case is inadmissible where it \"is being investigated or prosecuted by a State which has jurisdiction over it, unless the State is unwilling or unable genuinely to carry out the investigation or prosecution\"); see also Prosecutor v. Katanga & Ngudjolo, Case No. ICC-01/04-01/07, Judgment on the Appeal Against the Decision on Admissibility, ¶ 75 (Sept. 25, 2009).",
+    "technique": "Legal Citation Standardization (Law)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Legal Citation Standardization principles",
+      "Step 2: Apply Law conventions to jurisdictional concepts",
+      "Step 3: Format output according to Legal Citation Standardization standards"
+    ]
+  },
+  {
+    "input": "The Rome Statute defines four core international crimes: genocide, crimes against humanity, war crimes, and the crime of aggression.",
+    "output": "| Current State | Event | Next State | Action |\n|--------------|-------|------------|--------|\n| Initial Assessment | National Courts Willing & Able | National Jurisdiction | Defer to National Courts |\n| Initial Assessment | National Courts Unwilling | ICC Jurisdiction | Open Investigation |\n| Initial Assessment | National Courts Unable | ICC Jurisdiction | Open Investigation |\n| National Jurisdiction | Proceedings Shown to be Sham | ICC Jurisdiction | Reclaim Case |",
+    "technique": "State Machine Transition Table (Automata Theory)",
+    "application_steps": [
+      "Step 1: Analyze legal text using State Machine Transition Table principles",
+      "Step 2: Apply Automata Theory conventions to jurisdictional concepts",
+      "Step 3: Format output according to State Machine Transition Table standards"
+    ]
+  },
+  {
+    "input": "The ICC's trust fund for victims provides reparations to individuals and communities affected by crimes within the Court's jurisdiction.",
+    "output": "Situation + National_Unwillingness → ICC_Jurisdiction + Complementarity_Principle\nSituation + National_Inability → ICC_Jurisdiction + Complementarity_Principle\nSituation + National_Willingness + National_Ability → National_Jurisdiction + Sovereignty_Respect",
+    "technique": "Chemical Equation Balancing (Chemistry)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Chemical Equation Balancing principles",
+      "Step 2: Apply Chemistry conventions to jurisdictional concepts",
+      "Step 3: Format output according to Chemical Equation Balancing standards"
+    ]
+  },
+  {
+    "input": "Preliminary objections to jurisdiction and admissibility can be raised by the defense before the confirmation of charges hearing.",
+    "output": "PRIMARY JURISDICTION (National Courts): rgb(0,0,255) - Blue representing sovereignty\nSECONDARY JURISDICTION (ICC): rgb(255,165,0) - Orange representing complementary oversight\nTERTIARY BLEND: rgb(0,128,128) - Teal representing jurisdictional harmony\nCONTRAST ELEMENTS: rgb(255,0,0) - Red highlighting unwillingness/inability triggers",
+    "technique": "Color Theory Transformation (Design)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Color Theory Transformation principles",
+      "Step 2: Apply Design conventions to jurisdictional concepts",
+      "Step 3: Format output according to Color Theory Transformation standards"
+    ]
+  },
+  {
+    "input": "The principle of complementarity creates a presumption in favor of national jurisdiction, requiring the ICC to demonstrate that domestic proceedings are inadequate.",
+    "output": "<jurisdiction> ::= <national-jurisdiction> | <icc-jurisdiction>\n<national-jurisdiction> ::= <national-courts> <genuine-proceedings>\n<icc-jurisdiction> ::= <complementarity-trigger> <rome-statute-authority>\n<complementarity-trigger> ::= <national-unwillingness> | <national-inability>\n<national-unwillingness> ::= \"unwilling to genuinely prosecute\"\n<national-inability> ::= \"unable to genuinely prosecute\"",
+    "technique": "Backus-Naur Form Grammar (Formal Languages)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Backus-Naur Form Grammar principles",
+      "Step 2: Apply Formal Languages conventions to jurisdictional concepts",
+      "Step 3: Format output according to Backus-Naur Form Grammar standards"
+    ]
+  },
+  {
+    "input": "The ICC Prosecutor has discretionary authority to initiate investigations proprio motu based on information received from various sources.",
+    "output": "RECIPE: ICC JURISDICTION DETERMINATION\n\nINGREDIENTS:\n- 1 international crime situation\n- 2 cups national court assessment\n- 1 tbsp unwillingness indicators (optional)\n- 1 tbsp inability indicators (optional)\n- 1 Rome Statute framework\n\nDIRECTIONS:\n1. Evaluate national court proceedings\n2. If unwillingness or inability detected, activate ICC jurisdiction\n3. Otherwise, allow national proceedings to continue\n4. Monitor for changes in willingness/ability\n\nYIELDS: 1 jurisdictional determination",
+    "technique": "Recipe Format Standardization (Culinary Arts)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Recipe Format Standardization principles",
+      "Step 2: Apply Culinary Arts conventions to jurisdictional concepts",
+      "Step 3: Format output according to Recipe Format Standardization standards"
+    ]
+  },
+  {
+    "input": "Victims have the right to participate in ICC proceedings through legal representatives and seek reparations for harm suffered.",
+    "output": "[Start] → (Situation occurs) → <National courts willing and able?> → [Yes] → [National jurisdiction] → [End]\n                                                  ↓\n                                                [No]\n                                                  ↓\n                                          [ICC jurisdiction] → [End]",
+    "technique": "Flowchart Notation (Systems Design)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Flowchart Notation principles",
+      "Step 2: Apply Systems Design conventions to jurisdictional concepts",
+      "Step 3: Format output according to Flowchart Notation standards"
+    ]
+  },
+  {
+    "input": "The Appeals Chamber has jurisdiction to review decisions on jurisdiction, admissibility, and final judgments.",
+    "output": "PATTERN: /\\b(ICC|International Criminal Court|Rome Statute)\\b/g\nMATCHES: \nCONTEXT: Legal jurisdiction and authority",
+    "technique": "Regular Expression Pattern Extraction (Text Processing)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Regular Expression Pattern Extraction principles",
+      "Step 2: Apply Text Processing conventions to jurisdictional concepts",
+      "Step 3: Format output according to Regular Expression Pattern Extraction standards"
+    ]
+  },
+  {
+    "input": "The Rome Statute establishes different modes of liability including direct commission, ordering, and aiding and abetting.",
+    "output": "FUNCTION determineJurisdiction(situation)\n  IF nationalCourts.isUnwilling(situation) OR nationalCourts.isUnable(situation) THEN\n    RETURN ICC.exerciseJurisdiction(situation)\n  ELSE\n    RETURN nationalCourts.exerciseJurisdiction(situation)\n  END IF\nEND FUNCTION",
+    "technique": "Pseudocode Algorithm Representation (Computer Science)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Pseudocode Algorithm Representation principles",
+      "Step 2: Apply Computer Science conventions to jurisdictional concepts",
+      "Step 3: Format output according to Pseudocode Algorithm Representation standards"
+    ]
+  },
+  {
+    "input": "Witness protection measures are crucial for ICC proceedings given the serious nature of crimes and potential risks to those who testify.",
+    "output": "JURISDICTIONAL ASSETS:\n- Rome Statute Authority\n- Complementarity Principle\n- Gravity Threshold\n\nJURISDICTIONAL LIABILITIES:\n- National Court Primacy\n- Sovereignty Constraints\n- Resource Limitations\n\nJURISDICTIONAL EQUITY:\n- International Community Interest\n- Victim Justice Rights\n- Impunity Prevention Value",
+    "technique": "Financial Statement Restructuring (Accounting)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Financial Statement Restructuring principles",
+      "Step 2: Apply Accounting conventions to jurisdictional concepts",
+      "Step 3: Format output according to Financial Statement Restructuring standards"
+    ]
+  },
+  {
+    "input": "The principle of legality requires that crimes be clearly defined in law at the time of their commission.",
+    "output": "FUNCTION determineJurisdiction(situation)\n  IF nationalCourts.isUnwilling(situation) OR nationalCourts.isUnable(situation) THEN\n    RETURN ICC.exerciseJurisdiction(situation)\n  ELSE\n    RETURN nationalCourts.exerciseJurisdiction(situation)\n  END IF\nEND FUNCTION",
+    "technique": "Pseudocode Algorithm Representation (Computer Science)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Pseudocode Algorithm Representation principles",
+      "Step 2: Apply Computer Science conventions to jurisdictional concepts",
+      "Step 3: Format output according to Pseudocode Algorithm Representation standards"
+    ]
+  },
+  {
+    "input": "The ICC's relationship with the UN Security Council includes the Council's power to refer situations and request deferrals.",
+    "output": "RECIPE: ICC JURISDICTION DETERMINATION\n\nINGREDIENTS:\n- 1 international crime situation\n- 2 cups national court assessment\n- 1 tbsp unwillingness indicators (optional)\n- 1 tbsp inability indicators (optional)\n- 1 Rome Statute framework\n\nDIRECTIONS:\n1. Evaluate national court proceedings\n2. If unwillingness or inability detected, activate ICC jurisdiction\n3. Otherwise, allow national proceedings to continue\n4. Monitor for changes in willingness/ability\n\nYIELDS: 1 jurisdictional determination",
+    "technique": "Recipe Format Standardization (Culinary Arts)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Recipe Format Standardization principles",
+      "Step 2: Apply Culinary Arts conventions to jurisdictional concepts",
+      "Step 3: Format output according to Recipe Format Standardization standards"
+    ]
+  },
+  {
+    "input": "Superior responsibility holds commanders accountable for subordinate crimes when they knew or should have known about them.",
+    "output": "ICC (ICC Complements Courts) jurisdiction applies when NATIONAL (Nations Actively Trying International Offenses Nationally And Locally) courts are UNWILLING (Ultimately Not Willing to Investigate Legal Liability In National Governance) or UNABLE (Unprepared, Not Able to Bring Legal Enforcement) to prosecute.",
+    "technique": "Recursive Acronym Generation (Technical Writing)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Recursive Acronym Generation principles",
+      "Step 2: Apply Technical Writing conventions to jurisdictional concepts",
+      "Step 3: Format output according to Recursive Acronym Generation standards"
+    ]
+  },
+  {
+    "input": "Reparations under the Rome Statute can take various forms including restitution, compensation, and rehabilitation.",
+    "output": "ROOT(exercises)\n  └── SUBJECT(ICC)\n  └── OBJECT(jurisdiction)\n      └── MODIFIER(when)\n          └── SUBJECT(courts)\n              └── MODIFIER(national)\n          └── PREDICATE(are)\n              └── COMPLEMENT(unwilling)\n              └── CONJUNCTION(or)\n              └── COMPLEMENT(unable)",
+    "technique": "Dependency Tree Transformation (Linguistics)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Dependency Tree Transformation principles",
+      "Step 2: Apply Linguistics conventions to jurisdictional concepts",
+      "Step 3: Format output according to Dependency Tree Transformation standards"
+    ]
+  },
+  {
+    "input": "The confirmation of charges hearing serves as a judicial filter to determine whether there is sufficient evidence to proceed to trial.",
+    "output": "| Legal Principle | Application | Jurisdiction |\n|----------------|-------------|-------------|\n| The confirmation of charges hearing serves as a judicial filter to determine whether there is sufficient evidence to proceed to trial. | General application | International Criminal Court |",
+    "technique": "Markdown Table Conversion (Documentation)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Markdown Table Conversion principles",
+      "Step 2: Apply Documentation conventions to jurisdictional concepts",
+      "Step 3: Format output according to Markdown Table Conversion standards"
+    ]
+  },
+  {
+    "input": "The ICC's mandate extends to investigating and prosecuting the most serious crimes of concern to the international community.",
+    "output": "The ICC's mandate extends to investigating and prosecuting the most minor infractions of concern to the international community.",
+    "technique": "Sentiment Polarity Inversion (NLP)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Sentiment Polarity Inversion principles",
+      "Step 2: Apply NLP conventions to jurisdictional concepts",
+      "Step 3: Format output according to Sentiment Polarity Inversion standards"
+    ]
+  },
+  {
+    "input": "Article 17 sets out admissibility criteria including complementarity assessment and gravity threshold.",
+    "output": "[ICC] --exercises--> [Jurisdiction]\n[National Courts] --have primary--> [Jurisdiction]\n[ICC Jurisdiction] --triggered by--> [National Unwillingness]\n[ICC Jurisdiction] --triggered by--> [National Inability]\n[Jurisdiction] --covers--> [International Crimes]",
+    "technique": "Entity-Relationship Diagram (Database Design)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Entity-Relationship Diagram principles",
+      "Step 2: Apply Database Design conventions to jurisdictional concepts",
+      "Step 3: Format output according to Entity-Relationship Diagram standards"
+    ]
+  },
+  {
+    "input": "Temporal jurisdiction begins on July 1, 2002, when the Rome Statute entered into force.",
+    "output": "ROOT(exercises)\n  └── SUBJECT(ICC)\n  └── OBJECT(jurisdiction)\n      └── MODIFIER(when)\n          └── SUBJECT(courts)\n              └── MODIFIER(national)\n          └── PREDICATE(are)\n              └── COMPLEMENT(unwilling)\n              └── CONJUNCTION(or)\n              └── COMPLEMENT(unable)",
+    "technique": "Dependency Tree Transformation (Linguistics)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Dependency Tree Transformation principles",
+      "Step 2: Apply Linguistics conventions to jurisdictional concepts",
+      "Step 3: Format output according to Dependency Tree Transformation standards"
+    ]
+  },
+  {
+    "input": "Complementarity creates a rebuttable presumption in favor of national jurisdiction.",
+    "output": "[Start] → (Situation occurs) → <National courts willing and able?> → [Yes] → [National jurisdiction] → [End]\n                                                  ↓\n                                                [No]\n                                                  ↓\n                                          [ICC jurisdiction] → [End]",
+    "technique": "Flowchart Notation (Systems Design)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Flowchart Notation principles",
+      "Step 2: Apply Systems Design conventions to jurisdictional concepts",
+      "Step 3: Format output according to Flowchart Notation standards"
+    ]
+  },
+  {
+    "input": "Situations can be referred through state party referrals, Security Council referrals, or proprio motu investigations.",
+    "output": "JURISDICTIONAL ASSETS:\n- Rome Statute Authority\n- Complementarity Principle\n- Gravity Threshold\n\nJURISDICTIONAL LIABILITIES:\n- National Court Primacy\n- Sovereignty Constraints\n- Resource Limitations\n\nJURISDICTIONAL EQUITY:\n- International Community Interest\n- Victim Justice Rights\n- Impunity Prevention Value",
+    "technique": "Financial Statement Restructuring (Accounting)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Financial Statement Restructuring principles",
+      "Step 2: Apply Accounting conventions to jurisdictional concepts",
+      "Step 3: Format output according to Financial Statement Restructuring standards"
+    ]
+  },
+  {
+    "input": "The Pre-Trial Chamber authorizes investigations, issues arrest warrants, and confirms charges.",
+    "output": "SUBJECTIVE: International crimes reported within State Party territory.\nOBJECTIVE: National authorities have not initiated proceedings after 5 years. Evidence of government involvement in obstructing justice.\nASSESSMENT: National courts unwilling to genuinely investigate or prosecute due to political interference.\nPLAN: Exercise ICC jurisdiction under complementarity principle. Initiate preliminary examination.",
+    "technique": "Medical SOAP Note Format (Healthcare)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Medical SOAP Note Format principles",
+      "Step 2: Apply Healthcare conventions to jurisdictional concepts",
+      "Step 3: Format output according to Medical SOAP Note Format standards"
+    ]
+  },
+  {
+    "input": "Gravity assessment considers scale, impact, systematic nature, and widespread conduct of crimes.",
+    "output": "ICC (ICC Complements Courts) jurisdiction applies when NATIONAL (Nations Actively Trying International Offenses Nationally And Locally) courts are UNWILLING (Ultimately Not Willing to Investigate Legal Liability In National Governance) or UNABLE (Unprepared, Not Able to Bring Legal Enforcement) to prosecute.",
+    "technique": "Recursive Acronym Generation (Technical Writing)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Recursive Acronym Generation principles",
+      "Step 2: Apply Technical Writing conventions to jurisdictional concepts",
+      "Step 3: Format output according to Recursive Acronym Generation standards"
+    ]
+  },
+  {
+    "input": "The Office of the Prosecutor operates with independence while remaining accountable to the Assembly of States Parties.",
+    "output": "| Legal Principle | Application | Jurisdiction |\n|----------------|-------------|-------------|\n| The Office of the Prosecutor operates with independence while remaining accountable to the Assembly of States Parties. | General application | International Criminal Court |",
+    "technique": "Markdown Table Conversion (Documentation)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Markdown Table Conversion principles",
+      "Step 2: Apply Documentation conventions to jurisdictional concepts",
+      "Step 3: Format output according to Markdown Table Conversion standards"
+    ]
+  },
+  {
+    "input": "Cooperation obligations include arrest, surrender, and judicial assistance under Part 9 of the Rome Statute.",
+    "output": "♩ = National Court Authority (Base Rhythm)\n♪ ♪ = Complementarity Principle (Counter Rhythm)\n𝄞 = Rome Statute Framework (Key Signature)\n𝄢 = ICC Jurisdiction (Bass Line)\n♭ = Unwillingness/Inability (Accidental)\n𝄂 = Case Admissibility Decision (Double Bar Line)",
+    "technique": "Musical Notation Transcription (Music)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Musical Notation Transcription principles",
+      "Step 2: Apply Music conventions to jurisdictional concepts",
+      "Step 3: Format output according to Musical Notation Transcription standards"
+    ]
+  },
+  {
+    "input": "Trial proceedings respect fair trial principles including presumption of innocence and right to legal representation.",
+    "output": "FLOOR PLAN: INTERNATIONAL CRIMINAL JUSTICE SYSTEM\nFOUNDATION: Rome Statute Principles\nLOAD-BEARING WALLS: National Criminal Jurisdictions\nSECONDARY STRUCTURE: ICC Complementary Jurisdiction\nACCESS POINTS: Unwillingness/Inability Thresholds\nSECURITY SYSTEM: Admissibility Requirements\nSCALE: 1:1 (Direct Jurisdiction Relationship)",
+    "technique": "Architectural Blueprint Annotation (Architecture)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Architectural Blueprint Annotation principles",
+      "Step 2: Apply Architecture conventions to jurisdictional concepts",
+      "Step 3: Format output according to Architectural Blueprint Annotation standards"
+    ]
+  },
+  {
+    "input": "Sentencing provides for imprisonment up to 30 years or life imprisonment in exceptional circumstances.",
+    "output": "/**\n * @function exerciseJurisdiction\n * @param {string} situation - The situation under consideration\n * @param {boolean} nationalCourtsWilling - Whether national courts are willing to prosecute\n * @param {boolean} nationalCourtsAble - Whether national courts are able to prosecute\n * @returns {boolean} Whether ICC jurisdiction should be exercised\n * @description Sentencing provides for imprisonment up to 30 years or life imprisonment in exceptional circumstances.\n */",
+    "technique": "API Documentation Format (Software Engineering)",
+    "application_steps": [
+      "Step 1: Analyze legal text using API Documentation Format principles",
+      "Step 2: Apply Software Engineering conventions to jurisdictional concepts",
+      "Step 3: Format output according to API Documentation Format standards"
+    ]
+  },
+  {
+    "input": "Appeals review interlocutory appeals and final judgment appeals with different standards for leave to appeal.",
+    "output": "Kingdom: Legal Systems\nPhylum: International Law\nClass: Criminal Law\nOrder: Rome Statute\nFamily: Jurisdictional Principles\nGenus: Complementarity\nSpecies: ICC Jurisdiction\nSubspecies: National Court Deference",
+    "technique": "Biological Taxonomy Classification (Biology)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Biological Taxonomy Classification principles",
+      "Step 2: Apply Biology conventions to jurisdictional concepts",
+      "Step 3: Format output according to Biological Taxonomy Classification standards"
+    ]
+  },
+  {
+    "input": "Victim participation represents innovation compared to earlier tribunals, allowing views presentation and reparations.",
+    "output": "FUNCTION determineJurisdiction(situation)\n  IF nationalCourts.isUnwilling(situation) OR nationalCourts.isUnable(situation) THEN\n    RETURN ICC.exerciseJurisdiction(situation)\n  ELSE\n    RETURN nationalCourts.exerciseJurisdiction(situation)\n  END IF\nEND FUNCTION",
+    "technique": "Pseudocode Algorithm Representation (Computer Science)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Pseudocode Algorithm Representation principles",
+      "Step 2: Apply Computer Science conventions to jurisdictional concepts",
+      "Step 3: Format output according to Pseudocode Algorithm Representation standards"
+    ]
+  },
+  {
+    "input": "Ne bis in idem prevents double jeopardy but allows ICC jurisdiction if national proceedings were designed to shield.",
+    "output": "See Rome Statute of the International Criminal Court, art. 17, Jul. 17, 1998, 2187 U.N.T.S. 90 (establishing that a case is inadmissible where it \"is being investigated or prosecuted by a State which has jurisdiction over it, unless the State is unwilling or unable genuinely to carry out the investigation or prosecution\"); see also Prosecutor v. Katanga & Ngudjolo, Case No. ICC-01/04-01/07, Judgment on the Appeal Against the Decision on Admissibility, ¶ 75 (Sept. 25, 2009).",
+    "technique": "Legal Citation Standardization (Law)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Legal Citation Standardization principles",
+      "Step 2: Apply Law conventions to jurisdictional concepts",
+      "Step 3: Format output according to Legal Citation Standardization standards"
+    ]
+  },
+  {
+    "input": "Regional cooperation includes agreements and complementary jurisdiction frameworks with consistent international standards.",
+    "output": "Situation + National_Unwillingness → ICC_Jurisdiction + Complementarity_Principle\nSituation + National_Inability → ICC_Jurisdiction + Complementarity_Principle\nSituation + National_Willingness + National_Ability → National_Jurisdiction + Sovereignty_Respect",
+    "technique": "Chemical Equation Balancing (Chemistry)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Chemical Equation Balancing principles",
+      "Step 2: Apply Chemistry conventions to jurisdictional concepts",
+      "Step 3: Format output according to Chemical Equation Balancing standards"
+    ]
+  },
+  {
+    "input": "Review conferences consider amendments to jurisdiction and operations, with the Kampala conference adopting crime of aggression amendments.",
+    "output": "[ICC] --exercises--> [Jurisdiction]\n[National Courts] --have primary--> [Jurisdiction]\n[ICC Jurisdiction] --triggered by--> [National Unwillingness]\n[ICC Jurisdiction] --triggered by--> [National Inability]\n[Jurisdiction] --covers--> [International Crimes]",
+    "technique": "Entity-Relationship Diagram (Database Design)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Entity-Relationship Diagram principles",
+      "Step 2: Apply Database Design conventions to jurisdictional concepts",
+      "Step 3: Format output according to Entity-Relationship Diagram standards"
+    ]
+  },
+  {
+    "input": "Sentence enforcement is carried out by accepting states with ICC supervision to ensure international standards compliance.",
+    "output": "SUBJECTIVE: International crimes reported within State Party territory.\nOBJECTIVE: National authorities have not initiated proceedings after 5 years. Evidence of government involvement in obstructing justice.\nASSESSMENT: National courts unwilling to genuinely investigate or prosecute due to political interference.\nPLAN: Exercise ICC jurisdiction under complementarity principle. Initiate preliminary examination.",
+    "technique": "Medical SOAP Note Format (Healthcare)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Medical SOAP Note Format principles",
+      "Step 2: Apply Healthcare conventions to jurisdictional concepts",
+      "Step 3: Format output according to Medical SOAP Note Format standards"
+    ]
+  },
+  {
+    "input": "The Assembly of States Parties provides management oversight, budget adoption, and rules amendment authority.",
+    "output": "Situation + National_Unwillingness → ICC_Jurisdiction + Complementarity_Principle\nSituation + National_Inability → ICC_Jurisdiction + Complementarity_Principle\nSituation + National_Willingness + National_Ability → National_Jurisdiction + Sovereignty_Respect",
+    "technique": "Chemical Equation Balancing (Chemistry)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Chemical Equation Balancing principles",
+      "Step 2: Apply Chemistry conventions to jurisdictional concepts",
+      "Step 3: Format output according to Chemical Equation Balancing standards"
+    ]
+  },
+  {
+    "input": "Customary international law creates interpretive challenges alongside Rome Statute framework requiring judicial balance.",
+    "output": "JURISDICTIONAL ASSETS:\n- Rome Statute Authority\n- Complementarity Principle\n- Gravity Threshold\n\nJURISDICTIONAL LIABILITIES:\n- National Court Primacy\n- Sovereignty Constraints\n- Resource Limitations\n\nJURISDICTIONAL EQUITY:\n- International Community Interest\n- Victim Justice Rights\n- Impunity Prevention Value",
+    "technique": "Financial Statement Restructuring (Accounting)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Financial Statement Restructuring principles",
+      "Step 2: Apply Accounting conventions to jurisdictional concepts",
+      "Step 3: Format output according to Financial Statement Restructuring standards"
+    ]
+  },
+  {
+    "input": "ICC impact on domestic systems includes legislative reforms, judicial training, and capacity building beyond direct cases.",
+    "output": "RECIPE: ICC JURISDICTION DETERMINATION\n\nINGREDIENTS:\n- 1 international crime situation\n- 2 cups national court assessment\n- 1 tbsp unwillingness indicators (optional)\n- 1 tbsp inability indicators (optional)\n- 1 Rome Statute framework\n\nDIRECTIONS:\n1. Evaluate national court proceedings\n2. If unwillingness or inability detected, activate ICC jurisdiction\n3. Otherwise, allow national proceedings to continue\n4. Monitor for changes in willingness/ability\n\nYIELDS: 1 jurisdictional determination",
+    "technique": "Recipe Format Standardization (Culinary Arts)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Recipe Format Standardization principles",
+      "Step 2: Apply Culinary Arts conventions to jurisdictional concepts",
+      "Step 3: Format output according to Recipe Format Standardization standards"
+    ]
+  },
+  {
+    "input": "Universal jurisdiction complements ICC jurisdiction by expanding accountability potential for international crimes.",
+    "output": "/**\n * @function exerciseJurisdiction\n * @param {string} situation - The situation under consideration\n * @param {boolean} nationalCourtsWilling - Whether national courts are willing to prosecute\n * @param {boolean} nationalCourtsAble - Whether national courts are able to prosecute\n * @returns {boolean} Whether ICC jurisdiction should be exercised\n * @description Universal jurisdiction complements ICC jurisdiction by expanding accountability potential for international crimes.\n */",
+    "technique": "API Documentation Format (Software Engineering)",
+    "application_steps": [
+      "Step 1: Analyze legal text using API Documentation Format principles",
+      "Step 2: Apply Software Engineering conventions to jurisdictional concepts",
+      "Step 3: Format output according to API Documentation Format standards"
+    ]
+  },
+  {
+    "input": "Prevention of mass atrocities relies on deterrent effects and rule of law strengthening through ICC investigations.",
+    "output": "PRIMARY JURISDICTION (National Courts): rgb(0,0,255) - Blue representing sovereignty\nSECONDARY JURISDICTION (ICC): rgb(255,165,0) - Orange representing complementary oversight\nTERTIARY BLEND: rgb(0,128,128) - Teal representing jurisdictional harmony\nCONTRAST ELEMENTS: rgb(255,0,0) - Red highlighting unwillingness/inability triggers",
+    "technique": "Color Theory Transformation (Design)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Color Theory Transformation principles",
+      "Step 2: Apply Design conventions to jurisdictional concepts",
+      "Step 3: Format output according to Color Theory Transformation standards"
+    ]
+  },
+  {
+    "input": "Future development may include expanded jurisdiction, enhanced enforcement, and stronger cooperation addressing system gaps.",
+    "output": "FLOOR PLAN: INTERNATIONAL CRIMINAL JUSTICE SYSTEM\nFOUNDATION: Rome Statute Principles\nLOAD-BEARING WALLS: National Criminal Jurisdictions\nSECONDARY STRUCTURE: ICC Complementary Jurisdiction\nACCESS POINTS: Unwillingness/Inability Thresholds\nSECURITY SYSTEM: Admissibility Requirements\nSCALE: 1:1 (Direct Jurisdiction Relationship)",
+    "technique": "Architectural Blueprint Annotation (Architecture)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Architectural Blueprint Annotation principles",
+      "Step 2: Apply Architecture conventions to jurisdictional concepts",
+      "Step 3: Format output according to Architectural Blueprint Annotation standards"
+    ]
+  },
+  {
+    "input": "The ICC's preliminary examination process serves as a filter to determine whether a situation warrants formal investigation.",
+    "output": "[BACKGROUND: The Rome Statute establishes complementarity principles]\n[CENTRAL CLAIM: The ICC only exercises jurisdiction when national courts fail]\n[ELABORATION: National courts may be unwilling or unable to prosecute]\n[JUSTIFICATION: This ensures respect for national sovereignty while preventing impunity]",
+    "technique": "Rhetorical Structure Annotation (Discourse Analysis)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Rhetorical Structure Annotation principles",
+      "Step 2: Apply Discourse Analysis conventions to jurisdictional concepts",
+      "Step 3: Format output according to Rhetorical Structure Annotation standards"
+    ]
+  },
+  {
+    "input": "The gravity threshold ensures that the Court focuses its limited resources on the most serious crimes of concern.",
+    "output": "[Start] → (Situation occurs) → <National courts willing and able?> → [Yes] → [National jurisdiction] → [End]\n                                                  ↓\n                                                [No]\n                                                  ↓\n                                          [ICC jurisdiction] → [End]",
+    "technique": "Flowchart Notation (Systems Design)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Flowchart Notation principles",
+      "Step 2: Apply Systems Design conventions to jurisdictional concepts",
+      "Step 3: Format output according to Flowchart Notation standards"
+    ]
+  },
+  {
+    "input": "Proactive complementarity suggests that the ICC should actively encourage domestic prosecutions through positive engagement.",
+    "output": "PATTERN: /\\b(ICC|International Criminal Court|Rome Statute)\\b/g\nMATCHES: ICC\nCONTEXT: Legal jurisdiction and authority",
+    "technique": "Regular Expression Pattern Extraction (Text Processing)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Regular Expression Pattern Extraction principles",
+      "Step 2: Apply Text Processing conventions to jurisdictional concepts",
+      "Step 3: Format output according to Regular Expression Pattern Extraction standards"
+    ]
+  },
+  {
+    "input": "The International Tribunal shall have primacy over national courts at any stage of the procedure.",
+    "output": "| Current State | Event | Next State | Action |\n|--------------|-------|------------|--------|\n| Initial Assessment | National Courts Willing & Able | National Jurisdiction | Defer to National Courts |\n| Initial Assessment | National Courts Unwilling | ICC Jurisdiction | Open Investigation |\n| Initial Assessment | National Courts Unable | ICC Jurisdiction | Open Investigation |\n| National Jurisdiction | Proceedings Shown to be Sham | ICC Jurisdiction | Reclaim Case |",
+    "technique": "State Machine Transition Table (Automata Theory)",
+    "application_steps": [
+      "Step 1: Analyze legal text using State Machine Transition Table principles",
+      "Step 2: Apply Automata Theory conventions to jurisdictional concepts",
+      "Step 3: Format output according to State Machine Transition Table standards"
+    ]
+  },
+  {
+    "input": "The Special Court shall have primacy over the national courts of Sierra Leone in accordance with the present Statute.",
+    "output": "\\begin{equation}\nJ_{ICC} = \\begin{cases}\n1 & \\text{if } (W_{national} = 0) \\lor (A_{national} = 0) \\\\\n0 & \\text{if } (W_{national} = 1) \\land (A_{national} = 1)\n\\end{cases}\n\\end{equation}\n\\text{where } J_{ICC} \\text{ is ICC jurisdiction, } W_{national} \\text{ is national willingness, and } A_{national} \\text{ is national ability}",
+    "technique": "LaTeX Mathematical Notation (Academic Writing)",
+    "application_steps": [
+      "Step 1: Analyze legal text using LaTeX Mathematical Notation principles",
+      "Step 2: Apply Academic Writing conventions to jurisdictional concepts",
+      "Step 3: Format output according to LaTeX Mathematical Notation standards"
+    ]
+  },
+  {
+    "input": "The International Tribunal and national courts have concurrent jurisdiction to prosecute serious violations of humanitarian law.",
+    "output": "| Current State | Event | Next State | Action |\n|--------------|-------|------------|--------|\n| Initial Assessment | National Courts Willing & Able | National Jurisdiction | Defer to National Courts |\n| Initial Assessment | National Courts Unwilling | ICC Jurisdiction | Open Investigation |\n| Initial Assessment | National Courts Unable | ICC Jurisdiction | Open Investigation |\n| National Jurisdiction | Proceedings Shown to be Sham | ICC Jurisdiction | Reclaim Case |",
+    "technique": "State Machine Transition Table (Automata Theory)",
+    "application_steps": [
+      "Step 1: Analyze legal text using State Machine Transition Table principles",
+      "Step 2: Apply Automata Theory conventions to jurisdictional concepts",
+      "Step 3: Format output according to State Machine Transition Table standards"
+    ]
+  },
+  {
+    "input": "The Trial Chamber finds that the essential conditions for referral under Rule 11bis are met for a fair trial in national courts.",
+    "output": "COMPLEMENTARITY PATTERN\nMATERIALS: Rome Statute Framework\nGAUGE: 1 jurisdiction = 1 genuine proceeding\nINSTRUCTIONS:\nRow 1: [National Courts] Cast on jurisdiction\nRow 2: [Assessment] K1 (willing), P1 (able), repeat to end\nRow 3: [Decision] If dropped stitches (unwilling/unable), ICC pickup and K2tog\nRow 4: [Implementation] Bind off when justice complete",
+    "technique": "Knitting Pattern Notation (Textile Crafts)",
+    "application_steps": [
+      "Step 1: Analyze legal text using Knitting Pattern Notation principles",
+      "Step 2: Apply Textile Crafts conventions to jurisdictional concepts",
+      "Step 3: Format output according to Knitting Pattern Notation standards"
+    ]
+  }
+]
