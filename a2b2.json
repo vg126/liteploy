@@ -1,5 +1,3 @@
-A2B2
-
 [
   {
     "input": "As a consequence of complementarity, the number of cases that reach the Court should not be a measure of its efficiency. On the contrary, the absence of trials before this Court, resulting from the regular functioning of national institutions, would be a major success.",
@@ -200,9 +198,7 @@ A2B2
       "Step 2: Create short, strategic purpose tags for each part: `Define:Ultima_Ratio`, `Condition:FAIL(National_Jurisdiction)`, and `Reason:Unwilling/Unable`.",
       "Step 3: Link these tags to concise summaries of each part of the statement, encoding the strategic intent and logical structure."
     ]
-  }
-]
-[
+  },
   {
     "input": "“Assessment of national proceedings should review compliance with due-process principles, examine whether decisions shield the person from responsibility, and document unjustified delays.”",
     "output": "The unification `assessment(national_proceedings)` is defined as the successful evaluation of three sub-routines: `review(due_process)`, `examine(shielding_intent)`, AND `document(unjustified_delays)`.",
@@ -1086,8 +1082,7 @@ A2B2
       "Step 2: Separated demonstration of steps and case definition.",
       "Step 3: Simplified wording to focus on core actions."
     ]
-  }
-[
+  },
   {
     "input": "“The Chamber rejects Libya’s request for postponement and orders the State to surrender the suspect without delay. Article 94 cannot be invoked against a pending surrender request under article 89.”",
     "output": "<COMPRESS:0.6> <LEXICAL:SIMPLE> The Chamber denies Libya's delay request and orders the State to surrender the suspect now. Article 94 does not apply to a surrender request under article 89.",

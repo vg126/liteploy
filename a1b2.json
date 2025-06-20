@@ -711,10 +711,8 @@
       "Step 2: Define each stage: the trigger, the analysis, the condition check, the path for a negative outcome, and the final action.",
       "Step 3: The final output is a rephrased sentence that describes the entire logical flow of the pipeline from start to finish."
     ]
-  }
-] Inputs 401-428 covered.
-```json
-[
+  },
+
   {
     "input": "The Prosecution submits that Libya has not demonstrated that it is investigating the same case as that before the Court. The evidence presented by Libya does not establish that its national investigation covers the same conduct that forms the basis of the case before the Court, namely Saif Al-Islam Gaddafi's individual criminal responsibility for the crimes against humanity of murder and persecution. Moreover, Libya has not demonstrated that it is able genuinely to carry out the investigation or prosecution.",
     "output": "The Prosecution submits Libya has not demonstrated it is investigating the same case. The evidence does not establish its investigation covers the same conduct, namely Saif Al-Islam Gaddafi's criminal responsibility for murder and persecution. Moreover, Libya has not shown it can genuinely prosecute.",
@@ -1008,9 +1006,7 @@
       "Step 2: Identify the verbs 'requires', 'lack', 'focus', and 'enable'.",
       "Step 3: Apply the regular past-tense rule ('add -ed') universally, transforming them into 'required', 'lacked', 'focused', and 'enabled' to mimic a consistent but sometimes incorrect grammatical rule application."
     ]
-  }
-]
-``` [
+  },
   {
     "input": "The Chamber rejects Libya’s request for postponement and orders the State to surrender the suspect without delay. Article 94 cannot be invoked against a pending surrender request under article 89.",
     "output": "The Chamber rejects Libya’s postponement request and orders the State to surrender the suspect without delay. Article 94 cannot be invoked against a pending surrender request under article 89.",
