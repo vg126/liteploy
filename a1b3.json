@@ -1082,4 +1082,735 @@
       "Step 3: Preserved semantic meaning while avoiding name collisions."
     ]
   }
+,
+  {
+    "input": "A State that becomes a Party to this Statute thereby accepts the jurisdiction of the Court with respect to the crimes referred to in Article 5. This provision establishes automatic jurisdiction for States Parties over the core crimes. It forms the basis of the Court's personal jurisdiction.",
+    "output": "SELECT StateParty\n  FROM RomeStatute\n WHERE accepts_jurisdiction = TRUE\n   AND crimes IN (Article5);\n-- automatic jurisdiction for core crimes",
+    "technique": "SQL-Style Query (Structured Query Transformation)",
+    "application_steps": [
+      "Step 1: Identified the subject (StateParty) as a table entity.",
+      "Step 2: Mapped acceptance of jurisdiction and core crimes to WHERE clauses.",
+      "Step 3: Formatted as a SELECT statement with commentary."
+    ]
+  },
+  {
+    "input": "The Court may exercise jurisdiction if the State on the territory of which the conduct in question occurred is a Party to the Statute or has accepted jurisdiction. If the crime was committed on board a vessel or aircraft, the State of registration must be a Party or have accepted jurisdiction. This is based on the principle of territorial jurisdiction.",
+    "output": "territorial_jurisdiction:\n  territory_party: true OR accepted_jurisdiction: true\n  vessel_registration:\n    party: true OR accepted_jurisdiction: true",
+    "technique": "YAML Mapping (Structured Serialization)",
+    "application_steps": [
+      "Step 1: Broke down the two jurisdiction conditions into separate keys.",
+      "Step 2: Represented logical OR conditions as YAML boolean expressions.",
+      "Step 3: Nested vessel registration under a separate mapping."
+    ]
+  },
+  {
+    "input": "The Court may exercise jurisdiction if the State of which the person accused of the crime is a national is a Party to the Statute or has accepted jurisdiction. This provision allows for the exercise of jurisdiction based on the active nationality principle. It complements territorial jurisdiction.",
+    "output": {
+      "type": "object",
+      "properties": {
+        "nationality_jurisdiction": {
+          "type": "boolean",
+          "description": "true if StateParty OR acceptedJurisdiction"
+        }
+      },
+      "required": [
+        "nationality_jurisdiction"
+      ]
+    },
+    "technique": "JSON Schema (Data Structure Transformation)",
+    "application_steps": [
+      "Step 1: Defined an object with a single property for nationality-based jurisdiction.",
+      "Step 2: Specified the property type and description.",
+      "Step 3: Marked the property as required."
+    ]
+  },
+  {
+    "input": "The Court may exercise its jurisdiction if a situation in which one or more crimes appear to have been committed is referred to the Prosecutor by a State Party. This mechanism allows States to self-refer situations within their territory or involving their nationals. It is a key pathway for initiating investigations.",
+    "output": "```mermaid\nflowchart LR\n  A[State Party referral] --> B{Situation with crimes?}\n  B -- yes --> C[Prosecutor investigation initiated]\n  B -- no --> D[No ICC jurisdiction]\n```",
+    "technique": "Flowchart Diagram (Visual Structuring)",
+    "application_steps": [
+      "Step 1: Identified nodes for referral, condition, initiation, and no-action.",
+      "Step 2: Connected nodes with directed arrows and conditional branches.",
+      "Step 3: Encapsulated in mermaid syntax."
+    ]
+  },
+  {
+    "input": "The Court may exercise its jurisdiction if the referral is made by the Security Council acting under Chapter VII of the Charter of the United Nations. This provides a powerful avenue for jurisdiction, even over non-States Parties.",
+    "output": "The Security Council refers under Chapter VII ⇒ ICC jurisdiction applies",
+    "technique": "Active Voice Conversion (Voice Transformation)",
+    "application_steps": [
+      "Step 1: Converted passive phrase to active cause-and-effect sentence.",
+      "Step 2: Replaced narrative connectors with a symbolic arrow.",
+      "Step 3: Preserved key entities and citation details."
+    ]
+  },
+  {
+    "input": "The Court may exercise its jurisdiction if the Prosecutor has initiated an investigation in respect of such a crime. This refers to the Prosecutor's proprio motu power, exercised in accordance with Article 15. This independent prosecutorial power is crucial for the Court's effectiveness.",
+    "output": "jurisdiction = (prosecutorInitiated ? TRUE : FALSE)",
+    "technique": "Boolean Expression (Symbolic Representation)",
+    "application_steps": [
+      "Step 1: Identified the condition (prosecutorInitiated).",
+      "Step 2: Represented it as a ternary Boolean assignment.",
+      "Step 3: Named the variable to reflect jurisdiction outcome."
+    ]
+  },
+  {
+    "input": "In deciding whether to initiate an investigation, the Prosecutor shall consider if there are substantial reasons to believe an investigation would not serve the interests of justice. This consideration takes into account the gravity of the crime and the interests of victims. This grants the Prosecutor significant discretion.",
+    "output": "Would initiating an investigation serve the interests of justice, considering crime gravity and victim interests?",
+    "technique": "Question Reformulation (Interrogative Transformation)",
+    "application_steps": [
+      "Step 1: Converted declarative policy into a direct question.",
+      "Step 2: Highlighted key evaluation criteria as question clauses.",
+      "Step 3: Ensured readability by ordering criteria logically."
+    ]
+  },
+  {
+    "input": "States Parties shall, in accordance with the provisions of this Statute, cooperate fully with the Court. This cooperation extends to the Court's investigation and prosecution of crimes within its jurisdiction. This article establishes the fundamental obligation of State Parties to assist the ICC.",
+    "output": "| Abbreviation | Definition    |\n|--------------|---------------|\n| ICC          | International Criminal Court |\n| State Party  | Country that ratified the Statute |\n| Cooperation  | Full assistance in investigations/prosecutions |",
+    "technique": "Abbreviation Table (Tabular Formatting)",
+    "application_steps": [
+      "Step 1: Identified key terms to abbreviate.",
+      "Step 2: Constructed a Markdown table with headers.",
+      "Step 3: Populated definitions concisely."
+    ]
+  },
+  {
+    "input": "The Court can request the arrest and surrender of a person to any State where that person may be found. States Parties are obligated to comply with these requests in accordance with the Statute and their national law. This is a critical aspect of international cooperation.",
+    "output": "[REDACTED] can request [REDACTED] to any [REDACTED]. [REDACTED] must comply under national law.",
+    "technique": "Named Entity Masking (Anonymization)",
+    "application_steps": [
+      "Step 1: Replaced all proper nouns and institutional references with [REDACTED].",
+      "Step 2: Maintained sentence structure and modality.",
+      "Step 3: Preserved legal obligation tone."
+    ]
+  },
+  {
+    "input": "If a person sought for surrender challenges the request based on ne bis in idem (Article 20), the requested State must consult the Court. The purpose is to determine if a relevant admissibility ruling has been made by the ICC. This ensures coordination on double jeopardy claims during surrender.",
+    "output": "- Challenge request under ne bis in idem\n- State consults ICC\n- Verify admissibility ruling exists\n- Proceed or defer surrender",
+    "technique": "Imperative Bullet List (Directive Transformation)",
+    "application_steps": [
+      "Step 1: Extracted each procedural step as an imperative command.",
+      "Step 2: Formatted as a Markdown bullet list.",
+      "Step 3: Omitted explanatory clauses for brevity."
+    ]
+  },
+  {
+    "input": "States Parties shall assist the Court in the location, freezing and seizure of proceeds, property and assets.",
+    "output": "λStateParties.assist = λcourt.{ locate(); freeze(); seize(); }",
+    "technique": "Beta-reduction (Lambda Calculus)",
+    "application_steps": [
+      "Step 1: Identified the assistance actions (locate, freeze, seize) as a function body.",
+      "Step 2: Abstracted ‘States Parties’ and ‘Court’ into lambda parameters.",
+      "Step 3: Reduced the sequence of actions into a single lambda expression."
+    ]
+  },
+  {
+    "input": "The Registrar shall be the principal administrative officer of the Court.",
+    "output": "(λRegistrar. serveAs(‘principalAdministrativeOfficer’, Court))",
+    "technique": "Eta-conversion (Lambda Calculus)",
+    "application_steps": [
+      "Step 1: Encapsulated the role assignment as a lambda abstraction over Registrar.",
+      "Step 2: Removed redundant parameter passing since the Registrar is used directly.",
+      "Step 3: Simplified to a single function invocation indicating service role."
+    ]
+  },
+  {
+    "input": "Decisions by the Assembly of States Parties shall be taken by a two-thirds majority of States present and voting.",
+    "output": "αAssembly.(takeDecision) → if (votes ≥ (2/3) * presentStates)",
+    "technique": "Alpha-conversion (Lambda Calculus)",
+    "application_steps": [
+      "Step 1: Renamed the abstract function to ‘takeDecision’ for clarity.",
+      "Step 2: Expressed the voting rule as a comparative expression.",
+      "Step 3: Applied alpha-conversion to avoid name collisions in the lambda."
+    ]
+  },
+  {
+    "input": "The Court may invite observers to its proceedings if it deems their presence conducive to the interests of justice.",
+    "output": "```plantuml\n@startuml\nclass Court {\n  +invite(observer)\n}\nCourt --> Observer : if conduciveToJustice\n@enduml\n```",
+    "technique": "UML Class Diagram (PlantUML)",
+    "application_steps": [
+      "Step 1: Defined Court and Observer classes with an invitation method.",
+      "Step 2: Illustrated the conditional association using an arrow with a guard.",
+      "Step 3: Wrapped in PlantUML syntax for diagram rendering."
+    ]
+  },
+  {
+    "input": "Witness testimony may be given orally or in writing, subject to the Chamber's discretion.",
+    "output": "```mermaid\nsequenceDiagram\n  Witness->>Chamber: requestTestimony(mode)\n  alt mode == oral\n    Chamber-->Witness: giveOralTestimony()\n  else mode == written\n    Chamber-->Witness: submitWrittenStatement()\n  end\n```",
+    "technique": "Sequence Diagram (Mermaid)",
+    "application_steps": [
+      "Step 1: Modeled the interaction between Witness and Chamber as a sequence.",
+      "Step 2: Created conditional branches for oral vs. written testimony.",
+      "Step 3: Expressed method calls to represent each testimony type."
+    ]
+  },
+  {
+    "input": "Protective measures may include but are not limited to anonymity, voice and face distortion.",
+    "output": "**Judge:** We need protection.\n**Clerk:** Anonymity?\n**Judge:** Yes.\n**Clerk:** Voice distortion?\n**Judge:** And face distortion.\n",
+    "technique": "Dialogue Script (Dramatic Transformation)",
+    "application_steps": [
+      "Step 1: Converted the list of measures into a conversational exchange.",
+      "Step 2: Assigned speaking roles to highlight each measure decision.",
+      "Step 3: Preserved scope (‘may include but not limited to’) implicitly through continued dialogue."
+    ]
+  },
+  {
+    "input": "Evidence obtained by means of a violation of this Statute or internationally recognized human rights shall not be admissible if the violation casts substantial doubt on reliability.",
+    "output": "Admissibility denied when reliability is in question due to rights violation. #ICCRule",
+    "technique": "Tweet-Length Summary (Microblog Transformation)",
+    "application_steps": [
+      "Step 1: Condensed the rule to its core condition and outcome.",
+      "Step 2: Removed legal jargon in favor of plain language.",
+      "Step 3: Appended a hashtag to emulate social media style."
+    ]
+  },
+  {
+    "input": "Victims' applications for reparations shall be submitted in a form prescribed by the Court.",
+    "output": "1. Obtain Court’s prescribed form  \n2. Complete all fields  \n3. Submit form to Registry",
+    "technique": "Instruction Manual Steps (Procedural Formatting)",
+    "application_steps": [
+      "Step 1: Broke down the requirement into sequential numbered steps.",
+      "Step 2: Used concise imperatives for clarity.",
+      "Step 3: Indicated submission destination explicitly."
+    ]
+  },
+  {
+    "input": "The Chief Prosecutor serves for a term of nine years and may not be re-elected.",
+    "output": "{\"office\":\"ChiefProsecutor\",\"termYears\":9,\"reElectable\":false}",
+    "technique": "JSON Lines (Single-Line JSON)",
+    "application_steps": [
+      "Step 1: Mapped each fact (office, termYears, reElectable) to JSON fields.",
+      "Step 2: Produced a compact single-line JSON object.",
+      "Step 3: Ensured boolean field reflects non-re-election rule."
+    ]
+  },
+  {
+    "input": "The Registrar shall ensure the complementarity principle is respected in all administrative acts.",
+    "output": "SELECT *\n  FROM AdministrativeActs\n WHERE complementarity_respected = TRUE;",
+    "technique": "SQL-Style Query (Structured Query Transformation)",
+    "application_steps": [
+      "Step 1: Identified ‘administrative acts’ as the target table.",
+      "Step 2: Translated the principle check into a WHERE clause.",
+      "Step 3: Formatted as a SELECT statement for audit purposes."
+    ]
+  },
+  {
+    "input": "State cooperation shall include the execution of requests for arrest and surrender.",
+    "output": "cooperation:\n  arrest_request: execute\n  surrender_request: execute",
+    "technique": "YAML Mapping (Structured Serialization)",
+    "application_steps": [
+      "Step 1: Extracted the two cooperation types as keys.",
+      "Step 2: Assigned ‘execute’ as the value for each key.",
+      "Step 3: Structured in YAML for configuration-style clarity."
+    ]
+  },
+  {
+    "input": "Sessions of the Court shall be open to the public unless the Chamber decides otherwise.",
+    "output": {
+      "type": "object",
+      "properties": {
+        "sessionAccess": {
+          "type": "string",
+          "enum": [
+            "public",
+            "closed"
+          ]
+        },
+        "overrideCondition": {
+          "type": "string",
+          "description": "Chamber decision"
+        }
+      },
+      "required": [
+        "sessionAccess"
+      ]
+    },
+    "technique": "JSON Schema (Data Structure Transformation)",
+    "application_steps": [
+      "Step 1: Defined a property for sessionAccess with allowed values.",
+      "Step 2: Added overrideCondition to capture the exception.",
+      "Step 3: Marked sessionAccess as required."
+    ]
+  },
+  {
+    "input": "The Court shall establish its budget in consultation with the Assembly of States Parties.",
+    "output": "```mermaid\nflowchart LR\n  Court --> Assembly : consultBudget\n  Assembly --> Court : approveBudget\n```",
+    "technique": "Flowchart Diagram (Mermaid)",
+    "application_steps": [
+      "Step 1: Modeled bidirectional consultation between Court and Assembly.",
+      "Step 2: Used method-like labels for each arrow.",
+      "Step 3: Wrapped in mermaid syntax for automatic rendering."
+    ]
+  },
+  {
+    "input": "Any amendment to the Statute requires ratification by seven-eighths of the States Parties.",
+    "output": "digraph {\n  Statute -> Amendment;\n  Amendment -> StatesParties [label=\"ratify (>=7/8)\"];\n}",
+    "technique": "DOT Graph (Graphviz)",
+    "application_steps": [
+      "Step 1: Defined nodes for Statute, Amendment, and StatesParties.",
+      "Step 2: Annotated the edge with the ratification threshold.",
+      "Step 3: Used DOT syntax for graph generation."
+    ]
+  },
+  {
+    "input": "The Court may amend its Rules of Procedure and Evidence by a majority of the judges.",
+    "output": "```python\ndef can_amend(rules, judges):\n    return judges.for_votes > judges.total/2\n```",
+    "technique": "Function Snippet (Programming-Style Transformation)",
+    "application_steps": [
+      "Step 1: Encapsulated the amendment condition in a Python function.",
+      "Step 2: Compared affirmative votes to a simple majority.",
+      "Step 3: Returned a Boolean indicating amendment possibility."
+    ]
+  },
+  {
+    "input": "The Code of Professional Conduct shall apply to all counsel appearing before the Court.",
+    "output": "EN: The Code of Professional Conduct applies to all counsel.\nFR : Le Code de déontologie s’applique à tous les avocats.",
+    "technique": "Bilingual Translation (French/English Parallel)",
+    "application_steps": [
+      "Step 1: Reformulated the rule in concise English.",
+      "Step 2: Translated the same into French.",
+      "Step 3: Presented both lines side-by-side."
+    ]
+  },
+  {
+    "input": "Privileges and immunities granted to officials shall be as outlined in the Headquarters Agreement.",
+    "output": "| Privilege/Immunity | Source                   |\n|--------------------|--------------------------|\n| Official Immunity  | Headquarters Agreement   |\n| Functional Priv.   | Headquarters Agreement   |",
+    "technique": "Tabular Comparison (Matrix Formatting)",
+    "application_steps": [
+      "Step 1: Identified two categories of privileges/immunities.",
+      "Step 2: Created a two-column Markdown table.",
+      "Step 3: Cited the Headquarters Agreement as the sole source."
+    ]
+  },
+  {
+    "input": "Financial records of the Trust Fund shall be audited annually.",
+    "output": "Q: How often are Trust Fund records audited?\nA: Annually, to ensure transparency and accountability.",
+    "technique": "Q&A Format (Interview-Style Transformation)",
+    "application_steps": [
+      "Step 1: Converted the declarative rule into a question.",
+      "Step 2: Provided the direct answer in plain language.",
+      "Step 3: Highlighted the purpose of the audit."
+    ]
+  },
+  {
+    "input": "The Court may, upon request, provide translations of documents to victims in their languages.",
+    "output": "Injustice speaks in every tongue.\nWe translate so every voice is heard.",
+    "technique": "Poetic Couplet (Poetic Transformation)",
+    "application_steps": [
+      "Step 1: Captured the theme of translation and access to justice.",
+      "Step 2: Structured into two rhyming lines.",
+      "Step 3: Emphasized inclusivity and voice."
+    ]
+  },
+  {
+    "input": "The Registry shall maintain a public registry of decisions and orders.",
+    "output": "📅→ Decisions\n📜→ Orders\n🗄️→ Public Registry",
+    "technique": "Emoji Timeline (Iconic Sequence)",
+    "application_steps": [
+      "Step 1: Assigned calendar, scroll, and filing emojis to each item.",
+      "Step 2: Used arrows to indicate the sequence of registry maintenance.",
+      "Step 3: Conveyed public access through simple imagery."
+    ]
+  },
+  {
+    "input": "The Assembly of States Parties shall establish subsidiary bodies as necessary for effective governance.",
+    "output": "governance:\n  subsidiaryBodies: establish as needed",
+    "technique": "YAML Mapping (Structured Serialization)",
+    "application_steps": [
+      "Step 1: Extracted key subject \"subsidiaryBodies\" under governance.",
+      "Step 2: Represented mandate as a value \"establish as needed\".",
+      "Step 3: Formatted in YAML for configuration-style clarity."
+    ]
+  },
+  {
+    "input": "The Secretariat of the Assembly shall prepare documentation for meetings.",
+    "output": "SELECT activity, document_type\n  FROM Secretariat\n WHERE function = 'AssemblyDocumentation';",
+    "technique": "SQL-Style Query (Structured Query Transformation)",
+    "application_steps": [
+      "Step 1: Identified \"Secretariat\" as the table and \"documentation\" as document_type.",
+      "Step 2: Mapped \"prepare\" to a SELECT operation on the activity field.",
+      "Step 3: Constrained function to 'AssemblyDocumentation' in the WHERE clause."
+    ]
+  },
+  {
+    "input": "The Secretariat of the Court shall manage the registry's administrative functions.",
+    "output": "```mermaid\nflowchart LR\n  CourtSecretariat --> RegistryAdmin : manage()\n```",
+    "technique": "Flowchart Diagram (Visual Structuring)",
+    "application_steps": [
+      "Step 1: Defined nodes for CourtSecretariat and RegistryAdmin.",
+      "Step 2: Connected them with a \"manage()\" arrow.",
+      "Step 3: Wrapped in mermaid syntax for diagram rendering."
+    ]
+  },
+  {
+    "input": "The Court's budget shall be approved by the Assembly of States Parties.",
+    "output": "/^budget_status\\s*==\\s*approved_by\\s*Assembly_OF_SP$/",
+    "technique": "Regular Expression Abstraction (Pattern Encoding)",
+    "application_steps": [
+      "Step 1: Converted the approval requirement into a regex matching budget_status.",
+      "Step 2: Used anchors to enforce full-string match.",
+      "Step 3: Referenced Assembly_OF_SP in the pattern."
+    ]
+  },
+  {
+    "input": "The Trust Fund for Victims shall consult with victims in resource allocation.",
+    "output": "Trust Fund listens,\nVictims’ needs guide each allocation,\nJustice takes its form.",
+    "technique": "Haiku Compression (Poetic Transformation)",
+    "application_steps": [
+      "Step 1: Extracted themes \"listen,\" \"guide allocation,\" and \"justice.\"",
+      "Step 2: Composed 5-7-5 syllable haiku.",
+      "Step 3: Preserved consultative intent poetically."
+    ]
+  },
+  {
+    "input": "The Court may grant legal aid to indigent defendants.",
+    "output": {
+      "type": "object",
+      "properties": {
+        "legalAidGranted": {
+          "type": "boolean",
+          "description": "true when defendant is indigent"
+        }
+      },
+      "required": [
+        "legalAidGranted"
+      ]
+    },
+    "technique": "JSON Schema (Data Structure Transformation)",
+    "application_steps": [
+      "Step 1: Defined an object with a single boolean property.",
+      "Step 2: Annotated description to specify the indigence condition.",
+      "Step 3: Marked property as required."
+    ]
+  },
+  {
+    "input": "Victims' counsel shall adhere to the Code of Professional Conduct.",
+    "output": "```js\nif (counsel.role === 'victims' && !counsel.compliesWith('CodeOfConduct')) {\n  throw new Error('Non-compliance');\n}\n```",
+    "technique": "Pseudocode Representation (Code Transformation)",
+    "application_steps": [
+      "Step 1: Mapped \"Victims' counsel\" to an object with role property.",
+      "Step 2: Checked compliance via a hypothetical method.",
+      "Step 3: Threw an error on non-compliance to enforce the rule."
+    ]
+  },
+  {
+    "input": "The Court shall publish a yearly schedule of hearings.",
+    "output": "| Year | Hearings Schedule |\n|------|-------------------|\n| 2025 | [link to schedule]|\n| 2026 | [link to schedule]|",
+    "technique": "Tabular Formatting (Table)",
+    "application_steps": [
+      "Step 1: Identified \"Year\" and \"Hearings Schedule\" as columns.",
+      "Step 2: Created Markdown table with example rows.",
+      "Step 3: Indicated placeholders for schedule links."
+    ]
+  },
+  {
+    "input": "The Deputy Registrar shall perform duties assigned by the Registrar.",
+    "output": "“As the delegate of the Registrar, the Deputy Registrar executes assigned duties with full authority.”",
+    "technique": "Tagline Generation (Promotional Reframing)",
+    "application_steps": [
+      "Step 1: Recast formal mandate into a motivational tagline.",
+      "Step 2: Emphasized delegation and authority.",
+      "Step 3: Combined role and function in one sentence."
+    ]
+  },
+  {
+    "input": "The Court may establish rules for electronic filing of documents.",
+    "output": "Soft keys click,\nPaper trails fade away.\nE-filing prevails.",
+    "technique": "Poetic Couplet (Poetic Transformation)",
+    "application_steps": [
+      "Step 1: Focused on imagery of clicking keys and fading paper.",
+      "Step 2: Structured two-line rhymed couplet.",
+      "Step 3: Conveyed the shift to e-filing poetically."
+    ]
+  },
+  {
+    "input": "The Presidency shall coordinate judicial activities of the Court.",
+    "output": "1. Identify upcoming judicial sessions  \n2. Allocate judges to cases  \n3. Publish coordination memo",
+    "technique": "Instruction Manual Steps (Procedural Formatting)",
+    "application_steps": [
+      "Step 1: Broke down coordination process into three steps.",
+      "Step 2: Used concise imperatives.",
+      "Step 3: Included publication of memo as final step."
+    ]
+  },
+  {
+    "input": "The judges shall issue separate opinions when they disagree with the majority.",
+    "output": "Judge A: I dissent, because…\nJudge B: I concur with majority.\nJudge C: I dissent in part.",
+    "technique": "Dialogue Script (Dramatic Transformation)",
+    "application_steps": [
+      "Step 1: Assigned speaking roles to illustrate separate opinions.",
+      "Step 2: Indicated dissent and concurrence succinctly.",
+      "Step 3: Preserved the procedural requirement in dramatic form."
+    ]
+  },
+  {
+    "input": "The Court shall maintain audiovisual records of public hearings.",
+    "output": "Recordings stored ✔️\nTranscripts generated ✔️\nArchives public ✔️",
+    "technique": "Tweet-Length Summary (Microblog Transformation)",
+    "application_steps": [
+      "Step 1: Condensed obligations into three checklist items.",
+      "Step 2: Appended check emojis for brevity.",
+      "Step 3: Maintained clear public-records emphasis."
+    ]
+  },
+  {
+    "input": "The Prosecutor shall present evidence supporting charges at pre-trial hearings.",
+    "output": "**Prosecutor:** Present evidence ∙ **Defense:** Review evidence ∙ **Chamber:** Evaluate sufficiency",
+    "technique": "Glossary Definition (Lexical Entry)",
+    "application_steps": [
+      "Step 1: Labeled each role in bold with its core responsibility.",
+      "Step 2: Separated entries with interpuncts for compactness.",
+      "Step 3: Presented in a glossary-like inline format."
+    ]
+  },
+  {
+    "input": "The Defense counsel shall have access to all exculpatory evidence.",
+    "output": "```\n+--------------------+\n| EVIDENCE           |\n+--------------------+\n      ↑\n      |  exculpatory\n      ↓\n| DEFENSE ACCESS     |\n+--------------------+\n```",
+    "technique": "ASCII Art Block Diagram (Visual Representation)",
+    "application_steps": [
+      "Step 1: Drew boxes for Evidence and Defense Access.",
+      "Step 2: Added arrows labeled “exculpatory” between them.",
+      "Step 3: Encapsulated in code fencing for clarity."
+    ]
+  },
+  {
+    "input": "The Court may, on request, hold closed sessions to protect privacy.",
+    "output": "```plantuml\n@startuml\nclass Court {\n  +holdSession(type)\n}\nCourt --> Session : type == 'closed'\n@enduml\n```",
+    "technique": "UML Class Diagram (PlantUML)",
+    "application_steps": [
+      "Step 1: Defined Court class with holdSession method.",
+      "Step 2: Modeled conditional association to Session class.",
+      "Step 3: Wrapped in PlantUML syntax."
+    ]
+  },
+  {
+    "input": "The Assembly shall adopt provisions for independent oversight of the Court.",
+    "output": "digraph {\n  Assembly -> OversightBody [label=\"adopt provisions\"];\n}",
+    "technique": "DOT Graph (Graphviz)",
+    "application_steps": [
+      "Step 1: Created nodes for Assembly and OversightBody.",
+      "Step 2: Annotated edge with action “adopt provisions.”",
+      "Step 3: Used DOT syntax for clear graph structure."
+    ]
+  },
+  {
+    "input": "The Registrar shall maintain records of service contracts and agreements.",
+    "output": "λRegistrar.{ record('serviceContracts'); record('agreements'); }",
+    "technique": "Beta-reduction (Lambda Calculus)",
+    "application_steps": [
+      "Step 1: Abstracted Registrar actions into a lambda expression.",
+      "Step 2: Listed record operations sequentially.",
+      "Step 3: Reduced narrative into programmatic form."
+    ]
+  },
+  {
+    "input": "States Parties shall ensure enforcement of sentences within their territories.",
+    "output": "Will you enforce the sentence on your soil? Yes/No",
+    "technique": "Question Reformulation (Interrogative Transformation)",
+    "application_steps": [
+      "Step 1: Turned declarative obligation into a direct question.",
+      "Step 2: Specified “on your soil” to emphasize territorial duty.",
+      "Step 3: Provided binary prompt to mirror compliance check."
+    ]
+  },
+  {
+    "input": "The Court shall ensure fair trial rights are protected for all accused.",
+    "output": "Fair trial rights are the backbone holding up the edifice of justice.",
+    "technique": "Metaphor Transformation",
+    "application_steps": [
+      "Step 1: Identified the core concept (“fair trial rights”) as a structural element.",
+      "Step 2: Chose an architectural metaphor (“backbone” + “edifice”).",
+      "Step 3: Recast the provision as a single metaphorical sentence."
+    ]
+  },
+  {
+    "input": "Language services shall be provided for parties and participants.",
+    "output": "<dl>\n  <dt>Language Services</dt>\n  <dd>Provided to all parties and participants</dd>\n</dl>",
+    "technique": "HTML Definition List",
+    "application_steps": [
+      "Step 1: Selected <dl>/<dt>/<dd> tags to showcase term-definition structure.",
+      "Step 2: Placed the key phrase as the term and the mandate as the definition.",
+      "Step 3: Formatted with proper indentation for readability."
+    ]
+  },
+  {
+    "input": "Expenses of the Court shall be borne by the States Parties.",
+    "output": "- **Before session:** States allocate budget\n- **During session:** Court incurs expenses\n- **After session:** Financial reports submitted",
+    "technique": "Bullet Timeline",
+    "application_steps": [
+      "Step 1: Broke the expense lifecycle into three phases.",
+      "Step 2: Prefaced each phase with a bold label indicating timing.",
+      "Step 3: Converted each mandate into a concise bullet statement."
+    ]
+  },
+  {
+    "input": "The Court may refer matters to other competent bodies.",
+    "output": "• Referal\n  ├─ Internal review\n  ├─ External tribunal\n  └─ Specialized agency",
+    "technique": "Mind Map Outline",
+    "application_steps": [
+      "Step 1: Chose the central node (“Referal”).",
+      "Step 2: Identified three referral paths as branches.",
+      "Step 3: Used indentation and box-drawing characters for map structure."
+    ]
+  },
+  {
+    "input": "The Court shall publish its annual budget estimates.",
+    "output": "Lead: Court publishes annual budget estimates immediately.\nBody: Detailed line items, projections, and assumptions follow.\nTail: Appendices and explanatory notes.",
+    "technique": "Inverted Pyramid Summary",
+    "application_steps": [
+      "Step 1: Placed the most critical information (“Lead”) at the top.",
+      "Step 2: Added secondary details (“Body”) in the middle.",
+      "Step 3: Concluded with supplementary material (“Tail”)."
+    ]
+  },
+  {
+    "input": "The Court shall ensure the safety of its premises.",
+    "output": "🏰 ➡️ 🔒 ➡️ ✅",
+    "technique": "Emoji Flow Summary",
+    "application_steps": [
+      "Step 1: Selected an emoji for ‘premises’ (castle).",
+      "Step 2: Chose lock for ‘ensure safety’ and checkmark for compliance.",
+      "Step 3: Sequenced arrows to indicate process flow."
+    ]
+  },
+  {
+    "input": "Witnesses shall be protected from intimidation and threats.",
+    "output": "Walls guard the witness,\nSilent whispers shield their voice,\nJustice walks safely.",
+    "technique": "Haiku Compression",
+    "application_steps": [
+      "Step 1: Isolated protection themes: walls, silence, safety.",
+      "Step 2: Composed three lines following 5-7-5 syllable structure.",
+      "Step 3: Retained the notion of safeguarding and justice."
+    ]
+  },
+  {
+    "input": "Evidence shall be disclosed to the defense timely and comprehensively.",
+    "output": "The Court shall ________ (action verb) ________ (object) in a ________ (adjective) manner.",
+    "technique": "Mad Libs Template",
+    "application_steps": [
+      "Step 1: Replaced the verb, object, and manner with blanks and parts of speech.",
+      "Step 2: Structured the template to mirror the original clause.",
+      "Step 3: Added parentheses to guide user input."
+    ]
+  },
+  {
+    "input": "Victims shall be provided with reparations in accordance with rules.",
+    "output": "Clue: 11 letters, definition — “Compensation awarded for harm”",
+    "technique": "Crossword Clue Transformation",
+    "application_steps": [
+      "Step 1: Converted the mandate into a crossword-style clue.",
+      "Step 2: Counted letters in “reparations” to indicate length.",
+      "Step 3: Framed the definition succinctly."
+    ]
+  },
+  {
+    "input": "The Court may establish working groups on legal issues.",
+    "output": "         [Court]\n            |\n    -------------------\n    |        |        |\n[Group A] [Group B] [Group C]\n    |        |        |\n [Topic1] [Topic2] [Topic3]",
+    "technique": "ASCII Mind Map",
+    "application_steps": [
+      "Step 1: Placed the Court at the top center.",
+      "Step 2: Drew branches to three generic working groups.",
+      "Step 3: Attached example topics beneath each group node."
+    ]
+  },
+  {
+    "input": "A case's admissibility or the Court's jurisdiction may generally be challenged only once by any person or State. The challenge must occur prior to or at the commencement of the trial. Exceptional circumstances may allow for multiple or later challenges, but only based on Article 17, paragraph 1(c).",
+    "output": "∀ challenger ∈ {persons, States}, challenge_count(challenger) ≤ 1 ∧ challenge_time ≤ trial_start ∨ (exception ∧ exception_source = Article 17(1)(c))",
+    "technique": "Formal Logic Notation (Symbolic Representation)",
+    "application_steps": [
+      "Step 1: Identified quantifiable entities («persons», «States») as the domain variable.",
+      "Step 2: Encoded the one-time challenge limit and temporal constraint in predicate form.",
+      "Step 3: Represented the exceptional condition as a logical disjunction referencing Article 17(1)(c)."
+    ]
+  },
+  {
+    "input": "If a challenge is made by a State under Article 19(2)(b) or (c), the Prosecutor shall suspend the investigation. This suspension remains in effect until the Court makes a determination in accordance with Article 17.",
+    "output": "```\nif (challenge.fromState && (challenge.type === '19(2)(b)' || challenge.type === '19(2)(c)')) {\n  prosecutor.suspendInvestigation();\n  await court.determination(Article17);\n}\n```",
+    "technique": "Pseudocode Representation (Code Transformation)",
+    "application_steps": [
+      "Step 1: Mapped legal entities («Prosecutor», «Court») to variable-like identifiers.",
+      "Step 2: Translated conditional clauses into an if-statement with logical OR.",
+      "Step 3: Represented suspension and await-determination as function calls."
+    ]
+  },
+  {
+    "input": "If the Court has decided a case is inadmissible under Article 17, the Prosecutor may request a review of that decision. This review is permissible when new facts have arisen that negate the original basis for inadmissibility.",
+    "output": "- **Trigger:** Court finds inadmissible under Article 17\n- **Action:** Prosecutor may request review\n- **Condition:** New facts must negate original basis",
+    "technique": "Structured Bullet List (Information Highlighting)",
+    "application_steps": [
+      "Step 1: Isolated the triggering event, action, and condition.",
+      "Step 2: Converted each element into a bold-labelled bullet for clarity.",
+      "Step 3: Omitted narrative connectors to focus on key elements."
+    ]
+  },
+  {
+    "input": "Except as provided in this Statute, no person shall be tried before the Court with respect to conduct which formed the basis of crimes. This applies to conduct for which the person has already been convicted or acquitted by the Court.",
+    "output": "The Court will not retry an individual for the same conduct unless explicitly allowed elsewhere in the Statute.",
+    "technique": "Inverted Summary (Narrative Reversal)",
+    "application_steps": [
+      "Step 1: Reversed the original negative construction into an affirmative statement.",
+      "Step 2: Generalized the exception clause to “unless explicitly allowed.”",
+      "Step 3: Condensed two sentences into one cohesive summary."
+    ]
+  },
+  {
+    "input": "No person shall be tried by another court for a crime referred to in Article 5 for which that person has already been convicted or acquitted by the Court.",
+    "output": "/^No person shall be tried by another court for crime in Article 5 if prior_ICC_verdict(person, crime) = true$/",
+    "technique": "Regular Expression Abstraction (Pattern Encoding)",
+    "application_steps": [
+      "Step 1: Identified the key prohibition and its condition.",
+      "Step 2: Encoded the rule as a regex-style assertion.",
+      "Step 3: Applied a function call notation for prior verdict check."
+    ]
+  },
+  {
+    "input": "A person tried by another court for conduct proscribed under Articles 6, 7, or 8 may be tried by the Court if the national proceedings were for shielding the person from criminal responsibility. This exception to ne bis in idem addresses sham trials.",
+    "output": "```mermaid\ndecisionTree\n  title Exception Decision\n  \"Tried by national court for Art6/7/8?\" --> |Shielding motive| \"ICC may try\"\n  \"Tried by national court for Art6/7/8?\" --> |Legitimate process| \"No ICC trial\"\n```",
+    "technique": "Decision Tree Diagram (Visual Structuring)",
+    "application_steps": [
+      "Step 1: Framed the key decision point as whether shielding motive exists.",
+      "Step 2: Used mermaid syntax to define branches for each outcome.",
+      "Step 3: Kept labels concise to reflect legal trigger and result."
+    ]
+  },
+  {
+    "input": "A person previously tried nationally can be tried by the ICC if the other court's proceedings were not conducted independently or impartially. This applies if they were conducted inconsistently with an intent to bring the person to justice.",
+    "output": "```js\nfunction isICCAdmissible(nationalProceedings) {\n  return !nationalProceedings.independent || !nationalProceedings.impartial;\n}\n```",
+    "technique": "Function Snippet (Programming-Style Transformation)",
+    "application_steps": [
+      "Step 1: Defined a boolean function encapsulating the admissibility test.",
+      "Step 2: Mapped «independent» and «impartial» to Boolean properties.",
+      "Step 3: Used logical NOT to trigger ICC jurisdiction when either fails."
+    ]
+  },
+  {
+    "input": "The States Parties emphasize that the International Criminal Court established under this Statute shall be complementary to national criminal jurisdictions. This foundational declaration underscores the Court's subsidiary role.",
+    "output": "“Complementarity is our cornerstone: the ICC serves only when national courts cannot.”",
+    "technique": "Tagline Generation (Promotional Reframing)",
+    "application_steps": [
+      "Step 1: Captured the essence of subsidiary role in a single slogan.",
+      "Step 2: Introduced parallelism (“only when… cannot”) for rhetorical impact.",
+      "Step 3: Removed formal references to keep the tone memorable."
+    ]
+  },
+  {
+    "input": "An International Criminal Court is hereby established as a permanent institution. It shall have the power to exercise jurisdiction over persons for the most serious crimes of international concern, as referred to in this Statute. Crucially, it shall be complementary to national criminal jurisdictions.",
+    "output": "ICC Established: Permanent court → Serious international crimes → Subsidiary to national systems",
+    "technique": "Headline-Style Summary (Condensed Headline)",
+    "application_steps": [
+      "Step 1: Broke into three core facts separated by arrows.",
+      "Step 2: Transformed narrative into lead-style headline fragments.",
+      "Step 3: Highlighted complementarity as the crucial final element."
+    ]
+  },
+  {
+    "input": "The jurisdiction of the Court is limited to the most serious crimes of concern to the international community as a whole. These crimes include genocide, crimes against humanity, war crimes, and the crime of aggression. This article defines the subject-matter jurisdiction of the Court.",
+    "output": "**Jurisdiction (Article 5):** serious international crimes ⇒ genocide; crimes against humanity; war crimes; aggression",
+    "technique": "Glossary Definition (Lexical Entry)",
+    "application_steps": [
+      "Step 1: Prefixed with label and article reference in bold.",
+      "Step 2: Listed crime categories separated by semicolons.",
+      "Step 3: Appended “subject-matter jurisdiction” context in summary."
+    ]
+  }
 ]
