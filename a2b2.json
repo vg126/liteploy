@@ -1,0 +1,1693 @@
+A2B2
+
+[
+  {
+    "input": "As a consequence of complementarity, the number of cases that reach the Court should not be a measure of its efficiency. On the contrary, the absence of trials before this Court, resulting from the regular functioning of national institutions, would be a major success.",
+    "output": "As a consequence of complementarity, the number of cases that reach the ICC should not be a measure of its efficiency. On the contrary, the absence of trials before the ICC, resulting from the regular functioning of national institutions, would be a major success.",
+    "technique": "Variable Renaming - Alpha Conversion (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify the recurring noun phrase 'the Court' which can be simplified.",
+      "Step 2: Assign a shorter, standard variable: 'the Court' becomes 'ICC'.",
+      "Step 3: Replace all instances of the original term with the new variable name to improve conciseness without altering the statement's meaning."
+    ]
+  },
+  {
+    "input": "The principle of complementarity governs the exercise of the Court’s jurisdiction. States have the first responsibility and right to prosecute international crimes, and the ICC may act only where national systems are unwilling or unable genuinely to do so.",
+    "output": "To prove the contrapositive: If the ICC may act even when national systems are willing and able to genuinely prosecute, then States do not have the first responsibility and right to prosecute international crimes.",
+    "technique": "Proof by Contraposition (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify the original implication (P → Q): IF States have the first responsibility (P), THEN the ICC may act only when national systems are unwilling or unable (Q).",
+      "Step 2: Formulate the contrapositive (¬Q → ¬P) by negating both propositions and reversing their logical order.",
+      "Step 3: State the new, logically equivalent implication based on the contrapositive structure."
+    ]
+  },
+  {
+    "input": "Complementarity is based on respect for States’ primary jurisdiction and on considerations of efficiency, since national authorities generally have the best access to evidence, witnesses and resources.",
+    "output": "The basis for Complementarity can be expressed as an addition of two components: `Basis = respect(States_Primary_Jurisdiction) + considerations(Efficiency)`, where `Efficiency` is a function of `access(evidence, witnesses, resources)`.",
+    "technique": "Algebraic Simplification (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Abstract the core concepts of the sentence into algebraic terms.",
+      "Step 2: Express the relationship 'based on' as an equation where Complementarity is the sum of its two foundational principles.",
+      "Step 3: Further define the 'efficiency' term as a function of the practical advantages listed, creating a nested, simplified expression."
+    ]
+  },
+  {
+    "input": "Establishing an international order in which national institutions respond effectively to international crimes—thereby obviating the need for ICC trials—would be a major success for the Court and the international community.",
+    "output": "The logic is refactored into a function:\n- `checkSystemSuccess()` returns `'major success'` IF `nationalInstitutions.respondsEffectively() == true` AND `icc.getTrialNeed() == 'obviated'`.",
+    "technique": "Extract Method - Code Refactoring (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the core logic as a distinct condition for 'major success'.",
+      "Step 2: 'Extract' this logic into a function with a clear purpose, `checkSystemSuccess()`.",
+      "Step 3: Define the function's behavior with a conditional check on two key states: the effectiveness of national institutions and the resulting lack of need for ICC trials."
+    ]
+  },
+  {
+    "input": "Partnership highlights that relations with genuinely prosecuting States can be positive and constructive. The Prosecutor may encourage national proceedings and provide assistance to facilitate anti-impunity strategies.",
+    "output": "Partnership: relations w/ genuinely prosecuting States can be positive. Prosecutor may encourage nat'l proceedings & provide assistance for anti-impunity strategies.",
+    "technique": "Code Minification - Code Compression (Software Engineering)",
+    "application_steps": [
+      "Step 1: Remove non-essential words like 'highlights that' and 'and constructive'.",
+      "Step 2: Abbreviate longer words: 'with' becomes 'w/', 'national' becomes 'nat'l', 'and' becomes '&'.",
+      "Step 3: Condense 'to facilitate' to 'for' to reduce character count while preserving the core meaning."
+    ]
+  },
+  {
+    "input": "Vigilance marks the converse principle that the ICC must diligently verify that national procedures are carried out genuinely, gathering information where necessary to assess unwillingness or inability.",
+    "output": "The `VigilanceAdapter` allows the `JusticeClient` to work with `NationalProcedures`. The adapter translates the `NationalProcedures` object into a `isGenuine()` boolean by gathering information and assessing for unwillingness or inability. This result determines if the ICC target interface can be blocked.",
+    "technique": "Adapter Pattern - Design Pattern (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the client (Justice system), the target interface (ICC action), and the adaptee (National Procedures).",
+      "Step 2: Frame the principle of 'Vigilance' as the adapter object that sits between them.",
+      "Step 3: Describe how this adapter actively processes the adaptee ('gathering information', 'assessing') to translate its state into a simple boolean that the client system can understand."
+    ]
+  },
+  {
+    "input": "Although commentators often emphasise the “unwilling or unable” test, Article 17 first contemplates inaction: where no State has initiated any investigation, the case is admissible without further inquiry into unwillingness or inability.",
+    "output": "Commentators often emphasize the “unwilling or unable” test. However, Article 17 first considers inaction. If no State has initiated an investigation, the case is admissible. No further inquiry is needed.",
+    "technique": "Short Sentence Construction (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the distinct ideas in the complex sentence: the common focus, the Article 17 priority, the condition for inaction, and the consequence.",
+      "Step 2: Break the sentence down into these separate single-idea units.",
+      "Step 3: Reconstruct the information as a series of short, simple sentences to improve processing fluency and clarity."
+    ]
+  },
+  {
+    "input": "The qualifier “genuinely” restricts the class of national proceedings that require ICC deference, ensuring that sham or hopelessly inadequate processes cannot block Court action.",
+    "output": "The qualifier “genuinely” restricts the class of national proceedings requiring ICC deference. This ensures that sham or inadequate processes cannot block Court action.",
+    "technique": "Subject-Verb-Object Proximity (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the main subject ('The qualifier “genuinely”') and its primary action ('restricts the class of national proceedings').",
+      "Step 2: Break the single sentence into two to bring the subject and verb of each core idea closer together.",
+      "Step 3: Restructure the second part to clarify that 'this' qualifier is what ensures the outcome, improving the logical flow."
+    ]
+  },
+  {
+    "input": "Without the requirement of genuine proceedings, any national action—however fraudulent—could bar the ICC, defeating the Statute’s purpose. The Rome Statute therefore grants the Court a limited but essential capacity to assess the objective quality of domestic cases.",
+    "output": "Without the requirement of genuine proceedings, any national action could bar the ICC. This would defeat the Statute’s purpose. Therefore, the Rome Statute grants the Court a limited but essential capacity to assess the quality of domestic cases.",
+    "technique": "Working Memory Support (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the different logical steps in the argument: the hypothetical problem, its consequence, and the solution provided by the Statute.",
+      "Step 2: Separate the input into three distinct sentences, each presenting one of these logical steps.",
+      "Step 3: Present the information sequentially, allowing the reader to process the problem and its effect before being introduced to the solution, which reduces cognitive load."
+    ]
+  },
+  {
+    "input": "Amnesty International welcomes the OTP’s draft policy, stressing that complementarity and cooperation lie at the heart of the Rome Statute system. It urges the OTP to adopt publicly transparent benchmarking so that States must meet clear indicators of genuine domestic action before the Court steps back.",
+    "output": "Stressing that complementarity and cooperation lie at the heart of the Rome Statute system, Amnesty International welcomes the OTP’s draft policy. It urges the OTP to adopt publicly transparent benchmarking, requiring States to meet clear indicators of genuine domestic action before the Court steps back.",
+    "technique": "Subordinate Clause Reduction (Surgical Real)",
+    "application_steps": [
+      "Step 1: Identify the main clause ('Amnesty International welcomes...') and the subordinate clause ('stressing that...').",
+      "Step 2: Reorder the sentence to lead with the subordinate clause, creating a more dynamic opening.",
+      "Step 3: Condense the final clause by replacing 'so that' with a more direct participial phrase ('requiring States to meet...'), improving conciseness."
+    ]
+  },
+  {
+    "input": "“According to the report, the Court should take into account a State’s ‘[l]egal regime of due process standards, rights of accused, [and] procedures’ when determining whether it is able to investigate and prosecute.”",
+    "output": "<COMPRESS:0.8> <LEXICAL:SIMPLE> The report says the Court should look at a State's due process standards, accused's rights, and procedures when deciding if it is able to investigate and prosecute.",
+    "technique": "Controllable Generation with Control Tokens (AI)",
+    "application_steps": [
+      "Step 1: Prepend control tokens <COMPRESS:0.8> and <LEXICAL:SIMPLE> to guide the transformation.",
+      "Step 2: Shorten the text by simplifying the introductory phrase: 'According to the report' becomes 'The report says'.",
+      "Step 3: Replace complex phrasing like 'take into account a State's legal regime of' with 'look at a State's' for lexical simplicity."
+    ]
+  },
+  {
+    "input": "“Article 17 could provide room for inadmissibility of cases where crimes are investigated by domestic truth commissions.”",
+    "output": "Article 17 allows inadmissibility for cases investigated by domestic truth commissions.",
+    "technique": "Attention-Based Token Pruning (AI)",
+    "application_steps": [
+      "Step 1: Identify tokens that are less critical to the core meaning, such as the modal phrase 'could provide room for'.",
+      "Step 2: Prune this less direct phrase.",
+      "Step 3: Replace it with a more direct verb ('allows') to create a concise and assertive statement."
+    ]
+  },
+  {
+    "input": "“The complementarity regime of the Court was conceived as ‘a mechanism to encourage and facilitate compliance of States with their primary responsibility to investigate and prosecute core crimes’.”",
+    "output": "The Court's complementarity system was designed as a tool to help States follow their main duty to investigate and prosecute major crimes.",
+    "technique": "Embedding-Based Lexical Simplification (AI)",
+    "application_steps": [
+      "Step 1: Identify complex or formal terms: 'regime', 'conceived as', 'mechanism', 'encourage and facilitate compliance', 'primary responsibility', 'core crimes'.",
+      "Step 2: Find simpler, context-aware synonyms: 'regime' -> 'system', 'conceived as' -> 'designed as', 'mechanism' -> 'tool', 'encourage and facilitate compliance' -> 'help States follow', 'primary responsibility' -> 'main duty', 'core crimes' -> 'major crimes'.",
+      "Step 3: Substitute the simpler words and phrases into the sentence to lower the overall reading difficulty."
+    ]
+  },
+  {
+    "input": "“If not effectively countered by the principle of primacy, any one of those stratagems might be used to defeat the very purpose of the creation of an international criminal jurisdiction, to the benefit of the very people whom it has been designed to prosecute.”",
+    "output": "To achieve the predictable outcome of 'defeating international jurisdiction', an actor can calibrate variables (stratagems) to exploit the absence of the 'principle of primacy'. This controlled process benefits the individuals the jurisdiction was designed to prosecute.",
+    "technique": "Temperature Control in Mashing (Brewing Science)",
+    "application_steps": [
+      "Step 1: Frame the action described as a process to achieve a predictable (negative) outcome.",
+      "Step 2: Identify the key variable being 'controlled' or exploited: the absence of the 'principle of primacy'. The 'stratagems' are the method of control.",
+      "Step 3: Rewrite the sentence to show how controlling this variable leads directly to the specified legal 'profile' (the defeat of jurisdiction)."
+    ]
+  },
+  {
+    "input": "“The reason for entrusting the ad hoc tribunals with ‘primacy’ was mainly to remedy the apparent lack of will and ability to conduct fair trials before domestic courts, thereby resolving ‘conflicts with national jurisdictions that might shelter an offender from genuine prosecution’.”",
+    "output": "To tailor the 'Primacy' profile for ad hoc tribunals, the following legal components were added: 1) A remedy for the lack of will in domestic courts. 2) A remedy for the lack of ability in domestic courts. 3) A mechanism for resolving conflicts with national jurisdictions that might shelter offenders. The resulting profile is: Primacy over national courts.",
+    "technique": "Water Chemistry Adjustment (Brewing Science)",
+    "application_steps": [
+      "Step 1: Analogize the reasons for primacy to 'minerals' or 'additives' that create a specific legal principle.",
+      "Step 2: Isolate the key reasons: remedying lack of will, remedying lack of ability, and resolving conflicts.",
+      "Step 3: Restructure the text to explicitly list these reasons as components being added to produce the final legal 'profile' of Primacy."
+    ]
+  },
+  {
+    "input": "“First, the most straightforward scenario is where no State has initiated any investigation—the inaction scenario—so none of the alternatives in Article 17(1)(a)–(c) are satisfied and there is no impediment to admissibility.”",
+    "output": "Core Distillate: No impediment to admissibility. Condition Fraction: The 'inaction scenario', where no State has initiated any investigation. Consequence Fraction: None of the inadmissibility alternatives in Article 17(1)(a)-(c) are satisfied.",
+    "technique": "Fractional Distillation (Distillation)",
+    "application_steps": [
+      "Step 1: Apply the logic of separating a core product from other components.",
+      "Step 2: Identify the main legal conclusion ('No impediment to admissibility') as the pure 'distillate'.",
+      "Step 3: Isolate the condition ('inaction scenario') and the legal consequence ('none of the alternatives... are satisfied') as separate 'fractions'."
+    ]
+  },
+  {
+    "input": "“The term ‘genuinely’ restricts the class of national proceedings that require deference from the ICC; without such a qualifier, any national proceeding would preclude ICC action, even if the proceeding were fraudulent or hopelessly inadequate.”",
+    "output": "Qualifier(Genuinely) → Restricts(Class(National_Proceedings)). ¬Qualifier(Genuinely) → Allows(Fraudulent_Proceeding) → Precludes(ICC_Action).",
+    "technique": "Algebraic Notation Coordinate System (Chess)",
+    "application_steps": [
+      "Step 1: Map the key concepts to concise terms: Qualifier, Genuinely, Restricts, Class, National_Proceedings, Allows, Fraudulent_Proceeding, Precludes, ICC_Action.",
+      "Step 2: Represent the relationships using arrows (→ for 'leads to' or 'property of') and negation (¬).",
+      "Step 3: Arrange the components into two short, sequential formulas that capture the effect of the qualifier and the consequence of its absence."
+    ]
+  },
+  {
+    "input": "“There is a potential danger that if the OTP becomes too closely involved in assisting a national proceeding, it may be difficult to extricate itself to credibly criticize the process if it later proves non-genuine.”",
+    "output": "10->20 => 30->40->50. (Translation: OTP becomes too involved in assisting (10) -> a national proceeding (20) => it may be difficult to extricate itself (30) -> to credibly criticize the process (40) -> if it proves non-genuine (50)).",
+    "technique": "ICCF Numeric Notation Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Abstract the key concepts in the logical chain: OTP involved, national proceeding, difficult to extricate, to criticize, if non-genuine.",
+      "Step 2: Assign a unique two-digit number to each concept: 10, 20, 30, 40, 50.",
+      "Step 3: Represent the logical flow using these numbers and symbols (-> for 'in/with/to', => for 'then it may be'), with a parenthetical translation."
+    ]
+  },
+  {
+    "input": "“The mere existence of relevant criminal proceedings is not enough to satisfy the threshold established by the Statute; the way the proceedings are carried out and the results obtained must be the subject of rigorous analysis.”",
+    "output": "```\n+----------------------------------------------------+\n| Test for Satisfying the Statute's Threshold        |\n+----------------------------------------------------+\n| INSUFFICIENT Condition:                            |\n|   - Mere existence of relevant criminal proceedings|\n+----------------------------------------------------+\n| REQUIRED Analysis:                                 |\n|   - How proceedings are carried out                |\n|   - Results obtained from proceedings              |\n+----------------------------------------------------+\n```",
+    "technique": "FEN to ASCII Art Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Interpret the technique as transforming a legal rule into a structured, visual text diagram.",
+      "Step 2: Extract the key components: the insufficient condition and the required points of analysis.",
+      "Step 3: Organize these components into a bordered, grid-like ASCII art table with clear headers ('INSUFFICIENT', 'REQUIRED') for human-readable presentation."
+    ]
+  },
+  {
+    "input": "“Thus, the ICC is constituted as an *ultima ratio* jurisdiction, competent only when national jurisdictions—through unwillingness or inability—fail to act.”",
+    "output": "Define:Ultima_Ratio -> The ICC is an *ultima ratio* jurisdiction. Condition:FAIL(National_Jurisdiction) -> It is competent only when national jurisdictions fail. Reason:Unwilling/Unable.",
+    "technique": "Move Intent Encoding System (Chess)",
+    "application_steps": [
+      "Step 1: Identify the key definition, condition, and reason in the text.",
+      "Step 2: Create short, strategic purpose tags for each part: `Define:Ultima_Ratio`, `Condition:FAIL(National_Jurisdiction)`, and `Reason:Unwilling/Unable`.",
+      "Step 3: Link these tags to concise summaries of each part of the statement, encoding the strategic intent and logical structure."
+    ]
+  }
+]
+[
+  {
+    "input": "“Assessment of national proceedings should review compliance with due-process principles, examine whether decisions shield the person from responsibility, and document unjustified delays.”",
+    "output": "The unification `assessment(national_proceedings)` is defined as the successful evaluation of three sub-routines: `review(due_process)`, `examine(shielding_intent)`, AND `document(unjustified_delays)`.",
+    "technique": "Unification-Based Term Simplification (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Model the core concept 'Assessment of national proceedings' as a high-level logical function.",
+      "Step 2: Define this function as a unification of the three distinct analytical tasks required by the text.",
+      "Step 3: Simplify the original sentence by rephrasing it as a formal definition where the main term is equivalent to the conjunction of its three components."
+    ]
+  },
+  {
+    "input": "“The Appeals Chamber has held that, to qualify as ‘activity’, the national proceeding must ‘cover the same individual and substantially the same conduct as alleged in the proceedings before the Court’.”",
+    "output": "Rule: qualify_as('activity', @proceeding) → @proceeding.covers('same individual') AND @proceeding.covers('substantially the same conduct').",
+    "technique": "Parametric Pattern Transformation (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Define a generic transformation pattern for a legal qualification rule: `qualify_as(@label, @subject) → @condition1 AND @condition2`.",
+      "Step 2: Bind the variables to components from the input: `@label` becomes 'activity', `@subject` becomes the national proceeding, and the conditions become the requirements of covering the same individual and conduct.",
+      "Step 3: Apply the rule to transform the narrative holding into a structured logical expression."
+    ]
+  },
+  {
+    "input": "“Requiring States to prosecute international crimes as such would create a two-tiered system in which non-Western States find it far more difficult to satisfy complementarity than their Western counterparts.”",
+    "output": "Applying the function `(λState.can_satisfy_complementarity(State))` to the argument `(Non-Western States)` reduces to FALSE, due to the reasoning that the requirement `(prosecute_international_crimes_as_such)` creates a discriminatory two-tiered system.",
+    "technique": "Beta Reduction (Formal Methods)",
+    "application_steps": [
+      "Step 1: Model the scenario as a function application: a 'can_satisfy_complementarity' function applied to a 'State'.",
+      "Step 2: Identify the argument: 'Non-Western States'.",
+      "Step 3: The function application is resolved or 'reduced' to a FALSE outcome, with the provided reasoning about a two-tiered system acting as the basis for the evaluation."
+    ]
+  },
+  {
+    "input": "“A significant number of non-Western States have failed to incorporate the Statute, often because internal political instability or capacity constraints impede the passage of implementing legislation.”",
+    "output": "The high-level outcome 'failed to incorporate the Statute' is desugared into its primitive causal conditions: `(internal_political_instability > threshold)` OR `(capacity_constraints > threshold)`.",
+    "technique": "Desugaring (Formal Methods)",
+    "application_steps": [
+      "Step 1: Identify the high-level outcome described in the text.",
+      "Step 2: Break this abstract outcome down into the more primitive, concrete reasons mentioned: political instability and capacity constraints.",
+      "Step 3: Rewrite the sentence to show that the high-level outcome is syntactic sugar for a logical OR operation on these two underlying causal conditions."
+    ]
+  },
+  {
+    "input": "“Even where political will exists, matters frequently ‘remain fairly stuck for want of specialised personnel’, illustrating that technical incapacity can translate into statutory ‘inability’ under Article 17(3).”",
+    "output": "Applying the rule `IF want_of_specialised_personnel(State) THEN technical_incapacity(State) → statutory_inability(State, Art17(3))`: Because matters remain stuck for want of specialised personnel, this technical incapacity translates into statutory inability.",
+    "technique": "Term Rewriting (Algebraic Simplification) (Formal Methods)",
+    "application_steps": [
+      "Step 1: Formulate a rewrite rule based on the text's logic: If there is a want of specialised personnel, then this implies technical incapacity, which in turn implies statutory inability.",
+      "Step 2: Match the input sentence's premise ('want of specialised personnel') to the IF condition of the rule.",
+      "Step 3: Rewrite the sentence by applying the rule's causal chain, transforming the narrative into a direct logical flow."
+    ]
+  },
+  {
+    "input": "“By 2009 the OTP clarified that it would *not* provide direct capacity-building but would ‘encourage genuine national proceedings, relying on its networks of co-operation’.”",
+    "output": "Projection from 'OTP Policy' to 'Capacity-Building Map': The policy, when projected, does not land on the coordinate 'provide direct capacity-building'. Instead, it lands on the coordinate 'encourage genuine national proceedings via networks'.",
+    "technique": "Map Projection Transformation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Treat 'Capacity-Building' as a map with different possible coordinates or approaches.",
+      "Step 2: Frame the OTP's policy as a point being projected onto this map.",
+      "Step 3: Describe the outcome in terms of projection: the policy explicitly avoids one coordinate and lands on another, clarifying its position."
+    ]
+  },
+  {
+    "input": "“The Secretariat has allocated a focal-point legal officer and launched an extranet to facilitate information-sharing between donors, recipient States and providers with the purpose of strengthening national jurisdictions.”",
+    "output": "The individual features [1. allocated a focal-point legal officer] and [2. launched an extranet] are aggregated into the single strategic unit: 'Secretariat Actions to Strengthen National Jurisdictions'.",
+    "technique": "Aggregation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Deconstruct the Secretariat's actions into its two distinct components.",
+      "Step 2: List each of these actions as a separate feature, analogous to individual geographic points.",
+      "Step 3: Combine these distinct features into a single, overarching concept that describes their unified purpose, similar to how scattered points are grouped into a named region."
+    ]
+  },
+  {
+    "input": "“Engagement of the Court in providing capacity-building can ensure that States comply with their responsibility to exercise jurisdiction over core crimes, reinforcing vertical and horizontal impunity gaps.”",
+    "output": " - **S**cope: Engagement of the Court.\n - **A**ctivity: Providing capacity-building.\n - **L**egal Goal: Ensure States comply with their responsibility to exercise jurisdiction.\n - **U**nit: The Court.\n - **T**arget: Vertical and horizontal impunity gaps.\n - **E**ffect: Reinforcement of said gaps.",
+    "technique": "SALUTE Report Standardization (Military)",
+    "application_steps": [
+      "Step 1: Adapt the SALUTE acronym headings for a legal strategy: Size->Scope, Activity->Activity, Location->Legal Goal, Unit->Unit, Time->Target, Equipment->Effect.",
+      "Step 2: Extract the specific details from the text corresponding to each adapted heading.",
+      "Step 3: Format the extracted information into a structured report, transforming the sentence into a standardized summary of the strategy."
+    ]
+  },
+  {
+    "input": "“Although the ICC is not a human-rights court, internationally recognised due-process standards remain ‘of relevance and utility’ when assessing whether national proceedings are carried out genuinely.”",
+    "output": "1. **Situation:** The ICC is assessing whether national proceedings are genuine.\n2. **Mission:** To determine the role of due-process standards in the assessment.\n3. **Execution:** Although the ICC is not a human-rights court, internationally recognised due-process standards are considered 'of relevance and utility'.\n4. **Sustainment:** N/A.\n5. **Command & Control:** The standards should be used as a relevant tool in the assessment.",
+    "technique": "Operations Order (OPORD) Five-Paragraph Structure (Military)",
+    "application_steps": [
+      "Step 1: Deconstruct the statement into components that map to the five OPORD paragraphs.",
+      "Step 2: Assign the context ('assessing national proceedings') to Situation and the objective ('determine role of standards') to Mission.",
+      "Step 3: State the core finding ('standards remain of relevance') under Execution and summarize the implication under Command & Control."
+    ]
+  },
+  {
+    "input": "“Article 17 balances deference to national jurisdictions with the Court’s mandate: proceedings cannot be deemed non-genuine merely for lack of resources, yet standards must not be so permissive that they become conducive to impunity.”",
+    "output": "1. **Primary Principle:** Balance deference to national jurisdictions with the Court's mandate.\n2. **Lower-Bound Rule:** Proceedings cannot be deemed non-genuine solely due to a lack of resources.\n3. **Upper-Bound Rule:** Standards must not be so permissive that they enable impunity.",
+    "technique": "Task Analysis (Pedagogy)",
+    "application_steps": [
+      "Step 1: Treat the complex task of 'balancing Article 17' as a process to be analyzed.",
+      "Step 2: Decompose the process into its primary principle and the two bounding rules that constrain it.",
+      "Step 3: Present these components as a numbered list, clarifying the core concept and its upper and lower limits."
+    ]
+  },
+  {
+    "input": "Having regard to paragraph 10 of the Preamble and article 1, the Court shall determine that a case is inadmissible where: (a) The case is being investigated or prosecuted by a State which has jurisdiction over it, unless the State is unwilling or unable genuinely to carry out the investigation or prosecution; (b) The case has been investigated by a State which has jurisdiction over it and the State has decided not to prosecute the person concerned, unless the decision resulted from the unwillingness or inability of the State genuinely to prosecute.",
+    "output": "Having regard to paragraph 10 of the Preamble and article 1, the ICC shall determine that a case is inadmissible where: (a) The case is being investigated or prosecuted by an S which has jurisdiction over it, unless S is unwilling or unable genuinely to carry out the investigation or prosecution; (b) The case has been investigated by an S which has jurisdiction over it and S has decided not to prosecute the person concerned, unless the decision resulted from the unwillingness or inability of S to genuinely prosecute.",
+    "technique": "Variable Renaming - Alpha Conversion (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify recurring noun phrases 'the Court' and 'a State'.",
+      "Step 2: Assign shorter, unambiguous variables: 'ICC' for the Court and 'S' for a State.",
+      "Step 3: Replace all instances of the original terms with their new variable names to improve conciseness without altering the legal meaning."
+    ]
+  },
+  {
+    "input": "In order to determine unwillingness in a particular case, the Court shall consider, having regard to the principles of due process recognized by international law, whether one or more of the following exist, as applicable: (a) The proceedings were or are being undertaken or the national decision was made for the purpose of shielding the person concerned from criminal responsibility for crimes within the jurisdiction of the Court referred to in article 5; (b) There has been an unjustified delay in the proceedings which in the circumstances is inconsistent with an intent to bring the person concerned to justice.",
+    "output": "To prove the contrapositive: If a State is NOT unwilling, then the proceedings were NOT for the purpose of shielding the person, AND there has NOT been an unjustified delay inconsistent with an intent to bring the person to justice.",
+    "technique": "Proof by Contraposition (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify the original implication (P → Q): IF proceedings are for shielding OR there is unjustified delay (P), THEN the State is unwilling (Q).",
+      "Step 2: Formulate the contrapositive (¬Q → ¬P) by negating both propositions and reversing their logical order.",
+      "Step 3: State the new, logically equivalent implication, noting that the negation of 'P OR Q' is '¬P AND ¬Q'."
+    ]
+  },
+  {
+    "input": "In order to determine inability in a particular case, the Court shall consider whether, due to a total or substantial collapse or unavailability of its national judicial system, the State is unable to obtain the accused or the necessary evidence and testimony or otherwise unable to carry out its proceedings.",
+    "output": "Simplified Rule: `Inability(State) <=> Cause(System_Collapse_OR_Unavailability) => Effect(Unable_to_get_accused OR Unable_to_get_evidence OR Unable_to_proceed)`.",
+    "technique": "Algebraic Simplification (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Abstract the core concepts into algebraic terms.",
+      "Step 2: Express the relationship as a logical equivalence (`<=>`) between the finding of inability and its underlying cause.",
+      "Step 3: Show that the cause leads to (`=>`) a disjunction (OR) of several practical consequences."
+    ]
+  },
+  {
+    "input": "When a situation has been referred to the Court pursuant to article 13(a) and the Prosecutor has determined that there would be a reasonable basis to commence an investigation, or the Prosecutor initiates an investigation pursuant to articles 13(c) and 15, the Prosecutor shall notify all States Parties and those States which, taking into account the information available, would normally exercise jurisdiction over the crimes concerned. The Prosecutor may notify such States on a confidential basis and, where the Prosecutor believes it necessary to protect persons, prevent destruction of evidence or prevent the absconding of persons, may limit the scope of the information provided to States.",
+    "output": "The logic is refactored into a function:\n- `notifyStates(situation)` is called when `prosecutor.hasReasonableBasis() == true`.\n- Inside `notifyStates`, it calls `notify(AllStatesParties)` and `notify(StatesWithNormalJurisdiction)`.\n- It includes optional parameters: `notify(..., confidential=true)` and `limitInfoScope(reason='protection')`.",
+    "technique": "Extract Method - Code Refactoring (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the core logic as a distinct process: notifying states after a decision to investigate.",
+      "Step 2: 'Extract' this logic into a function `notifyStates` with clear trigger conditions.",
+      "Step 3: Define the function's internal behavior, including its main calls and its optional parameters for confidentiality and information limitation."
+    ]
+  },
+  {
+    "input": "Challenges to the admissibility of a case on the grounds referred to in article 17 or challenges to the jurisdiction of the Court may be made by: (a) An accused or a person for whom a warrant of arrest or a summons to appear has been issued under article 58; (b) A State which has jurisdiction over a case, on the ground that it is investigating or prosecuting the case or has investigated or prosecuted; or (c) A State from which acceptance of jurisdiction is required under article 12.",
+    "output": "Admissibility(Art17)/jurisdiction challenges may be made by: (a) Accused/person w/ warrant; (b) State w/ jurisdiction that is investigating/prosecuting; or (c) State whose jurisdiction acceptance is required per Art12.",
+    "technique": "Code Minification - Code Compression (Software Engineering)",
+    "application_steps": [
+      "Step 1: Remove introductory phrases like 'Challenges to the admissibility of a case on the grounds referred to in article 17'.",
+      "Step 2: Abbreviate longer words: 'with' becomes 'w/', 'article' becomes 'Art'.",
+      "Step 3: Condense clauses like 'on the ground that it is investigating...' to 'that is investigating...' to reduce character count while retaining the core rule."
+    ]
+  },
+  {
+    "input": "Except as provided in this Statute, no person shall be tried before the Court with respect to conduct which formed the basis of crimes for which the person has been convicted or acquitted by the Court. No person shall be tried by another court for a crime referred to in article 5 for which that person has already been convicted or acquitted by the Court.",
+    "output": "The `NeBisInIdemAdapter` allows a `JudicialClient` (either the ICC or a national court) to work with a `PriorTrialRecord`. The adapter checks the record; if it shows a conviction or acquittal for the same conduct by the other court system, it translates this into a `cannotBeTried()` status for the client.",
+    "technique": "Adapter Pattern - Design Pattern (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the client (a judicial system), the target interface (a decision on whether to try someone), and the adaptee (the record of a prior trial).",
+      "Step 2: Frame the principle of 'Ne Bis In Idem' (double jeopardy) as the adapter object.",
+      "Step 3: Describe how this adapter reads the state of the prior trial record and translates it into a simple, compatible 'cannot be tried' status for the client system."
+    ]
+  },
+  {
+    "input": "No person who has been tried by another court for conduct also proscribed under article 6, 7, 8 or 8 bis shall be tried by the Court with respect to the same conduct unless the proceedings in the other court: (a) Were for the purpose of shielding the person concerned from criminal responsibility for crimes within the jurisdiction of the Court; or (b) Otherwise were not conducted independently or impartially in accordance with the norms of due process recognized by international law and were conducted in a manner which, in the circumstances, was inconsistent with an intent to bring the person concerned to justice.",
+    "output": "A person cannot be tried by the ICC for conduct already tried by another court. This rule has an exception. The ICC can try the person if the other proceedings were a sham. A sham means they were for shielding the person. A sham also means they were not independent, impartial, or consistent with an intent to bring the person to justice.",
+    "technique": "Short Sentence Construction (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the main rule and its complex exception.",
+      "Step 2: Break the text down into its core ideas: the general rule, the existence of an exception, and the two definitions of what constitutes a sham proceeding.",
+      "Step 3: Reconstruct the information as a series of short, simple sentences, each expressing a single core idea for improved readability."
+    ]
+  },
+  {
+    "input": "Emphasizing that the International Criminal Court established under this Statute shall be complementary to national criminal jurisdictions, Resolved to guarantee lasting respect for and the enforcement of international justice.",
+    "output": "The Preamble emphasizes a key principle. The International Criminal Court shall be complementary to national criminal jurisdictions. This resolves to guarantee lasting respect for international justice.",
+    "technique": "Subject-Verb-Object Proximity (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the two main ideas in the text: the emphasis on complementarity and the resolution to guarantee justice.",
+      "Step 2: Separate the single complex sentence into multiple shorter sentences.",
+      "Step 3: Rephrase to ensure the subject and verb of each core idea ('The Preamble emphasizes', 'The International Criminal Court shall be') are placed closely together for clarity."
+    ]
+  },
+  {
+    "input": "An International Criminal Court (\"the Court\") is hereby established. It shall be a permanent institution and shall have the power to exercise its jurisdiction over persons for the most serious crimes of international concern, as referred to in this Statute, and shall be complementary to national criminal jurisdictions. The jurisdiction and functioning of the Court shall be governed by the provisions of this Statute.",
+    "output": "An International Criminal Court is established. It is a permanent institution. It has power over persons for the most serious crimes of international concern. The Court is complementary to national criminal jurisdictions. Its jurisdiction and functioning are governed by this Statute.",
+    "technique": "Working Memory Support (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the multiple distinct attributes and rules being defined in the text.",
+      "Step 2: Separate the input into several distinct, short sentences, each presenting a single attribute or rule.",
+      "Step 3: Present the information sequentially, allowing the reader to process each fact about the Court (its establishment, permanence, power, complementarity, governance) one at a time, reducing cognitive load."
+    ]
+  },
+  {
+    "input": "In deciding whether to initiate an investigation, the Prosecutor shall consider whether, taking into account the gravity of the crime and the interests of victims, there are nonetheless substantial reasons to believe that an investigation would not serve the interests of justice. If the Prosecutor determines that there is no reasonable basis to proceed and his or her determination is based solely on this subparagraph, he or she shall inform the Pre-Trial Chamber.",
+    "output": "When deciding to initiate an investigation, the Prosecutor must consider if substantial reasons exist to believe an investigation would not serve justice, considering the crime's gravity and victims' interests. If the Prosecutor determines no reasonable basis to proceed based solely on this, he or she must inform the Pre-Trial Chamber.",
+    "technique": "Subordinate Clause Reduction (Surgical Real)",
+    "application_steps": [
+      "Step 1: Identify the subordinate clause 'taking into account the gravity...' and integrate it more directly into the main sentence with 'considering...'.",
+      "Step 2: Reword 'In deciding whether to initiate an investigation' to the more direct 'When deciding to initiate an investigation'.",
+      "Step 3: Condense 'his or her determination is based solely on this subparagraph' to the more concise 'based solely on this' to create a more direct and readable text."
+    ]
+  }
+] [
+  {
+    "input": "The Appeals Chamber finds that in case of inaction, the question of unwillingness or inability does not arise; inaction on the part of a State having jurisdiction renders a case admissible before the Court, subject to article 17(1)(d) of the Statute. This interpretation of article 17(1)(a) and (b) of the Statute is consistent with the principle of complementarity, which governs the exercise of the Court's jurisdiction, and according to which primacy is given to national systems.",
+    "output": "<COMPRESS:0.7> <LEGAL_FOCUS> The Appeals Chamber finds that in cases of state inaction, the issue of unwillingness or inability is irrelevant. Inaction by a State with jurisdiction makes a case admissible, subject to gravity requirements. This interpretation is consistent with the principle of complementarity.",
+    "technique": "Controllable Generation with Control Tokens (AI)",
+    "application_steps": [
+      "Step 1: Prepend control tokens <COMPRESS:0.7> and <LEGAL_FOCUS> to guide the transformation.",
+      "Step 2: Shorten the text by simplifying clauses: 'the question of ... does not arise' becomes 'the issue of ... is irrelevant'.",
+      "Step 3: Remove lengthy subordinate clauses about the interpretation's consistency and how complementarity works, focusing only on the core legal rule being stated."
+    ]
+  },
+  {
+    "input": "For a case to be inadmissible before the Court, national proceedings must encompass both the person and the conduct which is the subject of the case before the Court. It is not sufficient that the domestic investigations are undertaken with respect to the same person; the national proceedings must also substantially encompass the same conduct that forms the basis of the proceedings before the Court.",
+    "output": "For a case to be inadmissible, national proceedings must encompass both the person and the conduct. It is not sufficient that domestic investigations cover the same person; they must also substantially encompass the same conduct.",
+    "technique": "Attention-Based Token Pruning (AI)",
+    "application_steps": [
+      "Step 1: Identify phrases with lower semantic weight that are repeated or can be implied, such as 'before the Court' and 'that forms the basis of the proceedings'.",
+      "Step 2: Prune these less critical tokens and phrases from the sentences.",
+      "Step 3: Simplify 'are undertaken with respect to' to 'cover' to create more direct and concise statements."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber is of the view that the Pre-Trial Chamber did not err in either fact or law when it concluded that Libya had fallen short of substantiating, by means of evidence of a sufficient degree of specificity and probative value, that Libya's investigation covers the same case that is before the Court. The Appeals Chamber also rejected Libya's arguments that the Pre-Trial Chamber had made procedural errors when reaching its decision.",
+    "output": "The Appeals Chamber believes the Pre-Trial Chamber made no mistake when it decided Libya failed to prove its investigation covers the same case. The Appeals Chamber also denied Libya's claims that the Pre-Trial Chamber made procedural mistakes.",
+    "technique": "Embedding-Based Lexical Simplification (AI)",
+    "application_steps": [
+      "Step 1: Identify complex or formal terms: 'is of the view', 'did not err in either fact or law', 'concluded', 'fallen short of substantiating', 'rejected', 'procedural errors'.",
+      "Step 2: Find simpler, context-aware synonyms: 'is of the view' -> 'believes', 'did not err' -> 'made no mistake', 'fallen short of substantiating' -> 'failed to prove', 'rejected' -> 'denied'.",
+      "Step 3: Substitute the simpler words and phrases into the sentence to lower the overall reading difficulty."
+    ]
+  },
+  {
+    "input": "The Chamber is satisfied that the domestic proceedings against Mr. Al-Senussi are being conducted in an independent and impartial manner and that he is not being shielded from criminal responsibility for crimes within the jurisdiction of the Court. The Chamber is also satisfied that Libya is willing and able genuinely to carry out the investigation against Mr. Al-Senussi, and therefore concludes that the case against Mr. Al-Senussi is inadmissible before the Court.",
+    "output": "To achieve the predictable outcome of 'inadmissibility', the Chamber calibrates several variables to TRUE: `proceedings_are_independent`, `proceedings_are_impartial`, `person_is_not_shielded`, `State_is_willing`, and `State_is_able`. With these conditions met, the outcome is fixed.",
+    "technique": "Temperature Control in Mashing (Brewing Science)",
+    "application_steps": [
+      "Step 1: Frame the legal decision as the predictable outcome of a controlled process.",
+      "Step 2: Identify the key variables being 'measured' or 'controlled': the manner of the proceedings (independent, impartial, not shielding) and the status of the state (willing, able).",
+      "Step 3: Rewrite the text to show how confirming these variables meet the required standard ('temperature') leads directly to the final legal 'profile' (inadmissibility)."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber unanimously confirmed an earlier ruling that the case against Al-Senussi was inadmissible before the ICC because the same case is the subject of domestic proceedings being conducted by Libyan authorities, and that Libya is neither unable nor unwilling to genuinely carry out the proceedings against him. The Chamber's decision does not affect the case against Saif Al-Islam Gaddafi.",
+    "output": "To tailor the 'inadmissible' profile for the Al-Senussi case, the following legal components were added: 1) Domestic proceedings cover the same case. 2) Libya is not unable to proceed. 3) Libya is not unwilling to proceed. The resulting profile is: Inadmissible. (Note: This profile does not affect the Gaddafi case).",
+    "technique": "Water Chemistry Adjustment (Brewing Science)",
+    "application_steps": [
+      "Step 1: Analogize the legal findings to 'minerals' or 'additives' that create a specific legal outcome.",
+      "Step 2: Isolate the key findings that support inadmissibility: same case handled domestically, State is able, and State is willing.",
+      "Step 3: Restructure the text to explicitly list these findings as components being added to produce the final 'profile' of inadmissibility, adding the final sentence as a clarifying note."
+    ]
+  },
+  {
+    "input": "The Chamber recalls that for a case to be inadmissible before the Court, national investigations must cover the same individual and substantially the same conduct as alleged in the proceedings before the Court. The Chamber is not satisfied that the same person/same conduct test has been met in the present case, and therefore finds that the case against the three suspects is admissible.",
+    "output": "Core Distillate: The case is admissible. Reason Fraction: The 'same person/same conduct' test was not met. Rule Fraction: For inadmissibility, national investigations must cover the same individual and substantially the same conduct.",
+    "technique": "Fractional Distillation (Distillation)",
+    "application_steps": [
+      "Step 1: Apply the logic of separating a core product from other components.",
+      "Step 2: Identify the main legal conclusion ('The case is admissible') as the pure 'distillate'.",
+      "Step 3: Isolate the reason for the conclusion ('test was not met') and the underlying legal rule as separate 'fractions' that provide context."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber finds that the Pre-Trial Chamber did not err when it determined that, for a case to be inadmissible before the Court, the national investigation must cover the same individual and substantially the same conduct as alleged in the proceedings before the Court. The Appeals Chamber also finds that the Pre-Trial Chamber did not err in law in its interpretation of the admissibility proceedings under article 19 of the Statute.",
+    "output": "AC(finds) → ¬(PTC(error)). Rule(inadmissibility) → requires(same_person ∧ same_conduct). Interpretation(Art19) → ¬(PTC(error)).",
+    "technique": "Algebraic Notation Coordinate System (Chess)",
+    "application_steps": [
+      "Step 1: Map the key entities and findings to concise terms: AC (Appeals Chamber), PTC (Pre-Trial Chamber), ¬(error), Rule, requires, etc.",
+      "Step 2: Represent the relationships using arrows (→ for 'property of' or 'leads to') and logical operators (∧ for 'and').",
+      "Step 3: Arrange the components into a series of short, sequential formulas that capture the different findings of the Appeals Chamber."
+    ]
+  },
+  {
+    "input": "The Chamber concludes that Côte d'Ivoire's domestic authorities were not taking tangible, concrete and progressive steps aimed at ascertaining whether Simone Gbagbo is criminally responsible for the same conduct alleged in the case before the Court. The Chamber therefore rejects Côte d'Ivoire's challenge to the admissibility of the case against Simone Gbagbo.",
+    "output": "10 -> 20 -> 30(40) => 50. (Translation: Côte d'Ivoire's authorities (10) -> were not taking tangible, concrete, progressive steps (20) -> to ascertain criminal responsibility (30) for the same conduct (40) => the Chamber rejects the challenge (50)).",
+    "technique": "ICCF Numeric Notation Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Abstract the key concepts in the logical chain: the actor, the inaction, the purpose of the action, the subject matter, and the result.",
+      "Step 2: Assign a unique two-digit number to each concept: 10, 20, 30, 40, 50.",
+      "Step 3: Represent the logical flow using these numbers and symbols (-> for 'property of' or 'for the purpose of', => for 'therefore'), with a parenthetical translation."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber found no error in the Pre-Trial Chamber's assessment of the conduct underlying the crimes allegedly investigated domestically and concluded that the Pre-Trial Chamber did not apply overly rigorous criteria in determining that no relevant investigations or prosecutions were ongoing at the national level. The Appeals Chamber also noted that Côte d'Ivoire failed to demonstrate that it was unreasonable for the Pre-Trial Chamber to conclude that the factual parameters of the case or cases being investigated domestically were unclear.",
+    "output": "```\n+----------------------------------------------------+\n| Appeals Chamber Findings on Admissibility Appeal   |\n+----------------------------------------------------+\n| PTC Assessment of Conduct:   No Error Found         |\n| PTC Application of Criteria: Not Overly Rigorous   |\n| State's Burden of Proof:     Failed to Demonstrate |\n|   - Detail: Failed to show PTC conclusion on       |\n|             unclear parameters was unreasonable.   |\n+----------------------------------------------------+\n```",
+    "technique": "FEN to ASCII Art Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Interpret the technique as transforming a dense paragraph of legal findings into a structured, visual text diagram.",
+      "Step 2: Extract the key findings of the Appeals Chamber regarding the Pre-Trial Chamber's actions and the State's arguments.",
+      "Step 3: Organize these components into a bordered, grid-like ASCII art table with clear topics and results for human-readable presentation."
+    ]
+  },
+  {
+    "input": "The Chamber considers that the complementarity assessment at this stage of the proceedings serves a different purpose than the determination of the admissibility of a case under article 17 of the Statute. At this stage, the Chamber need not make a ruling on admissibility, which will have to be determined on the basis of the criteria of article 17 once a case emerges.",
+    "output": "Distinction:Assess_vs_Determine -> The complementarity assessment at this stage is different from a final admissibility determination. Status:Not_Required -> The Chamber need not make a final ruling on admissibility now.",
+    "technique": "Move Intent Encoding System (Chess)",
+    "application_steps": [
+      "Step 1: Identify the key points being made: a distinction between two processes and a statement about current requirements.",
+      "Step 2: Create short, strategic purpose tags for each point: `Distinction:Assess_vs_Determine` and `Status:Not_Required`.",
+      "Step 3: Link these tags to concise summaries of each point, encoding the strategic purpose of the Chamber's statements."
+    ]
+  },
+  {
+    "input": "The Chamber considers that it is a condition sine qua non for a case arising from the investigation of a situation to be admissible that national proceedings do not encompass both the person and the conduct which is the subject of the case before the Court. The Chamber observes that the DRC has not initiated any proceedings against Thomas Lubanga Dyilo in relation to his alleged participation in UPC/FPLC activities, and therefore concludes that the case against him is admissible.",
+    "output": "The unification `is_admissible(Case)` is TRUE if `¬exists(national_proceedings(Person, Conduct))`. Given the evidence `¬exists(national_proceedings(DRC, Lubanga))`, the case is unified as admissible.",
+    "technique": "Unification-Based Term Simplification (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Model the core legal test for admissibility as a logical condition requiring the non-existence of national proceedings.",
+      "Step 2: Supply the specific facts of the case (no proceedings by the DRC against Lubanga) as evidence.",
+      "Step 3: Unify the evidence with the rule, which successfully evaluates to TRUE, and state the simplified outcome."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber finds that the Pre-Trial Chamber erred in considering the 'interests of justice' factor in article 53(1)(c) of the Statute in the manner that it did. The Appeals Chamber considers that the Pre-Trial Chamber did not properly assess the interests of justice factor when it considered factors such as changes within the relevant political landscape in Afghanistan and the United States, the complexity and resource constraints of the investigation, and the prospects of securing meaningful cooperation from relevant authorities.",
+    "output": "Rule: find_error(@Chamber, @Reason) where @Chamber is `Pre-Trial Chamber` and @Reason is `improperly_assessing(interests_of_justice)` by considering factors like `political_changes`, `complexity`, and `cooperation_prospects`.",
+    "technique": "Parametric Pattern Transformation (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Define a generic transformation pattern for a finding of error: `find_error(@Chamber, @Reason)`.",
+      "Step 2: Bind the variables to components from the input: `@Chamber` becomes `Pre-Trial Chamber`, and `@Reason` becomes a summary of the improper assessment.",
+      "Step 3: Apply the rule to transform the narrative finding into a structured statement detailing who erred and why."
+    ]
+  },
+  {
+    "input": "The Chamber recalls that the admissibility test comprises two main limbs: the complementarity test and the gravity test. With respect to complementarity, the Chamber must examine whether genuine investigations or prosecutions exist at the national level. With respect to gravity, the Chamber must determine whether the case is of sufficient gravity to justify further action by the Court, taking into account both quantitative and qualitative factors.",
+    "output": "Applying the function `(λcase.is_admissible(case))` reduces to the evaluation of `test(complementarity, case) AND test(gravity, case)`, where `test(complementarity)` examines genuine national proceedings and `test(gravity)` examines sufficient gravity.",
+    "technique": "Beta Reduction (Formal Methods)",
+    "application_steps": [
+      "Step 1: Model the admissibility test as a function application: an 'is_admissible' function applied to a 'case'.",
+      "Step 2: The function application is resolved or 'reduced' to its definition, which is a logical AND of two other tests (complementarity and gravity).",
+      "Step 3: Further define what each of those sub-tests evaluates, based on the input text."
+    ]
+  },
+  {
+    "input": "The Chamber considers that the assessment of a State's willingness and ability genuinely to investigate or prosecute in the context of admissibility proceedings must be made with reference to the national proceedings as they exist at the time of the admissibility challenge. The Chamber must determine whether the domestic proceedings cover the same case as that before the Court, and whether the State is willing and able genuinely to carry out those proceedings.",
+    "output": "The high-level concept 'assessment of willingness and ability' is desugared into its primitive conditions: `(assessment_time = time_of_challenge)` AND `(domestic_proceedings.covers(same_case) = TRUE)` AND `(State.is_willing = TRUE)` AND `(State.is_able = TRUE)`.",
+    "technique": "Desugaring (Formal Methods)",
+    "application_steps": [
+      "Step 1: Identify the high-level concept being defined: the assessment of willingness and ability.",
+      "Step 2: Break this abstract concept down into the more primitive, concrete checks that it consists of.",
+      "Step 3: Rewrite the rule to show that the high-level assessment is syntactic sugar for a logical AND operation on these multiple underlying conditions."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber finds that the Pre-Trial Chamber did not err when it determined that, for a case to be inadmissible before the Court, the national investigation must cover the same individual and substantially the same conduct as alleged in the proceedings before the Court. The Appeals Chamber also finds that the Pre-Trial Chamber did not err in law in its interpretation of the admissibility proceedings under article 19 of the Statute.",
+    "output": "Applying the rule `IF challenge(admissibility) THEN must_cover(same_individual) AND must_cover(substantially_same_conduct)`: The Appeals Chamber confirms this rule was correctly applied by the Pre-Trial Chamber and finds no error in its interpretation of Article 19.",
+    "technique": "Term Rewriting (Algebraic Simplification) (Formal Methods)",
+    "application_steps": [
+      "Step 1: Formulate a rewrite rule based on the core admissibility test described: If admissibility is challenged, then the 'same person/same conduct' test applies.",
+      "Step 2: State the rule clearly.",
+      "Step 3: Add the conclusion from the text, which is that the Appeals Chamber confirmed the correct application of this rule by the lower chamber."
+    ]
+  },
+  {
+    "input": "The Chamber finds that Libya has not demonstrated that its investigation sufficiently covers the same case as that before the Court. Moreover, the Chamber is not satisfied that Libya has the ability genuinely to carry out the investigation or prosecution against Mr. Gaddafi, due to the difficulty in securing a lawyer for the suspect and transferring him to a government-controlled detention facility. The Chamber therefore concludes that the case against Mr. Gaddafi is admissible before the Court.",
+    "output": "Projection from 'Libyan State Actions' to 'ICC Admissibility Map': The projection onto the 'Same Case Coverage' coordinate fails. The projection onto the 'State Ability' coordinate fails (due to lawyer and detention issues). Resulting Position: Admissible.",
+    "technique": "Map Projection Transformation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Treat the ICC's admissibility test as a map with different coordinate systems (e.g., 'Same Case Coverage', 'State Ability').",
+      "Step 2: Frame Libya's actions (or inactions) as data being projected onto this map.",
+      "Step 3: Describe the outcome in terms of projection: the data fails to align with the required coordinates in two different systems, leading to a final position of 'Admissible'."
+    ]
+  },
+  {
+    "input": "The Chamber recalls that a case is inadmissible before the Court when the same case is being investigated by a State which has jurisdiction over it, unless that State is unwilling or unable genuinely to carry out the investigation or prosecution. The Chamber finds that Libya's national system cannot yet be applied in full in areas or aspects relevant to the case, being thus \"unavailable\" within the terms of article 17(3) of the Statute.",
+    "output": "The individual features [1. national system cannot be applied in full in relevant areas] and [2. national system cannot be applied in full in relevant aspects] are aggregated into the single legal unit: 'Unavailable' under Article 17(3).",
+    "technique": "Aggregation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Deconstruct the Chamber's finding about Libya's national system into its distinct components.",
+      "Step 2: List each component of the system's failure as a separate feature.",
+      "Step 3: Combine these distinct features into the single, overarching legal status they define ('Unavailable'), similar to how scattered points are grouped into a named region."
+    ]
+  },
+  {
+    "input": "The Chamber finds that the Government of Kenya has failed to provide sufficient evidence of a nature and quality to demonstrate that it is investigating the three suspects for the crimes alleged against them in the proceedings before the Court. The Chamber therefore concludes that the case against the three suspects is admissible pursuant to article 17(1)(a) of the Statute.",
+    "output": " - **S**cope: Evidence provided by the Government of Kenya.\n - **A**ctivity: Failed to demonstrate investigation of the three suspects for the alleged crimes.\n - **L**egal Basis: Article 17(1)(a).\n - **U**nit: Government of Kenya.\n - **T**ime: N/A.\n - **E**ffect: Case is concluded to be admissible.",
+    "technique": "SALUTE Report Standardization (Military)",
+    "application_steps": [
+      "Step 1: Adapt the SALUTE acronym headings for a legal finding: Size->Scope, Activity->Activity/Finding, Location->Legal Basis, Unit->Unit, Time->Time, Equipment->Effect.",
+      "Step 2: Extract the specific details from the text corresponding to each adapted heading.",
+      "Step 3: Format the extracted information into a structured report, transforming the narrative finding into a standardized summary."
+    ]
+  },
+  {
+    "input": "The Appeals Chamber recalls that the admissibility of a case must be determined on the basis of the facts as they exist at the time of the proceedings concerning the admissibility challenge. The Appeals Chamber finds that the Trial Chamber did not err in its assessment of the Central African Republic's ability and willingness to prosecute the accused, and therefore confirms that the case is admissible before the Court.",
+    "output": "1. **Situation:** An appeal of an admissibility decision.\n2. **Mission:** To determine if the Trial Chamber erred in its assessment.\n3. **Execution:** The Appeals Chamber recalls the rule: admissibility is based on facts at the time of the challenge. It finds no error in the Trial Chamber's assessment of CAR's ability and willingness.\n4. **Sustainment:** N/A.\n5. **Command & Control:** The Appeals Chamber confirms the case is admissible.",
+    "technique": "Operations Order (OPORD) Five-Paragraph Structure (Military)",
+    "application_steps": [
+      "Step 1: Deconstruct the Appeals Chamber's reasoning into components that map to the five OPORD paragraphs.",
+      "Step 2: Assign the context ('appeal of admissibility decision') to Situation and the objective ('determine if TC erred') to Mission.",
+      "Step 3: List the specific rule recalled and the finding under Execution, and state the final decision under Command & Control."
+    ]
+  },
+  {
+    "input": "The Chamber recalls that for a case to be inadmissible before the Court, the national proceedings must encompass both the person and substantially the same conduct as alleged in the proceedings before the Court. The Chamber finds that the domestic proceedings against Simone Gbagbo in Côte d'Ivoire do not sufficiently mirror the charges in the case before the Court, and therefore concludes that the case is admissible.",
+    "output": "1. **Task:** Determine admissibility of the case.\n2. **Step 1: Recall the Rule.** For inadmissibility, national proceedings must cover both the same person and substantially the same conduct.\n3. **Step 2: Apply Rule to Facts.** Do the domestic proceedings against Simone Gbagbo mirror the ICC charges? Finding: No.\n4. **Step 3: Conclude.** The case is admissible.",
+    "technique": "Task Analysis (Pedagogy)",
+    "application_steps": [
+      "Step 1: Treat the complex task of 'determining admissibility' as a process to be analyzed.",
+      "Step 2: Decompose the process into a sequence of smaller, logical steps: recalling the rule, applying the rule to the specific facts, and reaching a conclusion.",
+      "Step 3: Present these steps as a numbered list, clarifying the Chamber's methodical approach."
+    ]
+  }
+] [
+  {
+    "input": "The Prosecution submits that Libya has not demonstrated that it is investigating the same case as that before the Court. The evidence presented by Libya does not establish that its national investigation covers the same conduct that forms the basis of the case before the Court, namely Saif Al-Islam Gaddafi's individual criminal responsibility for the crimes against humanity of murder and persecution. Moreover, Libya has not demonstrated that it is able genuinely to carry out the investigation or prosecution.",
+    "output": "The Prosecution submits that S has not demonstrated it is investigating the same case as that before the ICC. The evidence from S does not establish its national investigation covers the same conduct, namely Saif Al-Islam Gaddafi's responsibility for murder and persecution. Moreover, S has not demonstrated it is able genuinely to carry out the investigation or prosecution.",
+    "technique": "Variable Renaming - Alpha Conversion (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify recurring proper nouns and entities: 'Libya', 'the Court'.",
+      "Step 2: Assign shorter, unambiguous variables: 'S' for the State (Libya) and 'ICC' for the Court.",
+      "Step 3: Replace all instances of the original terms with their new variable names to create a more concise and abstract version of the statement."
+    ]
+  },
+  {
+    "input": "The Defense submits that the case against Mr. Katanga is inadmissible before the Court because the Democratic Republic of the Congo (DRC) was investigating the same case prior to the referral to the ICC. The DRC's decision to refer the case to the ICC was not based on unwillingness or inability to prosecute, but rather on a policy choice to have the case tried before the ICC, which is not a ground for admissibility under Article 17 of the Statute.",
+    "output": "To prove the contrapositive: If the case against Mr. Katanga is admissible before the Court, then the DRC was not investigating the same case prior to the referral, OR the referral was based on unwillingness or inability.",
+    "technique": "Proof by Contraposition (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify the original implication (P → Q): IF the DRC was investigating the same case AND the referral was a policy choice (P), THEN the case is inadmissible (Q).",
+      "Step 2: Formulate the contrapositive (¬Q → ¬P) by negating both propositions and reversing their order.",
+      "Step 3: State the new, logically equivalent implication, noting that the negation of 'P1 AND P2' is '¬P1 OR ¬P2'."
+    ]
+  },
+  {
+    "input": "The Government of Libya respectfully submits that the case against Saif Al-Islam Gaddafi is inadmissible before the Court because Libya is actively investigating Mr. Gaddafi for substantially the same conduct that is the subject of the proceedings before the Court. Libya is neither unwilling nor unable genuinely to carry out the investigation or prosecution, and therefore requests that the Court declare the case inadmissible in accordance with Articles 17 and 19 of the Statute.",
+    "output": "Simplified Rule: `is_investigating(Libya, Gaddafi, same_conduct)` AND `¬is_unwilling(Libya)` AND `¬is_unable(Libya)` => `is_inadmissible(Case, Art17, Art19)`.",
+    "technique": "Algebraic Simplification (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Abstract the core conditions of the submission into algebraic or code-like terms.",
+      "Step 2: Combine the conditions using logical AND operators (`AND`, `¬` for 'not').",
+      "Step 3: Simplify the complex sentence into a concise logical expression where the conditions lead to (`=>`) the conclusion of inadmissibility."
+    ]
+  },
+  {
+    "input": "The Prosecution acknowledges that Libya has provided sufficient evidence to demonstrate that it is investigating the same case as that before the Court with respect to Abdullah Al-Senussi. Based on the information provided, the Prosecution does not oppose Libya's admissibility challenge, provided that Libya continues to demonstrate its willingness and ability genuinely to carry out the investigation and prosecution.",
+    "output": "The logic is refactored into a function:\n- `assessAdmissibilityChallenge(State, Person)`.\n- IF `State.providesSufficientEvidence('investigating same case') == true`, THEN `Prosecution.doesNotOpposeChallenge()` with the condition `State.continuesToDemonstrate('willingness and ability')`.",
+    "technique": "Extract Method - Code Refactoring (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the core logic as a distinct process: the Prosecution's assessment of an admissibility challenge.",
+      "Step 2: 'Extract' this logic into a function with clear inputs (`State`, `Person`).",
+      "Step 3: Define the function's behavior with a primary conditional check and a secondary condition attached to the outcome, clarifying the procedural flow."
+    ]
+  },
+  {
+    "input": "The Defense submits that Libya is unable genuinely to carry out the investigation or prosecution against Mr. Al-Senussi due to the ongoing security situation in the country and the lack of effective control over detention facilities. Moreover, Libya cannot guarantee Mr. Al-Senussi's fair trial rights, including the right to legal representation and the right not to be subjected to torture or other forms of ill-treatment. The Defense therefore requests that the Court declare the case admissible.",
+    "output": "Defense: Libya unable to genuinely investigate/prosecute due to security situation & lack of control over detention. Libya can't guarantee fair trial rights (legal rep, no torture). Request: declare case admissible.",
+    "technique": "Code Minification - Code Compression (Software Engineering)",
+    "application_steps": [
+      "Step 1: Remove introductory phrases like 'The Defense submits that'.",
+      "Step 2: Abbreviate longer words and use symbols: 'and' becomes '&', 'representation' becomes 'rep'.",
+      "Step 3: Condense clauses and list reasons succinctly to reduce character count while preserving the core arguments and the final request."
+    ]
+  },
+  {
+    "input": "The Government of Kenya submits that it is actively investigating the post-election violence that occurred in 2007-2008, including the conduct of the suspects named in the proceedings before the Court. Kenya has established a comprehensive reform agenda, including constitutional and judicial reforms, which will enable it to investigate and prosecute all cases related to the post-election violence. Kenya therefore requests that the Court declare the cases inadmissible pursuant to Article 17 of the Statute.",
+    "output": "The `AdmissibilityChallengeAdapter` allows the `KenyaClient` to work with the `ICCSystem`. The adapter packages evidence (`is_investigating_violence`, `has_reform_agenda`) to translate the current state into a `requestInadmissibility()` call on the ICC target interface.",
+    "technique": "Adapter Pattern - Design Pattern (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the client (Kenya), the target interface (ICC admissibility system), and the adaptee (Kenya's domestic actions).",
+      "Step 2: Frame the admissibility challenge itself as the 'Adapter' that translates the state of the domestic actions into a compatible request for the ICC.",
+      "Step 3: Describe how this adapter packages the evidence of domestic action to make a specific call ('requestInadmissibility') on the target system."
+    ]
+  },
+  {
+    "input": "The Prosecution submits that Côte d'Ivoire has not demonstrated that it is investigating the same case as that before the Court. The domestic proceedings against Simone Gbagbo relate to economic crimes and crimes against the state, not the crimes against humanity of murder, rape, other inhumane acts, and persecution that form the basis of the case before the Court.",
+    "output": "The Prosecution submits its argument. Côte d'Ivoire has not shown it is investigating the same case. The domestic proceedings concern economic crimes. They do not concern crimes against humanity. Crimes against humanity form the basis of the Court's case.",
+    "technique": "Short Sentence Construction (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the distinct ideas in the complex text: the main submission, the reason, the nature of domestic proceedings, and the nature of the ICC case.",
+      "Step 2: Break the text down into these separate single-idea units.",
+      "Step 3: Reconstruct the information as a series of short, simple sentences, each expressing one core idea to improve readability."
+    ]
+  },
+  {
+    "input": "The Defense submits that the case against Mr. Bemba is inadmissible before the Court because the Central African Republic (CAR) has already investigated and decided not to prosecute him for the same conduct. The CAR's decision not to prosecute was not based on unwillingness or inability, but rather on a legitimate determination that there was insufficient evidence to proceed with the case. The Defense therefore requests that the Court declare the case inadmissible.",
+    "output": "The Defense submits its argument. The case against Mr. Bemba is inadmissible. The CAR already investigated him for the same conduct. The CAR decided not to prosecute based on insufficient evidence. This was not due to unwillingness or inability. Therefore, the Defense requests the Court declare the case inadmissible.",
+    "technique": "Subject-Verb-Object Proximity (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the core subject-verb-object units in the defense's argument.",
+      "Step 2: Break the single complex passage into multiple shorter sentences.",
+      "Step 3: Restructure the new sentences to ensure the subject, verb, and object of each core idea are placed closely together, improving clarity and logical flow."
+    ]
+  },
+  {
+    "input": "The Government of Côte d'Ivoire submits that it is actively investigating and prosecuting Simone Gbagbo for the crimes committed during the post-election crisis of 2010-2011. Côte d'Ivoire has the willingness and ability genuinely to carry out these proceedings, and therefore requests that the Court declare the case inadmissible in accordance with the principle of complementarity enshrined in the Rome Statute.",
+    "output": "The Government of Côte d'Ivoire makes a submission. It is actively investigating and prosecuting Simone Gbagbo for crimes from the 2010-2011 post-election crisis. Côte d'Ivoire has the willingness and ability to conduct these proceedings. Therefore, it requests the Court to declare the case inadmissible.",
+    "technique": "Working Memory Support (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the different logical steps in the submission: the statement of action, the statement of capacity, and the resulting request.",
+      "Step 2: Separate the input into several distinct sentences, each presenting a single piece of new information.",
+      "Step 3: Present the information sequentially, allowing the reader to process each fact before being introduced to the next, which reduces cognitive load."
+    ]
+  },
+  {
+    "input": "The Prosecution submits that there are reasonable grounds to believe that Saif Al-Islam Gaddafi and Abdullah Al-Senussi bear criminal responsibility for the crimes against humanity of murder and persecution committed in Libya from 15 February 2011 until at least 28 February 2011. The Prosecution is not aware of any domestic proceedings in Libya relating to the case proposed in this Application, and therefore submits that the cases would be admissible under Article 17(1)(a) of the Statute.",
+    "output": "The Prosecution submits reasonable grounds exist to believe Gaddafi and Al-Senussi bear responsibility for crimes against humanity in Libya. Unaware of any related domestic proceedings in Libya, the Prosecution submits the cases would be admissible under Article 17(1)(a).",
+    "technique": "Subordinate Clause Reduction (Surgical Real)",
+    "application_steps": [
+      "Step 1: Condense the first clause by removing 'that there are' and 'to believe that'.",
+      "Step 2: Identify the subordinate clause 'The Prosecution is not aware of any domestic proceedings...'.",
+      "Step 3: Transform this clause into a participial phrase ('Unaware of any...') to integrate it more concisely into the main statement, removing the need for a separate sentence."
+    ]
+  },
+  {
+    "input": "The Defense does not oppose Kenya's admissibility challenge, provided that Kenya demonstrates that it is genuinely investigating the same case as that before the Court. However, the Defense submits that Kenya has not provided sufficient evidence to establish that it is investigating Mr. Ruto for the same conduct that forms the basis of the case before the Court. The Defense therefore requests that the Court reject Kenya's admissibility challenge.",
+    "output": "<COMPRESS:0.7> <LEXICAL:SIMPLE> The Defense does not oppose Kenya's challenge if Kenya proves it is investigating the same case. However, the Defense argues Kenya has not provided enough proof of this. Therefore, the Defense asks the Court to reject the challenge.",
+    "technique": "Controllable Generation with Control Tokens (AI)",
+    "application_steps": [
+      "Step 1: Prepend control tokens <COMPRESS:0.7> and <LEXICAL:SIMPLE> to guide the transformation.",
+      "Step 2: Shorten the text by simplifying clauses and removing legalistic phrasing like 'forms the basis of the case before the Court'.",
+      "Step 3: Replace complex phrasing like 'provided that Kenya demonstrates' and 'sufficient evidence to establish' with simpler equivalents like 'if Kenya proves' and 'enough proof'."
+    ]
+  },
+  {
+    "input": "The Government of the Democratic Republic of the Congo hereby refers the situation of crimes within the jurisdiction of the Court committed anywhere in the territory of the DRC since the entry into force of the Rome Statute. The DRC authorities are unable genuinely to investigate and prosecute these crimes due to the ongoing armed conflict and the limited capacity of the national judicial system. The DRC therefore requests the Prosecutor to investigate the situation with a view to determining whether one or more specific persons should be charged with the commission of such crimes.",
+    "output": "The Government of the DRC refers the situation of crimes within the Court's jurisdiction in its territory to the Prosecutor. DRC authorities are unable to investigate and prosecute these crimes due to ongoing conflict and limited judicial capacity. The DRC requests the Prosecutor to investigate the situation.",
+    "technique": "Attention-Based Token Pruning (AI)",
+    "application_steps": [
+      "Step 1: Identify and prune formal but less critical tokens like 'hereby' and 'pursuant to Article 14 of the Rome Statute'.",
+      "Step 2: Prune the lengthy, explanatory final clause 'with a view to determining whether one or more specific persons should be charged...' as it describes the standard purpose of any such investigation.",
+      "Step 3: Condense the remaining sentences to create a more direct and concise summary of the referral."
+    ]
+  },
+  {
+    "input": "The principle of complementarity, which is set out in paragraph 10 of the preamble and in Articles 1 and 17 of the Rome Statute, governs the exercise of the Court's jurisdiction. The principle of complementarity is based on respect for the primary jurisdiction of States and operates on the presumption that genuine national investigations and prosecutions, where possible, are the most effective means of bringing offenders to justice. The Court is intended to supplement, not supplant, national jurisdictions.",
+    "output": "The idea of complementarity controls how the Court uses its power. This idea is based on respecting the main power of States. It assumes that real national investigations are the best way to bring criminals to justice. The Court is meant to add to, not replace, national courts.",
+    "technique": "Embedding-Based Lexical Simplification (AI)",
+    "application_steps": [
+      "Step 1: Identify complex or formal terms: 'principle', 'governs the exercise', 'jurisdiction', 'operates on the presumption', 'supplement, not supplant'.",
+      "Step 2: Find simpler, context-aware synonyms: 'principle' -> 'idea', 'governs the exercise' -> 'controls how... uses', 'jurisdiction' -> 'power', 'operates on the presumption' -> 'it assumes', 'supplement, not supplant' -> 'add to, not replace'.",
+      "Step 3: Substitute the simpler words and phrases into the sentences to lower the overall reading difficulty."
+    ]
+  },
+  {
+    "input": "The principle of complementarity does not affect the existence of jurisdiction of the Court as such, but regulates when this jurisdiction may be exercised by the Court. Article 17 thus functions as a barrier to the exercise of jurisdiction. The Rules of Procedure and Evidence of the ICC recognize this by providing that the Court shall rule on any challenge to its jurisdiction first before dealing with admissibility.",
+    "output": "To achieve the outcome of 'blocking the exercise of jurisdiction', the `Article17` variable is calibrated to act as a barrier. The system's rules are set to process this barrier (jurisdiction challenge) before dealing with admissibility, ensuring the barrier's effect is considered first.",
+    "technique": "Temperature Control in Mashing (Brewing Science)",
+    "application_steps": [
+      "Step 1: Frame the legal mechanism as a process designed to achieve a predictable outcome (blocking jurisdiction under certain conditions).",
+      "Step 2: Identify 'Article 17' as the key variable being 'controlled' or 'calibrated' to function as this barrier.",
+      "Step 3: Rewrite the text to show how the system's rules ensure this variable is checked at the correct time to produce its intended effect on the process."
+    ]
+  },
+  {
+    "input": "The principle of complementarity represents a delicate balance between respect for national sovereignty and the need to ensure the effective prosecution of international crimes. Unlike the ad hoc tribunals for the former Yugoslavia and Rwanda, which were based on the principle of primacy over national courts, the ICC is founded on the principle that States have the primary responsibility to investigate and prosecute international crimes, with the Court intervening only when States fail to fulfill this responsibility.",
+    "output": "To tailor the ICC's 'Complementarity' profile (as opposed to 'Primacy'), the following components were added: 1) Respect for national sovereignty. 2) Need for effective prosecution. 3) The principle that States have primary responsibility. 4) ICC intervention only when States fail. The resulting profile is a delicate balance.",
+    "technique": "Water Chemistry Adjustment (Brewing Science)",
+    "application_steps": [
+      "Step 1: Analogize the principles underlying complementarity to 'minerals' or 'additives' that create a specific legal profile.",
+      "Step 2: Isolate the key principles: respect for sovereignty, need for prosecution, state's primary responsibility, and conditional ICC intervention.",
+      "Step 3: Restructure the text to explicitly list these principles as components being added to produce the final 'profile' of complementarity."
+    ]
+  },
+  {
+    "input": "The principle of complementarity serves multiple functions in the Rome Statute system: it acts as a mechanism to determine the forum of jurisdiction, a means to manage the relationship between the Court and domestic jurisdictions, and a catalyst for domestic proceedings. The principle is not static but dynamic, evolving through the Court's jurisprudence and the practice of States Parties in implementing their obligations under the Statute.",
+    "output": "Core Distillate: The Principle of Complementarity. Function Fraction 1: A mechanism to determine jurisdiction. Function Fraction 2: A means to manage relationships. Function Fraction 3: A catalyst for domestic proceedings. Property Fraction: The principle is dynamic, not static.",
+    "technique": "Fractional Distillation (Distillation)",
+    "application_steps": [
+      "Step 1: Apply the logic of separating a core concept from its various functions and properties.",
+      "Step 2: Identify the 'Principle of Complementarity' as the core 'distillate'.",
+      "Step 3: Isolate its three distinct functions and its dynamic property as separate 'fractions' that describe the core concept."
+    ]
+  },
+  {
+    "input": "The 'same person/same conduct' test developed by the Court for determining whether a State is investigating or prosecuting the 'same case' as that before the Court has been criticized for setting too high a threshold for States to meet. This test requires that the national proceedings encompass both the same person and substantially the same conduct as that which forms the basis of the proceedings before the Court, which may be difficult for States with limited resources or different legal systems to satisfy.",
+    "output": "Test(Same_Person/Same_Conduct) → Criticism(Sets_High_Threshold). Reason(High_Threshold) → Difficulty(State(Limited_Resources) ∨ State(Different_Legal_Systems)).",
+    "technique": "Algebraic Notation Coordinate System (Chess)",
+    "application_steps": [
+      "Step 1: Map the key concepts to concise terms: Test, Criticism, Reason, Difficulty, State, Limited_Resources, Different_Legal_Systems.",
+      "Step 2: Represent the relationships using arrows (→ for 'leads to') and logical operators (∨ for 'or').",
+      "Step 3: Arrange the components into two short, sequential formulas that capture the criticism and the reason for it."
+    ]
+  },
+  {
+    "input": "Article 17 of the Rome Statute does not explicitly require that national proceedings comply with international standards of due process. The unwillingness criteria in Article 17(2) focus on proceedings designed to shield the accused or that are inconsistent with an intent to bring the person to justice, not on proceedings that violate the accused's rights. This creates a potential \"shadow side\" of complementarity, where the Court may defer to national proceedings that do not respect the accused's fair trial rights.",
+    "output": "10->20. 30->40. =>50. (Translation: Article 17 -> does not explicitly require due process (10->20). The unwillingness criteria -> focuses on shielding/intent, not rights violations (30->40). => This creates a potential 'shadow side' (50)).",
+    "technique": "ICCF Numeric Notation Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Abstract the key concepts in the logical chain: Article 17's requirement, the focus of the unwillingness criteria, and the resulting potential problem.",
+      "Step 2: Assign a unique number to each concept part: 10, 20, 30, 40, 50.",
+      "Step 3: Represent the logical flow using these numbers and symbols (-> for 'property of' or 'leads to', => for 'therefore'), with a parenthetical translation."
+    ]
+  },
+  {
+    "input": "The complementarity regime in the Rome Statute is often misunderstood as requiring the Court to defer to national proceedings unless they are shown to be \"sham\" proceedings. In fact, the Statute establishes a more nuanced test: a case is admissible before the Court unless a State with jurisdiction is genuinely investigating or prosecuting the same case. The burden of proof for establishing inadmissibility rests with the party challenging admissibility, not with the Prosecutor.",
+    "output": "```\n+----------------------------------------------------+\n| Complementarity: Myth vs. Reality                  |\n+----------------------------------------------------+\n| MYTH:                                              |\n|   - ICC defers unless proceedings are \"sham\".      |\n+----------------------------------------------------+\n| REALITY:                                           |\n|   - Case is admissible UNLESS a State is           |\n|     genuinely investigating the same case.         |\n|   - Burden of proof is on the challenger.          |\n+----------------------------------------------------+\n```",
+    "technique": "FEN to ASCII Art Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Interpret the technique as transforming a comparative argument into a structured, visual text diagram.",
+      "Step 2: Extract the key components: the common misunderstanding (Myth) and the factual correction (Reality), including the point about the burden of proof.",
+      "Step 3: Organize these components into a bordered, grid-like ASCII art table with clear 'MYTH' and 'REALITY' sections for comparison."
+    ]
+  },
+  {
+    "input": "The principle of complementarity in the Rome Statute represents a pragmatic compromise between state sovereignty and international criminal jurisdiction. It acknowledges that States have the primary responsibility to investigate and prosecute international crimes, while ensuring that the ICC can intervene when States fail to fulfill this responsibility. This compromise was essential to securing the widespread acceptance of the Rome Statute by States concerned about potential encroachments on their sovereignty.",
+    "output": "Define:Pragmatic_Compromise -> Complementarity is a pragmatic compromise. Balance:State_Sovereignty↔️Intl_Jurisdiction. Purpose:Secure_Widespread_Acceptance. Mechanism:States(Primary_Responsibility) + ICC(Intervenes_on_Failure).",
+    "technique": "Move Intent Encoding System (Chess)",
+    "application_steps": [
+      "Step 1: Identify the key components of the description: the definition, the elements it balances, its purpose, and its mechanism.",
+      "Step 2: Create short, strategic purpose tags for each component: `Define`, `Balance`, `Purpose`, `Mechanism`.",
+      "Step 3: Link these tags to concise summaries of each part of the description, encoding the strategic intent and structure of the concept."
+    ]
+  }
+] [
+  {
+    "input": "The principle of complementarity can be understood as serving both sovereignty-affirming and sovereignty-limiting functions. On one hand, it affirms the primacy of national jurisdictions and respects States' sovereign right to exercise criminal jurisdiction. On the other hand, it limits sovereignty by establishing international standards against which national proceedings will be judged and by allowing the ICC to intervene when these standards are not met.",
+    "output": "The PC can be understood as serving both SA and SL functions. On one hand, it affirms the primacy of national jurisdictions and respects States' sovereign right to exercise criminal jurisdiction. On the other hand, it limits sovereignty by establishing international standards against which national proceedings will be judged and by allowing the ICC to intervene when these standards are not met.",
+    "technique": "Variable Renaming - Alpha Conversion (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify recurring or lengthy phrases: 'principle of complementarity', 'sovereignty-affirming', 'sovereignty-limiting'.",
+      "Step 2: Assign shorter, unambiguous variables: 'PC', 'SA', and 'SL'.",
+      "Step 3: Replace the first instance of the main term with its variable to demonstrate the technique, creating a more concise reference point."
+    ]
+  },
+  {
+    "input": "The complementarity regime of the ICC may pose challenges for States implementing transitional justice mechanisms, such as truth commissions or amnesty programs, in the aftermath of conflict or authoritarian rule. Article 17 of the Rome Statute focuses on criminal investigations and prosecutions, and it is unclear whether alternative accountability mechanisms would satisfy the complementarity test. This tension highlights the need for a more nuanced understanding of complementarity that takes into account the diverse ways in which States may seek to address past atrocities.",
+    "output": "To prove the contrapositive: If alternative accountability mechanisms (like truth commissions) would satisfy the complementarity test, then the complementarity regime would not pose challenges for States implementing them.",
+    "technique": "Proof by Contraposition (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify the original implication (P → Q): IF a State implements transitional justice mechanisms (P), THEN the complementarity regime may pose challenges (Q).",
+      "Step 2: Formulate the contrapositive (¬Q → ¬P) by negating both propositions and reversing their logical order.",
+      "Step 3: State the new, logically equivalent implication based on the contrapositive structure."
+    ]
+  },
+  {
+    "input": "The 'inability' criterion in Article 17(3) of the Rome Statute requires a 'total or substantial collapse or unavailability' of the national judicial system. This high threshold suggests that mere deficiencies in a State's judicial system, such as lack of resources or expertise, would not necessarily render a case admissible before the Court. The inability assessment must be made on a case-by-case basis, taking into account the specific circumstances of the State and the case in question.",
+    "output": "Simplified Rule: `Inability(Art17(3)) <=> (total_collapse OR substantial_collapse OR unavailability)_of_system`. A consequence is `¬(mere_deficiencies => Inability)`.",
+    "technique": "Algebraic Simplification (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Abstract the core definition of 'inability' into an algebraic equivalence.",
+      "Step 2: Express the high threshold as a negative consequence: that mere deficiencies do not necessarily lead to (`=>`) a finding of inability.",
+      "Step 3: Combine these two points into a concise summary of the rule and its high threshold."
+    ]
+  },
+  {
+    "input": "The principle of ne bis in idem, as embodied in Article 20 of the Rome Statute, is closely linked to the principle of complementarity. While complementarity determines which forum has priority to exercise jurisdiction in the first instance, ne bis in idem addresses the question of subsequent proceedings after a person has already been tried. Article 20(3) allows the ICC to try a person who has already been tried by another court if the proceedings were for the purpose of shielding the person from criminal responsibility or were not conducted independently or impartially.",
+    "output": "The logic is refactored into two methods:\n- `determineInitialJurisdiction(case)` returns a forum based on `complementarity`.\n- `determineSubsequentJurisdiction(case)` returns a forum based on `ne_bis_in_idem`, which checks for sham proceedings per Article 20(3).",
+    "technique": "Extract Method - Code Refactoring (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the two distinct temporal and legal processes described: determining initial jurisdiction and determining subsequent jurisdiction.",
+      "Step 2: 'Extract' each process into its own separate method with a clear name.",
+      "Step 3: Define the core principle that each method uses for its determination, clarifying the distinct roles of complementarity and ne bis in idem."
+    ]
+  },
+  {
+    "input": "The preliminary phase of proceedings at the ICC, particularly the admissibility assessment under Articles 17-19, plays a crucial role in mediating the relationship between national and international criminal justice. This phase involves a complex interplay of legal, political, and practical considerations, as the Court must balance respect for national sovereignty with the need to ensure accountability for international crimes. The Court's decisions during this phase have significant implications for the development of both international criminal law and national legal systems.",
+    "output": "ICC prelim phase (admissibility, Art 17-19) mediates nat'l/int'l justice relationship. Phase involves complex legal/political/practical factors. Decisions impact int'l & nat'l law development.",
+    "technique": "Code Minification - Code Compression (Software Engineering)",
+    "application_steps": [
+      "Step 1: Abbreviate recurring terms: 'preliminary' becomes 'prelim', 'national' becomes 'nat'l', 'international' becomes 'int'l'.",
+      "Step 2: Remove non-essential words like 'particularly', 'of proceedings', 'as the Court must balance...'.",
+      "Step 3: Condense clauses and use symbols ('/') to reduce character count while preserving the key concepts of the text."
+    ]
+  },
+  {
+    "input": "The concept of a 'case' is central to the admissibility assessment under Article 17 of the Rome Statute, yet the Statute does not define this term. The Court's jurisprudence has developed the 'same person/same conduct' test to determine whether a national proceeding concerns the 'same case' as that before the Court. This test requires a high degree of similarity between the national and international proceedings, which may limit the effectiveness of the complementarity regime in encouraging national prosecutions.",
+    "output": "The `AdmissibilityAdapter` requires a `Case` object. Since the `Statute` does not define `Case`, the `JurisprudenceCaseAdapter` was created. It translates a `NationalProceeding` object into a `Case` object by applying the 'same person/same conduct' test to determine if the proceeding is a compatible type.",
+    "technique": "Adapter Pattern - Design Pattern (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the client (Admissibility assessment), the required interface (`Case` object), and the adaptee (`NationalProceeding` object).",
+      "Step 2: Frame the 'same person/same conduct' test as an 'Adapter' that converts one type of object (a national proceeding) into the type required by the system (a 'Case').",
+      "Step 3: Describe how this adapter solves the problem of the Statute not defining a 'Case' by creating a functional definition through a test."
+    ]
+  },
+  {
+    "input": "The practice of 'positive complementarity', whereby the ICC actively encourages and assists States in conducting genuine national proceedings, represents an evolution in the understanding of the complementarity principle. This approach recognizes that the ICC's success should not be measured solely by the number of cases it prosecutes, but also by its contribution to strengthening national justice systems and catalyzing domestic proceedings for international crimes.",
+    "output": "Positive complementarity is an evolution of the principle. The ICC actively encourages and assists States. This helps them conduct genuine national proceedings. This approach recognizes a new measure of ICC success. Success is not just measured by its own prosecutions. It is also measured by its contribution to strengthening national systems.",
+    "technique": "Short Sentence Construction (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the distinct ideas in the complex text: the definition, the action, the recognition of a new success metric, and the components of that metric.",
+      "Step 2: Break the text down into these separate single-idea units.",
+      "Step 3: Reconstruct the information as a series of short, simple sentences, each expressing one core idea to improve readability."
+    ]
+  },
+  {
+    "input": "The effective implementation of the complementarity principle requires not only legal reforms at the national level, but also practical measures to strengthen States' capacity to investigate and prosecute international crimes. Many States Parties to the Rome Statute lack the necessary resources, expertise, or political will to conduct such proceedings. The ICC and the international community should therefore focus on capacity-building initiatives that enable States to fulfill their primary responsibility under the complementarity regime.",
+    "output": "Effective implementation requires practical measures. These measures strengthen States' capacity to investigate and prosecute crimes. Many States lack the needed resources or political will. The ICC and the international community should therefore focus on capacity-building. This enables States to fulfill their primary responsibility.",
+    "technique": "Subject-Verb-Object Proximity (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the core subject-verb-object units in the text's argument.",
+      "Step 2: Break the single complex passage into multiple shorter sentences.",
+      "Step 3: Restructure the new sentences to ensure the subject, verb, and object of each core idea ('implementation requires measures', 'measures strengthen capacity', 'States lack resources') are placed closely together for clarity."
+    ]
+  }
+] [
+  {
+    "input": "Unwillingness, as defined in Article 17(2), considers whether national proceedings were undertaken to shield the person from ICC jurisdiction, or if there has been an unjustified delay inconsistent with an intent to bring the person to justice, or if proceedings were not conducted independently or impartially. This is described as a subjective criterion, pertaining to a State’s intentions, and is thus challenging to prove.",
+    "output": "Void",
+    "technique": "Redundant Phrase Elimination (Legal)",
+    "application_steps": [
+      "Step 1: Identified repetitive legal phrases such as 'unjustified delay inconsistent with an intent to bring the person to justice'.",
+      "Step 2: Consolidated the phrase to a single term 'void' to eliminate redundancy.",
+      "Step 3: Ensured the output retains the core legal implication of invalidity."
+    ]
+  },
+  {
+    "input": "Inability, as defined in Article 17(3), considers whether, due to a total or substantial collapse or unavailability of the national judicial system, the State cannot obtain the accused, necessary evidence and testimony, or otherwise carry out its proceedings. This criterion reflects an objective assessment of the State's factual capacity to handle the case.",
+    "output": "The State cannot handle the case due to a collapsed judicial system.",
+    "technique": "Active Voice Conversion (Legal)",
+    "application_steps": [
+      "Step 1: Identified passive construction 'the State cannot obtain the accused, necessary evidence and testimony'.",
+      "Step 2: Converted to active voice by emphasizing the State's inability as the actor.",
+      "Step 3: Simplified the clause to directly state the outcome of the collapsed system."
+    ]
+  },
+  {
+    "input": "The term 'genuinely' qualifies both 'unwilling' and 'unable' in Article 17(1)(a) and (b), signifying that the assessment goes beyond mere appearances and requires an evaluation of the bona fides of the national proceedings. A 'genuine' investigation or prosecution implies a real commitment by the state to bring perpetrators to justice.",
+    "output": "Evaluate the state's commitment to prosecute.",
+    "technique": "Nominalization Reversal (Legal)",
+    "application_steps": [
+      "Step 1: Identified nominalizations like 'evaluation of the bona fides' and 'commitment'.",
+      "Step 2: Converted nouns to verbs, changing 'evaluation' to 'evaluate' and 'commitment' to 'commit'.",
+      "Step 3: Simplified the sentence to focus on the action of evaluating the state's prosecution efforts."
+    ]
+  },
+  {
+    "input": "Beyond the admissibility criteria in Article 17, Article 53 provides the ICC Prosecutor with a distinct ground for potentially halting proceedings: the 'interests of justice'. Even if a situation falls within the Court's jurisdiction and a potential case appears admissible, the Prosecutor may decline to investigate or prosecute if doing so would not serve these interests.",
+    "output": "Define 'Justice Interests' as the Prosecutor's basis for halting proceedings. If a case is admissible, the Prosecutor may stop Justice Interests if they are not served.",
+    "technique": "Strategic Term Definition and Compression (Legal)",
+    "application_steps": [
+      "Step 1: Identified repetitive phrase 'interests of justice'.",
+      "Step 2: Defined it as 'Justice Interests' for brevity.",
+      "Step 3: Replaced subsequent references with the defined term and condensed the sentence."
+    ]
+  },
+  {
+    "input": "A significant debate exists regarding whether the 'interests of justice' assessment can legitimately encompass broader considerations, particularly those related to peace and security. The OTP's 2007 policy paper acknowledged this debate and suggested a willingness to consider 'various national and international efforts to achieve peace and security' as a factor, while historically exercising caution in explicitly invoking Article 53 based on peace considerations.",
+    "output": "Debate exist. Interests justice assessment encompass peace security. OTP 2007 paper suggest consider national international efforts achieve peace security. Caution invoke Article 53 peace.",
+    "technique": "Function Word Omission (Child Language)",
+    "application_steps": [
+      "Step 1: Removed articles like 'a' and 'the'.",
+      "Step 2: Omitted auxiliary verbs such as 'can' and 'to'.",
+      "Step 3: Stripped prepositions and conjunctions like 'of' and 'and' to mimic telegraphic speech."
+    ]
+  },
+  {
+    "input": "The ICC does not automatically deem a case inadmissible simply because a peace process is underway; rather, it scrutinizes the concrete impact of that process on the likelihood of genuine national accountability proceedings for the specific case before it. Early-stage negotiations or agreements with uncertain implementation prospects are unlikely to meet the Article 17 threshold for inadmissibility.",
+    "output": "ICC scrutinizes peace process impact on accountability proceedings.",
+    "technique": "Core Argument Structure Preservation (Child Language)",
+    "application_steps": [
+      "Step 1: Identified main agent (ICC), action (scrutinizes), and patient (peace process impact).",
+      "Step 2: Removed modifiers and subordinate clauses like 'simply because' and 'early-stage negotiations'.",
+      "Step 3: Preserved core semantic components in a simplified structure."
+    ]
+  },
+  {
+    "input": "Conversely, a well-established and functioning mechanism born from a peace process, demonstrably undertaking genuine proceedings relevant to potential ICC cases, can lead to a finding of inadmissibility. The closure of Colombia’s preliminary examination in 2021 reflected confidence in its Special Jurisdiction for Peace (JEP) and other national mechanisms as genuine national efforts.",
+    "output": "Peace process mechanism undertakes genuine proceedings. Colombia’s examination closed. Special Jurisdiction for Peace genuine.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Broke complex sentence into three single-proposition sentences.",
+      "Step 2: Separated clauses about mechanism, Colombia’s examination, and JEP.",
+      "Step 3: Simplified each segment to convey one idea clearly."
+    ]
+  },
+  {
+    "input": "While Article 17 focuses on the status and genuineness of national judicial proceedings, broader concerns about peace and stability often form an unavoidable backdrop to ICC interventions. Although stability is not an explicit legal criterion for admissibility, such factors can implicitly influence OTP strategic decision-making.",
+    "output": "Article 17 focus status genuineness judicial proceedings. Peace stability concerns backdrop ICC interventions. Stability not legal criterion. Factors influence OTP decision-making.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Split the input into four distinct sentences based on propositions.",
+      "Step 2: Separated clauses about Article 17, peace concerns, stability criterion, and OTP influence.",
+      "Step 3: Ensured each sentence conveys a single idea for clarity."
+    ]
+  },
+  {
+    "input": "The concept of 'positive complementarity' represents a shift from viewing complementarity primarily as a jurisdictional test to actively encouraging, supporting, and assisting national jurisdictions. This approach involves the ICC system working to enable states to fulfill their primary responsibility to investigate and prosecute Rome Statute crimes domestically.",
+    "output": "Positive complementarity shifted to encouraging jurisdictions. ICC system enabled states to investigated and prosecuted crimes.",
+    "technique": "Rule Generalization (Adapted Over-regularization) (Child Language)",
+    "application_steps": [
+      "Step 1: Applied regular past tense '-ed' to irregular verbs 'shift' and 'enable'.",
+      "Step 2: Generalized 'investigate' and 'prosecute' to past tense 'investigated' and 'prosecuted'.",
+      "Step 3: Simplified sentence structure to reflect over-regularized grammar."
+    ]
+  },
+  {
+    "input": "The OTP's 2024 Policy on Complementarity and Cooperation formally consolidates this approach, framing the ICC not as an 'apex' court but as a 'hub' within a network of accountability efforts. The policy emphasizes partnership with states, civil society, and regional organizations, aiming to bring justice closer to affected communities.",
+    "output": "OTP's 2024 Policy consolidated approach. OTP's 2024 Policy framed ICC as hub. OTP's 2024 Policy emphasized partnership. OTP's 2024 Policy aimed to bring justice.",
+    "technique": "Explicit Subject Repetition (Child Language)",
+    "application_steps": [
+      "Step 1: Replaced pronouns with full noun phrase 'OTP's 2024 Policy'.",
+      "Step 2: Repeated the subject in each segmented sentence to avoid ambiguity.",
+      "Step 3: Broke the input into four sentences for clarity."
+    ]
+  },
+  {
+    "input": "A significant challenge within the complementarity assessment is whether transitional justice mechanisms (TJMs) other than formal criminal prosecution, such as truth commissions or traditional justice rituals, can qualify as the type of national 'activity' that would render a case inadmissible under Article 17(1)(a) or (b). Scholarly opinion on this matter is divided, with some arguing for a narrow interpretation requiring criminal justice investigations.",
+    "output": "The challenge is whether TJMs qualify as national activity under Article 17. TJMs include truth commissions and justice rituals. Scholars argue for criminal investigations.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Divided the complex sentence into three simpler sentences.",
+      "Step 2: Separated the challenge, TJM definition, and scholarly opinion into distinct propositions.",
+      "Step 3: Simplified wording to focus on core ideas."
+    ]
+  },
+  {
+    "input": "Blanket amnesties, particularly those granted by perpetrators to themselves or those that unconditionally absolve individuals of responsibility for genocide, crimes against humanity, or war crimes, are generally viewed as incompatible with the international legal obligation to combat impunity. Such measures could be interpreted as evidence of 'unwillingness' under Article 17.",
+    "output": "Blanket amnesties absolve perpetrators of genocide and war crimes. Amnesties show unwillingness under Article 17.",
+    "technique": "Core Argument Structure Preservation (Child Language)",
+    "application_steps": [
+      "Step 1: Identified main agent (amnesties), action (absolve), and patient (perpetrators).",
+      "Step 2: Stripped modifiers like 'particularly those granted by perpetrators to themselves'.",
+      "Step 3: Retained core relationship and added second sentence for unwillingness."
+    ]
+  },
+  {
+    "input": "The ICC's approach in the Colombian situation suggests a significant degree of flexibility regarding sentencing outcomes within the complementarity assessment. It demonstrates a willingness to accept nationally-designed, context-specific justice solutions emerging from peace agreements, provided the underlying process meets the threshold of 'genuineness' in its intent and execution.",
+    "output": "ICC's approach in Colombia showed flexibility in sentencing. ICC accepted national justice solutions from peace agreements. Process met genuineness threshold.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Split the input into three single-proposition sentences.",
+      "Step 2: Separated flexibility, acceptance of solutions, and genuineness threshold.",
+      "Step 3: Simplified each segment for clarity and brevity."
+    ]
+  },
+  {
+    "input": "UN Security Council (UNSC) referrals under Article 13(b) of the Rome Statute, made pursuant to Chapter VII of the UN Charter, represent a powerful trigger for ICC jurisdiction, allowing the Court to investigate situations in states that are not parties. This mechanism effectively bypasses the need for the referred state's consent and can preempt potential admissibility challenges, particularly when the government is clearly unwilling to prosecute.",
+    "output": "UNSC referrals under Article 13(b) triggered ICC jurisdiction. Referrals bypassed state consent. Referrals preempted admissibility challenges.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Divided the complex sentence into three simpler sentences.",
+      "Step 2: Separated jurisdiction trigger, consent bypass, and admissibility preemption.",
+      "Step 3: Simplified wording to focus on core actions."
+    ]
+  },
+  {
+    "input": "The International Criminal Court (ICC) operates as a court of last resort, intervening only when national courts are unwilling or unable to prosecute serious crimes like genocide, war crimes, and crimes against humanity. This principle, known as complementarity, is outlined in Article 17 of the Rome Statute.",
+    "output": "ICC intervenes when national courts fail to prosecute serious crimes. Complementarity is outlined in Article 17.",
+    "technique": "Core Argument Structure Preservation (Child Language)",
+    "application_steps": [
+      "Step 1: Identified main agent (ICC), action (intervenes), and condition (courts fail).",
+      "Step 2: Removed modifiers like 'court of last resort' and specific crime lists.",
+      "Step 3: Added second sentence to preserve complementarity reference."
+    ]
+  },
+  {
+    "input": "Article 17 of the Rome Statute operationalizes the complementarity principle, setting out the specific conditions under which a case may be deemed inadmissible before the ICC. The core of Article 17 lies in its deference to genuine national proceedings, prioritizing the primary right and responsibility of states to investigate and prosecute the most serious crimes of international concern.",
+    "output": "Article 17 set conditions for case inadmissibility. Article 17 deferred to genuine national proceedings. States investigated serious crimes.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Split the input into three single-proposition sentences.",
+      "Step 2: Separated conditions, deference, and state responsibility.",
+      "Step 3: Simplified each segment to convey one idea clearly."
+    ]
+  },
+  {
+    "input": "A case is inadmissible if a state with jurisdiction is actively investigating or prosecuting it (Article 17(1)(a)), or if the state has investigated and decided not to prosecute (Article 17(1)(b)), or if the person has already been tried for the same conduct (Article 17(1)(c)). However, the ICC may still proceed if the state is found to be 'unwilling or unable genuinely' to carry out the investigation or prosecution. This 'unwilling or unable genuinely' test is the mechanism through which the ICC ensures that complementarity does not become a shield for impunity.",
+    "output": "Case inadmissible if state investigated. Case inadmissible if state decided not prosecute. Case inadmissible if person tried. ICC proceeded if state unwilling unable genuinely.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Broke complex sentence into four single-proposition sentences.",
+      "Step 2: Separated each inadmissibility condition and ICC proceeding condition.",
+      "Step 3: Simplified wording to focus on core ideas."
+    ]
+  },
+  {
+    "input": "The very structure of the complementarity principle reflects an inherent tension, emerging as a compromise between delegations advocating for a court with strong jurisdiction to combat impunity and those prioritizing the protection of state sovereignty. This underlying tension inevitably shapes how the criteria for admissibility, particularly the assessment of 'unwillingness' and 'inability,' are interpreted and applied.",
+    "output": "Complementarity reflected tension. Tension shaped unwillingness inability assessment.",
+    "technique": "Core Argument Structure Preservation (Child Language)",
+    "application_steps": [
+      "Step 1: Identified main agent (complementarity), action (reflected), and patient (tension).",
+      "Step 2: Stripped modifiers like 'inherent' and delegate details.",
+      "Step 3: Added second sentence to preserve tension's impact on assessment."
+    ]
+  },
+  {
+    "input": "The ICC's mandate, as derived from the Rome Statute, is primarily focused on ending impunity for the perpetrators of the most serious crimes and contributing to the prevention of such crimes. The ICC primarily delivers retributive justice focused on individual criminal responsibility and punishment, which differs substantially from other transitional justice mechanisms.",
+    "output": "ICC's mandate ended impunity for serious crimes. ICC delivered retributive justice.",
+    "technique": "Core Argument Structure Preservation (Child Language)",
+    "application_steps": [
+      "Step 1: Identified main agent (ICC), action (ended), and patient (impunity).",
+      "Step 2: Removed modifiers like 'most serious' and transitional justice comparison.",
+      "Step 3: Added second sentence to preserve justice delivery focus."
+    ]
+  },
+  {
+    "input": "ICC jurisprudence has established that for national proceedings to preclude ICC admissibility, the state must demonstrate 'tangible, concrete and progressive' investigative or prosecutorial steps regarding the specific case. The 'case' is defined by the specific individual and substantially the same conduct alleged in the ICC proceedings.",
+    "output": "State demonstrated tangible steps to preclude ICC admissibility. State investigated specific individual and conduct.",
+    "technique": "Sentence Segmentation (Child Language)",
+    "application_steps": [
+      "Step 1: Split the input into two single-proposition sentences.",
+      "Step 2: Separated demonstration of steps and case definition.",
+      "Step 3: Simplified wording to focus on core actions."
+    ]
+  }
+[
+  {
+    "input": "“The Chamber rejects Libya’s request for postponement and orders the State to surrender the suspect without delay. Article 94 cannot be invoked against a pending surrender request under article 89.”",
+    "output": "<COMPRESS:0.6> <LEXICAL:SIMPLE> The Chamber denies Libya's delay request and orders the State to surrender the suspect now. Article 94 does not apply to a surrender request under article 89.",
+    "technique": "Controllable Generation with Control Tokens (AI)",
+    "application_steps": [
+      "Step 1: Prepend control tokens <COMPRESS:0.6> and <LEXICAL:SIMPLE> to guide the transformation.",
+      "Step 2: Shorten the text by simplifying clauses: 'rejects Libya's request for postponement' becomes 'denies Libya's delay request'.",
+      "Step 3: Replace complex legal phrasing like 'cannot be invoked against' with the simpler 'does not apply to' for lexical simplicity."
+    ]
+  },
+  {
+    "input": "“Afghanistan notifies the Court of ongoing national investigations and proceedings and requests that the Prosecutor defer to its jurisdiction in accordance with article 18. The Government undertakes to provide regular updates on investigative steps.”",
+    "output": "Afghanistan notifies the Court of ongoing national investigations and requests the Prosecutor defer to its jurisdiction. The Government will provide regular updates on investigative steps.",
+    "technique": "Attention-Based Token Pruning (AI)",
+    "application_steps": [
+      "Step 1: Identify phrases with lower semantic weight or that are redundant, such as 'and proceedings' and 'in accordance with article 18'.",
+      "Step 2: Prune these less critical tokens from the sentence.",
+      "Step 3: Rephrase 'undertakes to provide' as the more direct 'will provide' to create a more concise statement."
+    ]
+  },
+  {
+    "input": "“The Prosecutor informs the Chamber that a deferral request has been received from the Government of Afghanistan concerning national proceedings. The Office is assessing the information provided to determine whether deferral is warranted under the complementarity regime.”",
+    "output": "The Prosecutor tells the Chamber a delay request was received from Afghanistan about its national cases. The Office is reviewing the information to see if a delay is justified.",
+    "technique": "Embedding-Based Lexical Simplification (AI)",
+    "application_steps": [
+      "Step 1: Identify complex or formal terms: 'informs', 'deferral request', 'received', 'concerning national proceedings', 'assessing', 'warranted'.",
+      "Step 2: Find simpler, context-aware synonyms: 'informs' -> 'tells', 'deferral request' -> 'delay request', 'concerning national proceedings' -> 'about its national cases', 'assessing' -> 'reviewing', 'warranted' -> 'justified'.",
+      "Step 3: Substitute the simpler words and phrases into the sentence to lower the overall reading difficulty."
+    ]
+  },
+  {
+    "input": "“Victims submit that the deferral request lacks specificity and fails to demonstrate concrete investigative activity. They seek clarification of scope and insist that the Court retain jurisdiction given the absence of effective domestic remedies.”",
+    "output": "To achieve the predictable outcome of 'Court retains jurisdiction', the Victims' Representatives calibrate the 'specificity' and 'concrete activity' variables of the deferral request to be below the required threshold. The absence of effective domestic remedies fixes the outcome.",
+    "technique": "Temperature Control in Mashing (Brewing Science)",
+    "application_steps": [
+      "Step 1: Frame the legal argument as an attempt to control key variables to achieve a desired, predictable outcome (retained jurisdiction).",
+      "Step 2: Identify the variables being 'controlled': the 'specificity' of the request and the demonstration of 'concrete investigative activity'.",
+      "Step 3: Rewrite the sentence to show how finding these variables do not meet the standard, combined with another fixed condition ('absence of effective domestic remedies'), produces the desired legal 'profile'."
+    ]
+  },
+  {
+    "input": "“The Libyan authorities request that the Chamber temporarily suspend the obligation to surrender Mr Gaddafi pending resolution of the admissibility challenge. They contend that article 95 allows postponement while national courts are seized of the matter.”",
+    "output": "To tailor the 'postponement' profile, the following legal components were added: 1) A pending admissibility challenge. 2) A contention that Article 95 allows postponement. The resulting profile is: A request to temporarily suspend the surrender obligation.",
+    "technique": "Water Chemistry Adjustment (Brewing Science)",
+    "application_steps": [
+      "Step 1: Analogize the legal arguments to 'minerals' or 'additives' that determine the final legal request.",
+      "Step 2: Isolate the two key arguments: the pending admissibility challenge and the contention regarding Article 95.",
+      "Step 3: Restructure the text to explicitly list these arguments as components being added to produce the final 'profile' of the request."
+    ]
+  },
+  {
+    "input": "“The Defence argues that article 95 cannot be invoked for a hypothetical challenge; its scope is limited to periods when an admissibility application is actually before the Court. The request therefore lacks merit and should be dismissed.”",
+    "output": "Core Distillate: The request lacks merit and should be dismissed. Impurity Removed (Reason): Article 95's scope is limited to actual, not hypothetical, challenges. It cannot be invoked in this instance.",
+    "technique": "Fractional Distillation (Distillation)",
+    "application_steps": [
+      "Step 1: Apply the logic of separating a core product from other components.",
+      "Step 2: Identify the main legal conclusion ('The request lacks merit and should be dismissed') as the pure 'distillate'.",
+      "Step 3: Isolate the legal reasoning ('Article 95 cannot be invoked for a hypothetical challenge') as the 'impurity' or 'fraction' that was analyzed to reach the conclusion."
+    ]
+  },
+  {
+    "input": "“Phase 3 of a preliminary examination focuses on the admissibility of potential cases in terms of complementarity and gravity. The Office collects information on relevant national proceedings and encourages genuine domestic action to obviate the need for the Court’s intervention.”",
+    "output": "PE(Phase3) → Focus(Admissibility(Complementarity, Gravity)). Action(Collect_Info) ∧ Action(Encourage_Domestic). Goal(Obviate_Intervention).",
+    "technique": "Algebraic Notation Coordinate System (Chess)",
+    "application_steps": [
+      "Step 1: Map the key concepts to concise terms: PE (Preliminary Examination), Focus, Admissibility, Complementarity, Gravity, Action, etc.",
+      "Step 2: Represent the relationships using arrows (→ for 'focuses on' or 'leads to') and logical operators (∧ for 'and').",
+      "Step 3: Arrange the components into a series of short, sequential formulas that capture the structure of the process."
+    ]
+  },
+  {
+    "input": "“The delegation met Mr Gaddafi in Zintan to ensure he was informed of his rights and representation. The visit confirmed that national authorities intended to continue domestic proceedings while the admissibility challenge was pending.”",
+    "output": "10(20) -> 30 => 40. (Translation: Delegation met Gaddafi (10) in Zintan (20) -> to inform him of rights (30) => it was confirmed national authorities intend to continue domestic proceedings (40)).",
+    "technique": "ICCF Numeric Notation Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Abstract the key events and purposes: Delegation met Gaddafi, in Zintan, to inform of rights, confirmed national intent.",
+      "Step 2: Assign a unique two-digit number to each concept: 10, 20, 30, 40.",
+      "Step 3: Represent the logical flow using these numbers and symbols (-> for 'for the purpose of', => for 'which resulted in confirming'), with a parenthetical translation."
+    ]
+  },
+  {
+    "input": "“Georgia reports investigative steps in the ‘Ethnic Cleansing Case’, noting that prosecutors have interviewed 7 000 witnesses and reviewed extensive documentary evidence. Further progress reports will follow as required by the Prosecutor.”",
+    "output": "```\n+----------------------------------------------------+\n| Georgia: Report on 'Ethnic Cleansing Case'         |\n+----------------------------------------------------+\n| Investigative Steps Taken:                         |\n|   - Witnesses Interviewed: 7,000                   |\n|   - Documentary Evidence: Extensive Review         |\n+----------------------------------------------------+\n| Future Action: Further progress reports will follow.|\n+----------------------------------------------------+\n```",
+    "technique": "FEN to ASCII Art Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Interpret the technique as transforming a narrative report into a structured, visual text diagram.",
+      "Step 2: Extract the key components: the case name, the specific steps taken (interviews, evidence review), and the future action.",
+      "Step 3: Organize these components into a bordered, grid-like ASCII art table for clear, human-readable presentation."
+    ]
+  },
+  {
+    "input": "“The first step of the complementarity test is to identify a conflict of jurisdictions concerning the same case. Where no relevant domestic proceedings exist, the Office will consider the case admissible and may proceed to request investigative powers.”",
+    "output": "Step1:ID_CONFLICT -> Identify a conflict of jurisdictions. Condition:¬(Domestic_Proceedings) -> Where no domestic proceedings exist, the case is considered admissible. Action:REQ_POWERS -> The Office may then request investigative powers.",
+    "technique": "Move Intent Encoding System (Chess)",
+    "application_steps": [
+      "Step 1: Identify the key steps and conditions in the process.",
+      "Step 2: Create short, strategic purpose tags for each part: `ID_CONFLICT`, `¬(Domestic_Proceedings)` for the condition, and `REQ_POWERS` for the subsequent action.",
+      "Step 3: Link these tags to concise summaries of each part of the process, encoding the strategic intent and logical flow."
+    ]
+  },
+  {
+    "input": "The Majority found that the Philippines, as the State seeking deferral and asserting that it conducts the relevant investigations or prosecutions, bears the burden of proof. The Chamber held that the Philippines failed to show instances in which the Pre-Trial Chamber applied an incorrect admissibility threshold or standard.",
+    "output": "The unification `State_seeking_deferral` with `bears_burden_of_proof` is found to be TRUE. The unification `Philippines_submission` with `shows_PTC_error` is found to be FALSE.",
+    "technique": "Unification-Based Term Simplification (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Model the core legal findings as logical unifications.",
+      "Step 2: The first finding unifies the concept of a state seeking deferral with the concept of bearing the burden of proof.",
+      "Step 3: The second finding attempts to unify the state's submission with the requirement to show error, which fails. The output expresses these two logical outcomes."
+    ]
+  },
+  {
+    "input": "On 18 November 2021, the ICC Prosecutor informed the Chamber that the Republic of the Philippines had requested, pursuant to Article 18(2), that the investigation be deferred. On 26 January 2023, Pre-Trial Chamber I granted the Prosecutor’s request to resume investigations, concluding that the Philippines was not undertaking relevant investigations that would warrant deferral.",
+    "output": "Event(2021-11-18, Philippines_requests_deferral) → Event(2023-01-26, PTC_grants_resumption) where condition(`¬(Philippines_undertaking_relevant_investigations)`) is true.",
+    "technique": "Parametric Pattern Transformation (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Define a generic transformation pattern for a sequence of events: `Event(@Date1, @Action1) → Event(@Date2, @Action2)`.",
+      "Step 2: Bind the variables to the specific dates and actions from the input text.",
+      "Step 3: Apply the rule to transform the narrative paragraph into a structured timeline, adding the key condition that led to the second event."
+    ]
+  },
+  {
+    "input": "The Prosecution seeks an expedited order under Article 18(2) authorising the resumption of its investigation in the Situation in Afghanistan, in light of the significant change of material circumstances which became manifest in August 2021. It submits that domestic proceedings cannot satisfy the requirements of Articles 17 and 18.",
+    "output": "Applying the function `(λSituation.request_resumption(Situation))` to the argument `(Afghanistan)` reduces to TRUE, because the evaluation of the situation's basis revealed a `significant_change_of_material_circumstances`.",
+    "technique": "Beta Reduction (Formal Methods)",
+    "application_steps": [
+      "Step 1: Model the Prosecution's action as a function application: a 'request_resumption' function applied to a 'Situation'.",
+      "Step 2: Identify the argument: 'Afghanistan'.",
+      "Step 3: The function application is resolved or 'reduced' to a required outcome (an expedited order) based on the reason provided ('significant change of material circumstances')."
+    ]
+  },
+  {
+    "input": "On 16 April 2020, the Prosecution informed the Chamber that the Government of Afghanistan had requested deferral and supplied voluminous supporting material. The Taliban’s assumption of de facto control on 15 August 2021 fundamentally altered the factual landscape relevant to admissibility.",
+    "output": "The high-level phrase 'fundamentally altered the factual landscape' is desugared into its primitive components: `(Govt_requested_deferral_on(Date1))` AND `(Taliban_assumed_control_on(Date2))`. The conjunction of these two events creates the alteration.",
+    "technique": "Desugaring (Formal Methods)",
+    "application_steps": [
+      "Step 1: Identify the high-level description of the change.",
+      "Step 2: Break this abstract concept down into the two primitive, concrete events that caused it: the initial deferral request and the subsequent assumption of control.",
+      "Step 3: Rewrite the sentence to show that the high-level phrase is syntactic sugar for the logical AND of these two pivotal events."
+    ]
+  },
+  {
+    "input": "The Prosecution therefore asks that the Pre-Trial Chamber promptly authorise the investigation’s resumption, notwithstanding the deferral request, because the domestic proceedings invoked by Afghanistan cannot be shown to be genuine within the meaning of Article 17.",
+    "output": "Applying the rule `IF ¬can_be_shown_to_be_genuine(Domestic_Proceedings) THEN authorize_resumption(Investigation)`: Because the domestic proceedings invoked by Afghanistan cannot be shown to be genuine, the Prosecution asks the PTC to authorize the resumption of the investigation.",
+    "technique": "Term Rewriting (Algebraic Simplification) (Formal Methods)",
+    "application_steps": [
+      "Step 1: Formulate a rewrite rule based on the text's logic: If domestic proceedings cannot be shown to be genuine, then authorize resumption.",
+      "Step 2: Match the input sentence's premise ('the domestic proceedings... cannot be shown to be genuine') to the IF condition of the rule.",
+      "Step 3: Rewrite the sentence by applying the THEN part of the rule, transforming the request into a direct cause-and-effect statement."
+    ]
+  },
+  {
+    "input": "On 11 December 2020, Prosecutor Fatou Bensouda announced the completion of the preliminary examination, having concluded that there was a reasonable basis to believe that war crimes and crimes against humanity were committed.",
+    "output": "Projection from 'OTP Preliminary Examination' to 'Reasonable Basis Map': The data points from the examination, when projected, landed on the map coordinates for 'war crimes' and 'crimes against humanity'. This successful projection resulted in the announcement of the examination's completion.",
+    "technique": "Map Projection Transformation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Treat the 'Reasonable Basis' test as a target map or coordinate system.",
+      "Step 2: Frame the findings of the preliminary examination as data points being projected onto this map.",
+      "Step 3: Describe the outcome in terms of projection: the data landed on the required coordinates, confirming a reasonable basis and allowing the process to move to the next stage."
+    ]
+  },
+  {
+    "input": "Subsequent engagements reminded Nigerian authorities of their legal obligations under the Rome Statute and stressed that the Office will move forward with investigations if genuine national efforts do not bridge existing impunity gaps.",
+    "output": "The individual features [1. reminders of legal obligations] and [2. stress that the Office will investigate if impunity gaps are not bridged] are aggregated into the single strategic unit: 'Encouragement of Genuine National Efforts'.",
+    "technique": "Aggregation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Deconstruct the OTP's engagement strategy into its distinct components.",
+      "Step 2: List each of these components as a separate feature, analogous to individual geographic points.",
+      "Step 3: Combine these distinct features into a single, overarching concept that describes the strategy's purpose, similar to how scattered points are grouped into a named region."
+    ]
+  },
+  {
+    "input": "The Office requested the Venezuelan authorities to provide information on the nature, scope and progress of domestic proceedings corresponding to its subject-matter findings. On 30 November 2020, Venezuela supplied an initial response with four large annexes of national case data.",
+    "output": " - **S**ize: Four large annexes of data.\n - **A**ctivity: Venezuela supplied an initial response.\n - **L**egal Basis: OTP request for information.\n - **U**nit: Venezuelan authorities.\n - **T**ime: 30 November 2020.\n - **E**quipment/Content: National case data on nature, scope, and progress of domestic proceedings.",
+    "technique": "SALUTE Report Standardization (Military)",
+    "application_steps": [
+      "Step 1: Adapt the SALUTE acronym headings for a legal information exchange: Size->Size, Activity->Activity, Location->Legal Basis, Unit->Unit, Time->Time, Equipment->Equipment/Content.",
+      "Step 2: Extract the specific details from the text corresponding to each adapted heading.",
+      "Step 3: Format the extracted information into a structured report, transforming the narrative into a standardized summary of the exchange."
+    ]
+  },
+  {
+    "input": "Throughout the period, the Office engaged with Venezuelan authorities and other stakeholders to address admissibility issues, taking note of the UN Fact-Finding Mission’s report of 15 September 2020 and additional critiques of domestic accountability.",
+    "output": "1. **Situation:** Ongoing admissibility issues in the Venezuela situation.\n2. **Mission:** To address admissibility issues.\n3. **Execution:** The Office engaged with Venezuelan authorities and stakeholders. It took note of the UN FFM report and other critiques of domestic accountability.\n4. **Sustainment:** N/A.\n5. **Command & Control:** The process of addressing admissibility is ongoing through engagement and information gathering.",
+    "technique": "Operations Order (OPORD) Five-Paragraph Structure (Military)",
+    "application_steps": [
+      "Step 1: Deconstruct the Office's actions into components that map to the five OPORD paragraphs.",
+      "Step 2: Assign the context ('admissibility issues') to Situation and the objective ('To address admissibility issues') to Mission.",
+      "Step 3: List the specific actions ('engaged with authorities', 'taking note of reports') under Execution, and summarize the overall status under Command & Control."
+    ]
+  },
+  {
+    "input": "Phase 3 focuses on the admissibility of potential cases in terms of complementarity and gravity. In this phase, the Office will also continue to collect information on subject-matter jurisdiction whenever new or expanded allegations arise.",
+    "output": "1. **Primary Task:** Assess admissibility of potential cases.\n   - **Sub-task 1a:** Assess complementarity.\n   - **Sub-task 1b:** Assess gravity.\n2. **Contingent Task:** Continue to collect information on subject-matter jurisdiction.\n   - **Trigger:** When new or expanded allegations arise.",
+    "technique": "Task Analysis (Pedagogy)",
+    "application_steps": [
+      "Step 1: Treat 'Phase 3 of a preliminary examination' as a complex task to be analyzed.",
+      "Step 2: Decompose the phase into its primary task (assessing admissibility) and its contingent task (collecting info).",
+      "Step 3: Further break down the primary task into its two sub-tasks (complementarity and gravity) and specify the trigger for the contingent task, creating a clear procedural outline."
+    ]
+  }
+] [
+  {
+    "input": "No person who has been tried by a national court for acts constituting serious international crimes shall be tried by the ICTY with respect to the same acts, unless the national proceedings were not impartial or independent, were designed to shield the accused from international criminal responsibility, or the case was not diligently prosecuted.",
+    "output": "The unification `is_trial_permissible(ICTY)` evaluates to TRUE if `tried(NationalCourt)` AND (`¬is_impartial(NC_proceeding)` OR `is_shielding(NC_proceeding)` OR `¬is_diligent(NC_proceeding)`). Otherwise, it evaluates to FALSE.",
+    "technique": "Unification-Based Term Simplification (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Model the core legal test as a logical condition for when an ICTY trial is permissible.",
+      "Step 2: Define the required premises for this condition: a person has been tried by a national court, AND one of the three exceptions for sham proceedings is met.",
+      "Step 3: Simplify the original text by expressing it as a logical unification of these formal conditions, making the rule concise and declarative."
+    ]
+  },
+  {
+    "input": "“Impunity would persist unchecked and thousands of victims would be denied justice.” This striking warning by the Appeals Chamber underlined the danger of an overly restrictive complementarity regime. The Court stressed that the Statute must not be interpreted to allow a scenario where, despite a State’s total inaction against grave crimes, the ICC’s hands are tied – as that would frustrate the core purpose of the Rome Statute.",
+    "output": "Rule: interpret_statute(@Regime) → must_not_allow(@Scenario) where @Scenario is `(State_Inaction AND ICC_Hands_Tied)` because this would lead to the consequence `Impunity_persists AND Victims_denied_justice`.",
+    "technique": "Parametric Pattern Transformation (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Define a generic transformation pattern for a legal interpretation rule: `interpret_statute(@X) → must_not_allow(@Y)`.",
+      "Step 2: Bind the variables to components from the input: `@Regime` becomes complementarity, `@Scenario` becomes the situation of state inaction leading to ICC inaction.",
+      "Step 3: Apply the rule to transform the narrative warning into a structured statement of a forbidden scenario and its unacceptable consequence."
+    ]
+  },
+  {
+    "input": "The World Court held that Senegal breached its duty by failing to prosecute or extradite former Chadian President Hissène Habré. It unequivocally declared that Senegal must, without further delay, submit the Habré case to its competent authorities for the purpose of prosecution, if it does not extradite him.",
+    "output": "Applying the function `(λState.must_act(State, Person))` to the arguments `(Senegal, Habré)` reduces to TRUE, requiring the execution of `prosecute(Habré) OR extradite(Habré)` without delay.",
+    "technique": "Beta Reduction (Formal Methods)",
+    "application_steps": [
+      "Step 1: Model the court's holding as a function application: a 'must_act' function applied to a 'State' and a 'Person'.",
+      "Step 2: Identify the arguments: 'Senegal' and 'Habré'.",
+      "Step 3: The function application is resolved or 'reduced' to a required outcome, which is a logical OR of two specific actions (prosecute or extradite)."
+    ]
+  },
+  {
+    "input": "The Chamber, in issuing warrants for Sudanese suspects, noted the total absence of national proceedings against them. It found no evidence that Sudan was investigating or prosecuting Ahmad Harun or Ali Kushayb for the massive crimes in Darfur. Accordingly, the case was admissible: the suspects were not being genuinely pursued by national courts, and the gravity of the alleged crimes (large-scale persecution and murder of civilians) warranted the ICC’s intervention.",
+    "output": "The high-level term 'admissible' is desugared into its primitive conditions: `(absence_of_national_proceedings = TRUE)` AND `(gravity_of_crimes >= threshold) = TRUE`. Because these conditions are met, the case is admissible.",
+    "technique": "Desugaring (Formal Methods)",
+    "application_steps": [
+      "Step 1: Identify the high-level outcome: 'admissible'.",
+      "Step 2: Break this abstract concept down into the more primitive, concrete reasons mentioned: 'total absence of national proceedings' and 'gravity of the alleged crimes'.",
+      "Step 3: Rewrite the conclusion to show that the high-level term is syntactic sugar for a logical AND operation on these two primitive conditions being met."
+    ]
+  },
+  {
+    "input": "The Pre-Trial Chamber rejected Libya’s admissibility challenge for Mr. Gaddafi’s case. It concluded that, despite Libya’s efforts, Libya was “genuinely unable to carry out” the proceedings against Saif Gaddafi. The decision cited Libya’s inability to secure the transfer of the accused from militia custody, the lack of full control over detention facilities, difficulties in obtaining necessary testimony, and other practical impediments in the national justice system. These factors amounted to an “unavailability” of the national judicial system to prosecute Gaddafi, satisfying Article 17(3) and keeping the case admissible before the ICC.",
+    "output": "Applying the rule `IF unable_to_secure_transfer(Accused) AND ¬full_control(Detention) AND difficulty_getting(Testimony) THEN State_is_Unable(Article 17(3))`: Because these conditions were met for Libya regarding Gaddafi, the PTC concluded Libya was 'genuinely unable', rendering the case admissible.",
+    "technique": "Term Rewriting (Algebraic Simplification) (Formal Methods)",
+    "application_steps": [
+      "Step 1: Formulate a rewrite rule based on the text's logic: If a set of practical impediments exists, then the State is deemed unable.",
+      "Step 2: Match the input sentence's premises (inability to secure transfer, lack of control, etc.) to the IF conditions of the rule.",
+      "Step 3: Rewrite the sentence by applying the THEN part of the rule, transforming the narrative into a direct cause-and-effect statement."
+    ]
+  },
+  {
+    "input": "Pre-Trial Chamber I declared the case against Abdullah Al-Senussi inadmissible, finding that national proceedings in Libya covered the same allegations. It acknowledged challenges – such as Al-Senussi initially lacking legal representation and security concerns in Libya – but was satisfied that Libya was not unwilling and not unable to carry out the prosecution. The Chamber noted that Libyan authorities were conducting proceedings and had made genuine attempts to address fair trial issues. Therefore, complementarity was upheld: Libya’s active, bona fide prosecution of Al-Senussi meant the ICC had to defer to the national jurisdiction.",
+    "output": "Projection from 'Libyan State Actions' to 'ICC Complementarity Map': The submitted data points (conducting proceedings, attempting to address fair trial issues) are projected onto the map. Despite negative indicators (lack of representation, security concerns), the final coordinates land in the 'NOT Unwilling / NOT Unable' quadrant, thus satisfying complementarity and barring ICC jurisdiction.",
+    "technique": "Map Projection Transformation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Treat the ICC's complementarity test as a map with four quadrants (e.g., Willing/Able, Unwilling/Able, etc.).",
+      "Step 2: Frame Libya's actions as a set of data points being projected onto this map.",
+      "Step 3: Describe the outcome in terms of projection: despite some negative data points, the overall projection landed in the 'Not Unwilling / Not Unable' area, leading to a finding of inadmissibility."
+    ]
+  },
+  {
+    "input": "In authorizing the proprio motu investigation into Kenya’s post-election violence, Pre-Trial Chamber II observed that no persons had been prosecuted in Kenya for the orchestrated killings and crimes against humanity of 2007–2008. Domestic attempts to establish accountability had stalled. The Chamber held that the gravity threshold was met by the scale and brutality of the violence, and that there were no national proceedings underway against those most responsible. Accordingly, on complementarity grounds, the ICC investigation was justified and necessary to fill the impunity gap.",
+    "output": "The individual features [1. no prosecutions for orchestrated killings], [2. stalled domestic accountability attempts], [3. gravity threshold met], and [4. no national proceedings against those most responsible] are aggregated into the single legal unit: 'ICC investigation is justified and necessary'.",
+    "technique": "Aggregation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Deconstruct the Chamber's reasoning into its smallest distinct findings.",
+      "Step 2: List each of these findings as a separate feature, analogous to individual geographic points.",
+      "Step 3: Combine these distinct features into the single, overarching conclusion they support ('ICC investigation is justified'), similar to how scattered points are grouped into a named region."
+    ]
+  },
+  {
+    "input": "The Chamber issued warrants against top LRA commanders, noting that the Ugandan authorities were not in a position to apprehend or prosecute these individuals. Joseph Kony and others remained fugitives from domestic justice, and the gravity of the LRA’s crimes (widespread murder, enslavement, child conscription) was unquestioned. The Chamber found the cases admissible, since no national proceedings were being conducted and Uganda had, in fact, referred the situation to the ICC in light of its inability to capture the leaders.",
+    "output": " - **S**ize: Top LRA commanders (Kony et al.).\n - **A**ctivity: Fugitives from domestic justice.\n - **L**ocation: Outside the State's ability to apprehend.\n - **U**nit: Lord's Resistance Army (LRA).\n - **T**ime: 2005.\n - **E**quipment/Crimes: Widespread murder, enslavement, child conscription.",
+    "technique": "SALUTE Report Standardization (Military)",
+    "application_steps": [
+      "Step 1: Adapt the SALUTE acronym headings for a legal context: Size->Size of group, Activity->Activity/Status, Location->Location/Jurisdictional issue, Unit->Unit, Time->Time, Equipment->Equipment/Crimes.",
+      "Step 2: Extract specific details from the text corresponding to each adapted heading.",
+      "Step 3: Format the extracted information into a structured report, transforming the narrative into a standardized summary."
+    ]
+  },
+  {
+    "input": "In issuing a warrant for Thomas Lubanga Dyilo, Pre-Trial Chamber I considered complementarity and gravity. It noted that Lubanga was not being investigated or prosecuted in the DRC for his role in conscripting and using child soldiers in armed conflict. Moreover, the Chamber underscored that these offenses were of sufficient gravity to justify action by the Court. Having found no national proceedings and significant gravity in Lubanga’s alleged crimes, the Chamber was satisfied that the case was admissible before the ICC.",
+    "output": "1. **Situation:** Alleged crimes by Thomas Lubanga Dyilo (conscripting child soldiers).\n2. **Mission:** To determine if a warrant of arrest is justified and the case is admissible.\n3. **Execution:** The Chamber finds no national proceedings are being conducted in the DRC against Lubanga for the conduct. The Chamber finds the offenses are of sufficient gravity.\n4. **Sustainment:** N/A.\n5. **Command & Control:** The Chamber is satisfied the case is admissible and issues the warrant.",
+    "technique": "Operations Order (OPORD) Five-Paragraph Structure (Military)",
+    "application_steps": [
+      "Step 1: Deconstruct the Chamber's reasoning into components that map to the five OPORD paragraphs.",
+      "Step 2: Assign the context ('Alleged crimes by Lubanga') to Situation and the objective ('determine if warrant is justified') to Mission.",
+      "Step 3: List the specific findings ('no national proceedings', 'sufficient gravity') under Execution, and state the final decision under Command & Control."
+    ]
+  },
+  {
+    "input": "The ICC Appeals Chamber clarified the burden on States raising admissibility challenges. The State must demonstrate three key elements: (1) that it is actively investigating the same case (meaning the same suspect and substantially the same conduct); (2) that it is willing to bring the suspect to justice (i.e. not shielding the person or otherwise acting in bad faith); and (3) that it is able to do so (having the capacity and means to carry out a genuine prosecution). Only if all three are proven will the ICC deem the case inadmissible.",
+    "output": "1. **Step 1: Demonstrate Investigation:** Prove active investigation of the same case (same suspect, same conduct).\n2. **Step 2: Demonstrate Willingness:** Prove the State is willing to bring the suspect to justice (not shielding).\n3. **Step 3: Demonstrate Ability:** Prove the State has the capacity for a genuine prosecution.\n4. **Outcome:** If all three steps are successfully completed, the case is deemed inadmissible.",
+    "technique": "Task Analysis (Pedagogy)",
+    "application_steps": [
+      "Step 1: Treat the complex task of 'a State successfully challenging admissibility' as a skill to be analyzed.",
+      "Step 2: Decompose the process into a sequence of smaller, required steps or elements that must be proven.",
+      "Step 3: Present these elements as a numbered list of steps, clarifying the process and the final outcome if all steps are met."
+    ]
+  },
+  {
+    "input": "“There is no extant investigation or prosecution in the Central African Republic concerning the conduct that forms the subject-matter of these proceedings. Accordingly, the first requirement of article 17 (1)(a) is inapplicable and the Chamber holds that the case is admissible before the Court.”",
+    "output": "“There is no extant investigation or prosecution in the CAR concerning the conduct that forms the subject-matter of these proceedings. Accordingly, the first requirement of article 17 (1)(a) is inapplicable and the TC holds that the case is admissible before the Court.”",
+    "technique": "Variable Renaming - Alpha Conversion (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify recurring or lengthy proper nouns: 'Central African Republic' and 'the Chamber'.",
+      "Step 2: Assign shorter, unambiguous variables: 'CAR' and 'TC' (for Trial Chamber).",
+      "Step 3: Substitute the original terms with the new variables to create a more concise version of the statement without altering its meaning."
+    ]
+  },
+  {
+    "input": "“The Appeals Chamber authorises the Prosecutor to investigate alleged crimes committed on the territory of Afghanistan since 1 May 2003, as well as other crimes sufficiently linked to that armed conflict. All allegations advanced meet the requisite gravity threshold, and the absence of genuine domestic proceedings satisfies the complementarity test under article 17.”",
+    "output": "To prove the contrapositive: If the Prosecutor is not authorized to investigate, then either the allegations do not meet the requisite gravity threshold, or there is not an absence of genuine domestic proceedings (i.e., genuine proceedings exist).",
+    "technique": "Proof by Contraposition (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Identify the original implication (P → Q): IF gravity threshold is met AND domestic proceedings are absent (P), THEN the Prosecutor is authorized to investigate (Q).",
+      "Step 2: Formulate the contrapositive (¬Q → ¬P) by negating both propositions and reversing their order.",
+      "Step 3: State the new, logically equivalent implication, noting that the negation of 'P AND Q' is '¬P OR ¬Q'."
+    ]
+  },
+  {
+    "input": "“Admissibility must be assessed on the basis of the facts existing at the time the challenge is litigated; speculative or future national proceedings cannot render a case inadmissible. The Court therefore rejects arguments founded on mere promises of future activity and affirms jurisdiction.”",
+    "output": "Simplified Rule: `is_admissible(Case, Time_T) <=> based_on_facts(Time_T)`. A consequence is `is_speculative(Proceedings, Time_T+1) => ¬inadmissible(Case, Time_T)`.",
+    "technique": "Algebraic Simplification (Mathematical Proof Theory)",
+    "application_steps": [
+      "Step 1: Abstract the core principles into algebraic or code-like terms.",
+      "Step 2: Express the first principle as an equivalence: admissibility at a specific time is based on facts at that time.",
+      "Step 3: Express the second principle as a consequence: speculative future proceedings do not lead to a finding of inadmissibility at the present time."
+    ]
+  },
+  {
+    "input": "“Having examined the material, the Chamber is satisfied that potential cases would be admissible under article 17, because domestic investigations remained limited to low-level perpetrators and showed no concrete steps directed at those most responsible. The Chamber therefore grants authorisation to investigate.”",
+    "output": "The logic is refactored into a function:\n- `assessAdmissibility(domesticInvestigations)` returns `true` IF `domesticInvestigations.scope == 'low-level_perpetrators'` AND `domesticInvestigations.steps_against_most_responsible == false`.\n- `grantAuthorisation()` is then called.",
+    "technique": "Extract Method - Code Refactoring (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the core logic as a distinct process: assessing admissibility based on the quality of domestic investigations.",
+      "Step 2: 'Extract' this logic into a function with a clear input (`domesticInvestigations`) and a boolean return value.",
+      "Step 3: Define the function's internal logic based on the two conditions mentioned (scope limited to low-level perpetrators, no steps against most responsible), and show the subsequent call to grant authorization."
+    ]
+  },
+  {
+    "input": "“The Appeals Chamber unanimously upholds the Tribunal’s primacy over national courts whenever domestic proceedings are designed to shield an accused or are not conducted independently or impartially. National inaction cannot defeat the Tribunal’s jurisdiction.”",
+    "output": "AC upholds Tribunal primacy over nat'l courts if domestic proceedings are sham (shielding/not impartial). Nat'l inaction can't defeat jurisdiction.",
+    "technique": "Code Minification - Code Compression (Software Engineering)",
+    "application_steps": [
+      "Step 1: Abbreviate recurring terms: 'Appeals Chamber' becomes 'AC', 'national' becomes 'nat'l'.",
+      "Step 2: Remove non-essential words like 'The', 'unanimously', 'whenever'.",
+      "Step 3: Condense the conditions 'designed to shield an accused or are not conducted independently or impartially' into the summary term 'sham' for maximum compression."
+    ]
+  },
+  {
+    "input": "“Unless there is a concrete conflict of jurisdictions, the case remains admissible. Article 17 favours national proceedings only where investigations or prosecutions are actually undertaken; absent such steps, a presumption in favour of domestic jurisdiction has no legal basis.”",
+    "output": "The `AdmissibilityAdapter` allows the `JusticeClient` to work with `NationalJurisdiction`. The adapter checks the `NationalJurisdiction` object; it only calls the `deferToNational()` method if `NationalJurisdiction.isUndertakingProceedings() == true`. Absent that, it defaults to the `caseIsAdmissible()` state of the ICC target interface.",
+    "technique": "Adapter Pattern - Design Pattern (Software Engineering)",
+    "application_steps": [
+      "Step 1: Identify the client (Justice system), the target interface (ICC admissibility), and the adaptee (a National Jurisdiction).",
+      "Step 2: Frame the logic of Article 17 as the 'Adapter' that translates the state of the adaptee into a compatible output for the client.",
+      "Step 3: Describe how the adapter's behavior is conditional: it only adapts for the national system if a specific condition ('proceedings are actually undertaken') is met."
+    ]
+  },
+  {
+    "input": "“Kenya respectfully submits that it is conducting comprehensive investigations into the post-election violence and intends to prosecute all persons bearing responsibility. The Government therefore requests the Court to find the present case inadmissible under article 17 (1)(a).”",
+    "output": "Kenya is conducting investigations. The investigations are comprehensive. They concern the post-election violence. Kenya intends to prosecute all responsible persons. Therefore, the Government requests a finding of inadmissibility.",
+    "technique": "Short Sentence Construction (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the distinct ideas within the two long sentences: the action, its quality, its subject, the intent, and the request.",
+      "Step 2: Break the text down into these separate single-idea units.",
+      "Step 3: Reconstruct the information as a series of short, simple sentences, each expressing a single core idea for improved readability."
+    ]
+  },
+  {
+    "input": "“This Application is brought to challenge the admissibility of the cases concerning Mr Saif Al-Islam Gaddafi and Mr Abdullah Al-Senussi. National investigations into murder, rape and other serious crimes are now at an advanced stage and are expected to be completed in the near future.”",
+    "output": "This Application challenges the admissibility of specific cases. The cases concern Mr Saif Al-Islam Gaddafi and Mr Abdullah Al-Senussi. National investigations are at an advanced stage. These investigations concern murder, rape, and other serious crimes.",
+    "technique": "Subject-Verb-Object Proximity (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the core subject-verb-object units in the text.",
+      "Step 2: Break the complex sentences into multiple shorter sentences.",
+      "Step 3: Restructure the new sentences to ensure the subject, verb, and object of each core idea are placed closely together, improving clarity and processing fluency."
+    ]
+  },
+  {
+    "input": "“Libya informs the Chamber that it is investigating Mr Gaddafi for serious offences under national law and is considering parallel proceedings for the same conduct alleged by the Court. It therefore seeks postponement of surrender pursuant to article 94 (1) while domestic proceedings continue.”",
+    "output": "Libya informs the Chamber of its actions. It is investigating Mr Gaddafi for serious offenses under national law. It is also considering parallel proceedings for the same conduct. Therefore, Libya seeks postponement of surrender while domestic proceedings continue.",
+    "technique": "Working Memory Support (Cognitive Science)",
+    "application_steps": [
+      "Step 1: Identify the different pieces of information being presented in the compound sentences.",
+      "Step 2: Separate the input into several distinct sentences, each presenting a single piece of new information.",
+      "Step 3: Present the context (informing the chamber) and the specific actions (investigating, considering) sequentially before stating the resulting action (seeks postponement), reducing cognitive load."
+    ]
+  },
+  {
+    "input": "“The OPCD notes allegations of Mr Gaddafi’s poor treatment and the prospect that he may be charged only with minor regulatory offences. Such circumstances raise serious doubt as to Libya’s willingness genuinely to prosecute the same conduct before its courts.”",
+    "output": "Allegations of Mr Gaddafi's poor treatment and the prospect of being charged with only minor offenses raise serious doubt about Libya's willingness to genuinely prosecute.",
+    "technique": "Subordinate Clause Reduction (Surgical Real)",
+    "application_steps": [
+      "Step 1: Identify the main subject: 'Allegations... and the prospect...'.",
+      "Step 2: Identify the main verb: 'raise'.",
+      "Step 3: Remove the intervening phrase 'Such circumstances' and directly connect the subject to its verb, creating a more concise and direct sentence."
+    ]
+  }
+] [
+  {
+    "input": "“The Chamber rejects Libya’s request for postponement and orders the State to surrender the suspect without delay. Article 94 cannot be invoked against a pending surrender request under article 89.”",
+    "output": "<COMPRESS:0.6> <LEXICAL:SIMPLE> The Chamber denies Libya's delay request and orders the State to surrender the suspect now. Article 94 does not apply to a surrender request under article 89.",
+    "technique": "Controllable Generation with Control Tokens (AI)",
+    "application_steps": [
+      "Step 1: Prepend control tokens <COMPRESS:0.6> and <LEXICAL:SIMPLE> to guide the transformation.",
+      "Step 2: Shorten the text by simplifying clauses: 'rejects Libya's request for postponement' becomes 'denies Libya's delay request'.",
+      "Step 3: Replace complex legal phrasing like 'cannot be invoked against' with the simpler 'does not apply to' for lexical simplicity."
+    ]
+  },
+  {
+    "input": "“Afghanistan notifies the Court of ongoing national investigations and proceedings and requests that the Prosecutor defer to its jurisdiction in accordance with article 18. The Government undertakes to provide regular updates on investigative steps.”",
+    "output": "Afghanistan notifies the Court of ongoing national investigations and requests the Prosecutor defer to its jurisdiction. The Government will provide regular updates on investigative steps.",
+    "technique": "Attention-Based Token Pruning (AI)",
+    "application_steps": [
+      "Step 1: Identify phrases with lower semantic weight or that are redundant, such as 'and proceedings' and 'in accordance with article 18'.",
+      "Step 2: Prune these less critical tokens from the sentence.",
+      "Step 3: Rephrase 'undertakes to provide' as the more direct 'will provide' to create a more concise statement."
+    ]
+  },
+  {
+    "input": "“The Prosecutor informs the Chamber that a deferral request has been received from the Government of Afghanistan concerning national proceedings. The Office is assessing the information provided to determine whether deferral is warranted under the complementarity regime.”",
+    "output": "The Prosecutor tells the Chamber a delay request was received from Afghanistan about its national cases. The Office is reviewing the information to see if a delay is justified.",
+    "technique": "Embedding-Based Lexical Simplification (AI)",
+    "application_steps": [
+      "Step 1: Identify complex or formal terms: 'informs', 'deferral request', 'received', 'concerning national proceedings', 'assessing', 'warranted'.",
+      "Step 2: Find simpler, context-aware synonyms: 'informs' -> 'tells', 'deferral request' -> 'delay request', 'concerning national proceedings' -> 'about its national cases', 'assessing' -> 'reviewing', 'warranted' -> 'justified'.",
+      "Step 3: Substitute the simpler words and phrases into the sentence to lower the overall reading difficulty."
+    ]
+  },
+  {
+    "input": "“Victims submit that the deferral request lacks specificity and fails to demonstrate concrete investigative activity. They seek clarification of scope and insist that the Court retain jurisdiction given the absence of effective domestic remedies.”",
+    "output": "To achieve the predictable outcome of 'Court retains jurisdiction', the Victims' Representatives calibrate the 'specificity' and 'concrete activity' variables of the deferral request to be below the required threshold. The absence of effective domestic remedies fixes the outcome.",
+    "technique": "Temperature Control in Mashing (Brewing Science)",
+    "application_steps": [
+      "Step 1: Frame the legal argument as an attempt to control key variables to achieve a desired, predictable outcome (retained jurisdiction).",
+      "Step 2: Identify the variables being 'controlled': the 'specificity' of the request and the demonstration of 'concrete investigative activity'.",
+      "Step 3: Rewrite the sentence to show how finding these variables do not meet the standard, combined with another fixed condition ('absence of effective domestic remedies'), produces the desired legal 'profile'."
+    ]
+  },
+  {
+    "input": "“The Libyan authorities request that the Chamber temporarily suspend the obligation to surrender Mr Gaddafi pending resolution of the admissibility challenge. They contend that article 95 allows postponement while national courts are seized of the matter.”",
+    "output": "To tailor the 'postponement' profile, the following legal components were added: 1) A pending admissibility challenge. 2) A contention that Article 95 allows postponement. The resulting profile is: A request to temporarily suspend the surrender obligation.",
+    "technique": "Water Chemistry Adjustment (Brewing Science)",
+    "application_steps": [
+      "Step 1: Analogize the legal arguments to 'minerals' or 'additives' that determine the final legal request.",
+      "Step 2: Isolate the two key arguments: the pending admissibility challenge and the contention regarding Article 95.",
+      "Step 3: Restructure the text to explicitly list these arguments as components being added to produce the final 'profile' of the request."
+    ]
+  },
+  {
+    "input": "“The Defence argues that article 95 cannot be invoked for a hypothetical challenge; its scope is limited to periods when an admissibility application is actually before the Court. The request therefore lacks merit and should be dismissed.”",
+    "output": "Core Distillate: The request lacks merit and should be dismissed. Impurity Removed (Reason): Article 95's scope is limited to actual, not hypothetical, challenges. It cannot be invoked in this instance.",
+    "technique": "Fractional Distillation (Distillation)",
+    "application_steps": [
+      "Step 1: Apply the logic of separating a core product from other components.",
+      "Step 2: Identify the main legal conclusion ('The request lacks merit and should be dismissed') as the pure 'distillate'.",
+      "Step 3: Isolate the legal reasoning ('Article 95 cannot be invoked for a hypothetical challenge') as the 'impurity' or 'fraction' that was analyzed to reach the conclusion."
+    ]
+  },
+  {
+    "input": "“Phase 3 of a preliminary examination focuses on the admissibility of potential cases in terms of complementarity and gravity. The Office collects information on relevant national proceedings and encourages genuine domestic action to obviate the need for the Court’s intervention.”",
+    "output": "PE(Phase3) → Focus(Admissibility(Complementarity, Gravity)). Action(Collect_Info) ∧ Action(Encourage_Domestic). Goal(Obviate_Intervention).",
+    "technique": "Algebraic Notation Coordinate System (Chess)",
+    "application_steps": [
+      "Step 1: Map the key concepts to concise terms: PE (Preliminary Examination), Focus, Admissibility, Complementarity, Gravity, Action, etc.",
+      "Step 2: Represent the relationships using arrows (→ for 'focuses on' or 'leads to') and logical operators (∧ for 'and').",
+      "Step 3: Arrange the components into a series of short, sequential formulas that capture the structure of the process."
+    ]
+  },
+  {
+    "input": "“The delegation met Mr Gaddafi in Zintan to ensure he was informed of his rights and representation. The visit confirmed that national authorities intended to continue domestic proceedings while the admissibility challenge was pending.”",
+    "output": "10(20) -> 30 => 40. (Translation: Delegation met Gaddafi (10) in Zintan (20) -> to inform him of rights (30) => it was confirmed national authorities intend to continue domestic proceedings (40)).",
+    "technique": "ICCF Numeric Notation Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Abstract the key events and purposes: Delegation met Gaddafi, in Zintan, to inform of rights, confirmed national intent.",
+      "Step 2: Assign a unique two-digit number to each concept: 10, 20, 30, 40.",
+      "Step 3: Represent the logical flow using these numbers and symbols (-> for 'for the purpose of', => for 'which resulted in confirming'), with a parenthetical translation."
+    ]
+  },
+  {
+    "input": "“Georgia reports investigative steps in the ‘Ethnic Cleansing Case’, noting that prosecutors have interviewed 7 000 witnesses and reviewed extensive documentary evidence. Further progress reports will follow as required by the Prosecutor.”",
+    "output": "```\n+----------------------------------------------------+\n| Georgia: Report on 'Ethnic Cleansing Case'         |\n+----------------------------------------------------+\n| Investigative Steps Taken:                         |\n|   - Witnesses Interviewed: 7,000                   |\n|   - Documentary Evidence: Extensive Review         |\n+----------------------------------------------------+\n| Future Action: Further progress reports will follow.|\n+----------------------------------------------------+\n```",
+    "technique": "FEN to ASCII Art Conversion (Chess)",
+    "application_steps": [
+      "Step 1: Interpret the technique as transforming a narrative report into a structured, visual text diagram.",
+      "Step 2: Extract the key components: the case name, the specific steps taken (interviews, evidence review), and the future action.",
+      "Step 3: Organize these components into a bordered, grid-like ASCII art table for clear, human-readable presentation."
+    ]
+  },
+  {
+    "input": "“The first step of the complementarity test is to identify a conflict of jurisdictions concerning the same case. Where no relevant domestic proceedings exist, the Office will consider the case admissible and may proceed to request investigative powers.”",
+    "output": "Step1:ID_CONFLICT -> Identify a conflict of jurisdictions. Condition:¬(Domestic_Proceedings) -> Where no domestic proceedings exist, the case is considered admissible. Action:REQ_POWERS -> The Office may then request investigative powers.",
+    "technique": "Move Intent Encoding System (Chess)",
+    "application_steps": [
+      "Step 1: Identify the key steps and conditions in the process.",
+      "Step 2: Create short, strategic purpose tags for each part: `ID_CONFLICT`, `¬(Domestic_Proceedings)` for the condition, and `REQ_POWERS` for the subsequent action.",
+      "Step 3: Link these tags to concise summaries of each part of the process, encoding the strategic intent and logical flow."
+    ]
+  },
+  {
+    "input": "The Majority found that the Philippines, as the State seeking deferral and asserting that it conducts the relevant investigations or prosecutions, bears the burden of proof. The Chamber held that the Philippines failed to show instances in which the Pre-Trial Chamber applied an incorrect admissibility threshold or standard.",
+    "output": "The unification `State_seeking_deferral` with `bears_burden_of_proof` is found to be TRUE. The unification `Philippines_submission` with `shows_PTC_error` is found to be FALSE.",
+    "technique": "Unification-Based Term Simplification (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Model the core legal findings as logical unifications.",
+      "Step 2: The first finding unifies the concept of a state seeking deferral with the concept of bearing the burden of proof.",
+      "Step 3: The second finding attempts to unify the state's submission with the requirement to show error, which fails. The output expresses these two logical outcomes."
+    ]
+  },
+  {
+    "input": "On 18 November 2021, the ICC Prosecutor informed the Chamber that the Republic of the Philippines had requested, pursuant to Article 18(2), that the investigation be deferred. On 26 January 2023, Pre-Trial Chamber I granted the Prosecutor’s request to resume investigations, concluding that the Philippines was not undertaking relevant investigations that would warrant deferral.",
+    "output": "Event(2021-11-18, Philippines_requests_deferral) → Event(2023-01-26, PTC_grants_resumption) where condition(`¬(Philippines_undertaking_relevant_investigations)`) is true.",
+    "technique": "Parametric Pattern Transformation (Declarative Programming)",
+    "application_steps": [
+      "Step 1: Define a generic transformation pattern for a sequence of events: `Event(@Date1, @Action1) → Event(@Date2, @Action2)`.",
+      "Step 2: Bind the variables to the specific dates and actions from the input text.",
+      "Step 3: Apply the rule to transform the narrative paragraph into a structured timeline, adding the key condition that led to the second event."
+    ]
+  },
+  {
+    "input": "The Prosecution seeks an expedited order under Article 18(2) authorising the resumption of its investigation in the Situation in Afghanistan, in light of the significant change of material circumstances which became manifest in August 2021. It submits that domestic proceedings cannot satisfy the requirements of Articles 17 and 18.",
+    "output": "Applying the function `(λSituation.request_resumption(Situation))` to the argument `(Afghanistan)` reduces to TRUE, because the evaluation of the situation's basis revealed a `significant_change_of_material_circumstances`.",
+    "technique": "Beta Reduction (Formal Methods)",
+    "application_steps": [
+      "Step 1: Model the Prosecution's action as a function application: a 'request_resumption' function applied to a 'Situation'.",
+      "Step 2: Identify the argument: 'Afghanistan'.",
+      "Step 3: The function application is resolved or 'reduced' to a required outcome (an expedited order) based on the reason provided ('significant change of material circumstances')."
+    ]
+  },
+  {
+    "input": "On 16 April 2020, the Prosecution informed the Chamber that the Government of Afghanistan had requested deferral and supplied voluminous supporting material. The Taliban’s assumption of de facto control on 15 August 2021 fundamentally altered the factual landscape relevant to admissibility.",
+    "output": "The high-level phrase 'fundamentally altered the factual landscape' is desugared into its primitive components: `(Govt_requested_deferral_on(Date1))` AND `(Taliban_assumed_control_on(Date2))`. The conjunction of these two events creates the alteration.",
+    "technique": "Desugaring (Formal Methods)",
+    "application_steps": [
+      "Step 1: Identify the high-level description of the change.",
+      "Step 2: Break this abstract concept down into the two primitive, concrete events that caused it: the initial deferral request and the subsequent assumption of control.",
+      "Step 3: Rewrite the sentence to show that the high-level phrase is syntactic sugar for the logical AND of these two pivotal events."
+    ]
+  },
+  {
+    "input": "The Prosecution therefore asks that the Pre-Trial Chamber promptly authorise the investigation’s resumption, notwithstanding the deferral request, because the domestic proceedings invoked by Afghanistan cannot be shown to be genuine within the meaning of Article 17.",
+    "output": "Applying the rule `IF ¬can_be_shown_to_be_genuine(Domestic_Proceedings) THEN authorize_resumption(Investigation)`: Because the domestic proceedings invoked by Afghanistan cannot be shown to be genuine, the Prosecution asks the PTC to authorize the resumption of the investigation.",
+    "technique": "Term Rewriting (Algebraic Simplification) (Formal Methods)",
+    "application_steps": [
+      "Step 1: Formulate a rewrite rule based on the text's logic: If domestic proceedings cannot be shown to be genuine, then authorize resumption.",
+      "Step 2: Match the input sentence's premise ('the domestic proceedings... cannot be shown to be genuine') to the IF condition of the rule.",
+      "Step 3: Rewrite the sentence by applying the THEN part of the rule, transforming the request into a direct cause-and-effect statement."
+    ]
+  },
+  {
+    "input": "On 11 December 2020, Prosecutor Fatou Bensouda announced the completion of the preliminary examination, having concluded that there was a reasonable basis to believe that war crimes and crimes against humanity were committed.",
+    "output": "Projection from 'OTP Preliminary Examination' to 'Reasonable Basis Map': The data points from the examination, when projected, landed on the map coordinates for 'war crimes' and 'crimes against humanity'. This successful projection resulted in the announcement of the examination's completion.",
+    "technique": "Map Projection Transformation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Treat the 'Reasonable Basis' test as a target map or coordinate system.",
+      "Step 2: Frame the findings of the preliminary examination as data points being projected onto this map.",
+      "Step 3: Describe the outcome in terms of projection: the data landed on the required coordinates, confirming a reasonable basis and allowing the process to move to the next stage."
+    ]
+  },
+  {
+    "input": "Subsequent engagements reminded Nigerian authorities of their legal obligations under the Rome Statute and stressed that the Office will move forward with investigations if genuine national efforts do not bridge existing impunity gaps.",
+    "output": "The individual features [1. reminders of legal obligations] and [2. stress that the Office will investigate if impunity gaps are not bridged] are aggregated into the single strategic unit: 'Encouragement of Genuine National Efforts'.",
+    "technique": "Aggregation (Geo/Spatial)",
+    "application_steps": [
+      "Step 1: Deconstruct the OTP's engagement strategy into its distinct components.",
+      "Step 2: List each of these components as a separate feature, analogous to individual geographic points.",
+      "Step 3: Combine these distinct features into a single, overarching concept that describes the strategy's purpose, similar to how scattered points are grouped into a named region."
+    ]
+  },
+  {
+    "input": "The Office requested the Venezuelan authorities to provide information on the nature, scope and progress of domestic proceedings corresponding to its subject-matter findings. On 30 November 2020, Venezuela supplied an initial response with four large annexes of national case data.",
+    "output": " - **S**ize: Four large annexes of data.\n - **A**ctivity: Venezuela supplied an initial response.\n - **L**egal Basis: OTP request for information.\n - **U**nit: Venezuelan authorities.\n - **T**ime: 30 November 2020.\n - **E**quipment/Content: National case data on nature, scope, and progress of domestic proceedings.",
+    "technique": "SALUTE Report Standardization (Military)",
+    "application_steps": [
+      "Step 1: Adapt the SALUTE acronym headings for a legal information exchange: Size->Size, Activity->Activity, Location->Legal Basis, Unit->Unit, Time->Time, Equipment->Equipment/Content.",
+      "Step 2: Extract the specific details from the text corresponding to each adapted heading.",
+      "Step 3: Format the extracted information into a structured report, transforming the narrative into a standardized summary of the exchange."
+    ]
+  },
+  {
+    "input": "Throughout the period, the Office engaged with Venezuelan authorities and other stakeholders to address admissibility issues, taking note of the UN Fact-Finding Mission’s report of 15 September 2020 and additional critiques of domestic accountability.",
+    "output": "1. **Situation:** Ongoing admissibility issues in the Venezuela situation.\n2. **Mission:** To address admissibility issues.\n3. **Execution:** The Office engaged with Venezuelan authorities and stakeholders. It took note of the UN FFM report and other critiques of domestic accountability.\n4. **Sustainment:** N/A.\n5. **Command & Control:** The process of addressing admissibility is ongoing through engagement and information gathering.",
+    "technique": "Operations Order (OPORD) Five-Paragraph Structure (Military)",
+    "application_steps": [
+      "Step 1: Deconstruct the Office's actions into components that map to the five OPORD paragraphs.",
+      "Step 2: Assign the context ('admissibility issues') to Situation and the objective ('To address admissibility issues') to Mission.",
+      "Step 3: List the specific actions ('engaged with authorities', 'taking note of reports') under Execution, and summarize the overall status under Command & Control."
+    ]
+  },
+  {
+    "input": "Phase 3 focuses on the admissibility of potential cases in terms of complementarity and gravity. In this phase, the Office will also continue to collect information on subject-matter jurisdiction whenever new or expanded allegations arise.",
+    "output": "1. **Primary Task:** Assess admissibility of potential cases.\n   - **Sub-task 1a:** Assess complementarity.\n   - **Sub-task 1b:** Assess gravity.\n2. **Contingent Task:** Continue to collect information on subject-matter jurisdiction.\n   - **Trigger:** When new or expanded allegations arise.",
+    "technique": "Task Analysis (Pedagogy)",
+    "application_steps": [
+      "Step 1: Treat 'Phase 3 of a preliminary examination' as a complex task to be analyzed.",
+      "Step 2: Decompose the phase into its primary task (assessing admissibility) and its contingent task (collecting info).",
+      "Step 3: Further break down the primary task into its two sub-tasks (complementarity and gravity) and specify the trigger for the contingent task, creating a clear procedural outline."
+    ]
+  }
+]
