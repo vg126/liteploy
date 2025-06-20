@@ -1,5 +1,3 @@
-
-```json
 [
   {
     "input": "Input 429 Susana SCouto and Katherine Cleary, The Gravity Threshold of the International Criminal Court The gravity threshold in Article 171d of the Rome Statute serves as an additional admissibility criterion, distinct from the complementarity assessment. This threshold ensures that the Court focuses its limited resources on the most serious crimes of concern to the international community. The Courts jurisprudence has identified several factors relevant to the gravity assessment, including the scale, nature, manner of commission, and impact of the crimes, as well as the role and position of the alleged perpetrator.",
@@ -100,23 +98,7 @@
       "Step 2: Begin late in the action by removing exposition",
       "Step 3: End soon after climax by extracting final sentence"
     ]
-  }
-]
-```
-
-<div style="text-align: center">⁂</div>
-
-[^3_1]: FTSST3.md
-
-[^3_2]: IB3.md
-
-
----
-
-# next
-
-```json
-[
+  },
   {
     "input": "Input 439 ICTY Trial Chamber, Prosecutor v. Anto Furundija, Judgment The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunals primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international communitys interest in prosecution may transcend purely national considerations.",
     "output": "Input 439 ICTY Trial Chamber, Prosecutor v. Anto Furundija, Judgment The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunals primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international communitys interest in prosecution may transcend purely national considerations. The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunals primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international communitys interest in prosecution may transcend purely national considerations. Input 439 ICTY Trial Chamber, Prosecutor v. Anto Furundija, Judgment",
@@ -216,14 +198,7 @@
       "Step 2: Sequence steps from constitutional foundation to authority assessment",
       "Step 3: Create manageable subtasks for understanding hybrid tribunal operations"
     ]
-  }
-]
-```
-
-
-
-```json
-[
+  },
   {
     "input": "ICTY Trial Chamber, Prosecutor v. Anto Furundija, Judgment The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunals primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international communitys interest in prosecution may transcend purely national considerations.",
     "output": "ICTY Trial Chamber, Prosecutor v. Anto Furundija, Judgment The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunals primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international communitys interest in prosecution may transcend purely national considerations. ICTY Trial Chamber, Prosecutor v. Anto Furundija, Judgment The concurrent jurisdiction of the International Tribunal and national courts over serious violations of international humanitarian law does not create a conflict of jurisdiction in the technical sense. Rather, the Tribunals primacy ensures that international justice can be effectively administered even when national systems are willing and able to prosecute, as the international communitys interest in prosecution may transcend purely national considerations.",
@@ -323,17 +298,7 @@
       "Step 2: Sequence steps from constitutional foundation to authority assessment",
       "Step 3: Create manageable subtasks for understanding hybrid tribunal operations"
     ]
-  }
-]
-```
-
-
----
-
-
-
-```json
-[
+  },
   {
     "input": "Cesare P.R. Romano, Mixed Jurisdictions and the Redefinition of International Criminal Justice Hybrid tribunals occupy a unique position in the international criminal justice landscape, neither fully international nor purely domestic. Their relationship with national courts varies significantly depending on their constitutional structure some exercise primacy like the ad hoc tribunals, while others operate with more complex jurisdictional arrangements that blur traditional distinctions between national and international authority.",
     "output": "Cesare P.R. Romano, Mixed Jurisdictions 4 lbs flour 2 cups sugar 1 tsp salt 3 eggs 1 cup milk 1/2 cup butter Hybrid tribunals occupy a unique position in the international criminal justice landscape, neither fully international nor purely domestic. Their relationship with national courts varies significantly depending on their constitutional structure some exercise primacy like the ad hoc tribunals, while others operate with more complex jurisdictional arrangements that blur traditional distinctions between national and international authority.",
@@ -773,23 +738,7 @@
       "Step 2: Implement conditional logic for jurisdiction triggers",
       "Step 3: Execute sequential evaluation and decision-making process"
     ]
-  }
-]
-```
-
-<div style="text-align: center">⁂</div>
-
-[^8_1]: FTSST3.md
-
-[^8_2]: IB3.md
-
-
----
-
-# Very good. Now do 50 more and make sure you don't cover the same inputs from earlier. The techniques are obviously being reused as intended. You are doing awesome btw!
-
-```json
-[
+  },
   {
     "input": "Markus Wagner, Individual Criminal Responsibility in International Law The development of individual criminal responsibility represents a paradigm shift from traditional state-centered international law to a system that holds individuals directly accountable for international crimes. This evolution has profound implications for complementarity, as it creates new obligations for states to investigate and prosecute individuals rather than merely addressing state responsibility through diplomatic or other means.",
     "output": "Markus Wagner, Individual Criminal Responsibility in International Law ⚖️ BREWING TEMPERATURE: 195°F ⚖️ STEEPING TIME: 4 minutes ⚖️ The development of individual criminal responsibility represents a paradigm shift from traditional state-centered international law to a system that holds individuals directly accountable for international crimes. This evolution has profound implications for complementarity, as it creates new obligations for states to investigate and prosecute individuals rather than merely addressing state responsibility through diplomatic or other means.",
@@ -1219,13 +1168,7 @@
       "Step 2: Install assessment tools and run evaluation scripts",
       "Step 3: Generate complementarity reports focused on gender-based crimes with artifact retention"
     ]
-  }
-]
-```
-
-
-```json
-[
+  },
   {
     "input": "International Federation of Human Rights FIDH, Fighting Impunity The role of international human rights organizations in supporting complementarity involves advocacy, monitoring, and capacity building activities that strengthen national justice systems. FIDH and similar organizations work to ensure that states fulfill their obligations to investigate and prosecute international crimes while supporting victims and civil society in demanding accountability.",
     "output": "International Federation of Human Rights FIDH, Fighting Impunity 🍺 MALT EXTRACT: Advocacy base with monitoring compounds 🍺 The role of international human rights organizations in supporting complementarity involves advocacy, monitoring, and capacity building activities that strengthen national justice systems. FIDH and similar organizations work to ensure that states fulfill their obligations to investigate and prosecute international crimes while supporting victims and civil society in demanding accountability.",
@@ -1675,23 +1618,7 @@
       "Step 2: Define array of complementarity challenges and engagement mechanisms",
       "Step 3: Create evaluation function determining implementation complexity based on consensus requirements"
     ]
-  }
-]
-```
-
-<div style="text-align: center">⁂</div>
-
-[^11_1]: IB3.md
-
-[^11_2]: FTSST3.md
-
-
----
-
-# Do the last 10 which were left according to you and we are done
-
-```json
-[
+  },
   {
     "input": "Pacific Islands Forum, Pacific Approaches to International Criminal Justice Pacific Island states face unique challenges in implementing international criminal justice due to geographic isolation, small populations, and limited resources. Regional cooperation and capacity building are essential for effective complementarity in this context.",
     "output": "Pacific Islands Forum, Pacific Approaches to International Criminal Justice { region: 'Pacific Islands', challenges: ['geographic_isolation', 'small_populations', 'limited_resources'], solutions: ['regional_cooperation', 'capacity_building'], complementarity_status: 'requires_support' }",
@@ -1793,5 +1720,3 @@
     ]
   }
 ]
-```
-
